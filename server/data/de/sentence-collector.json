@@ -1,0 +1,90 @@
+[
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Gestern hatten wir Nachtisch, heute dafür Vorsuppe.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "35651c70fd74467550f82709ac85c2786f19f8653f333d69b3f800ebdd872239",
+    "last_modified": 1546618501189
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Das kann man so nicht sagen, da sollte man differenzieren.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "46f89b07f28b64902b81aa75fc9da7721b6ced6456b5970ac41a63f192d483ad",
+    "last_modified": 1546618492347
+  },
+  {
+    "valid": ["admin", "AffeAli"],
+    "invalid": ["davidak"],
+    "approved": true,
+    "sentence": "Manchmal läutft‘s besser.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": false,
+    "id": "301d23e7bb657e7706d06a487227405d6a56432002a91a0b848b66539ed75110",
+    "last_modified": 1546618473526
+  },
+  {
+    "valid": ["davidak", "witzwitz", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Jetzt ist es ruhig und alle arbeiten.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c4fe657e16bcb91abdcff0cdafe65d95381850f12e8eeca984837204a7c21ce0",
+    "last_modified": 1546618458292
+  },
+  {
+    "valid": ["davidak", "witzwitz", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Produktivität kann man nicht mit Zeit messen.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c1720ada4c278d352964b581e7e69558a00f3a4982fc2b73f048bfc3678da370",
+    "last_modified": 1546618458277
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Angst zu haben ist keine Scham.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "c2321ef5565c45b400f53a54197d9a21d69bc3aaae870d8be8943e0f9977664a",
+    "last_modified": 1546618414747
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Wenn man über Nacht berühmt wird, kann man am nächsten Tag wieder verschwinden.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "46a7d653bfcff05a9f6e9d6710902b28dcff1157a92f3e9d1118caf728516eed",
+    "last_modified": 1546618414726
+  },
+  {
+    "valid": ["admin", "a", "davidak"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Der Eigentümer des Bienenschwarms darf bei der Verfolgung fremde Grundstücke betreten.",
+    "Sentences_Meta_UserVote_a": true,
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "5f92f6f3ed5c6bc4c7edf4e7bec3f7fbfb9f46dbbac69422d214564839ca1e73",
+    "last_modified": 1546503369978
+  }
+]
