@@ -1,0 +1,47 @@
+[
+  {
+    "valid": ["prof_satwinder", "Ashima", "satwinder"],
+    "source": "Self-written ",
+    "invalid": [],
+    "approved": true,
+    "sentence": "ਮੈਂ ਵੀ ਠੀਕ ਹੀ ਹਾਂ",
+    "username": "prof_satwinder",
+    "approvalDate": 1548459007557,
+    "Sentences_Meta_UserVote_Ashima": true,
+    "Sentences_Meta_UserVote_satwinder": true,
+    "Sentences_Meta_UserVoteDate_satwinder": 1548459007557,
+    "Sentences_Meta_UserVote_prof_satwinder": true,
+    "id": "8349aa984491cd0ce463f6dc49c9b436294b242c25e25e3beb0d8252d4340a27",
+    "last_modified": 1548459007597
+  },
+  {
+    "valid": ["prof_satwinder", "Ashima", "satwinder"],
+    "source": "Self-written ",
+    "invalid": [],
+    "approved": true,
+    "sentence": "ਬਸ ਥੋੜ੍ਹਾ ਸਿਰ ਦਰਦ ਹੋ ਰਿਹਾ ਹੈ",
+    "username": "prof_satwinder",
+    "approvalDate": 1548459007557,
+    "Sentences_Meta_UserVote_Ashima": true,
+    "Sentences_Meta_UserVote_satwinder": true,
+    "Sentences_Meta_UserVoteDate_satwinder": 1548459007557,
+    "Sentences_Meta_UserVote_prof_satwinder": true,
+    "id": "8477fc6b44f91e2f9cabbba7b95f5a6e991920b3923cb33aafe83a9f13e3eb11",
+    "last_modified": 1548459007577
+  },
+  {
+    "valid": ["prof_satwinder", "Ashima", "satwinder"],
+    "source": "Self-written ",
+    "invalid": [],
+    "approved": true,
+    "sentence": "ਤੁਸੀਂ ਕੋਈ ਦਵਾਈ ਨਹੀਂ ਲਈ",
+    "username": "prof_satwinder",
+    "approvalDate": 1548459007557,
+    "Sentences_Meta_UserVote_Ashima": true,
+    "Sentences_Meta_UserVote_satwinder": true,
+    "Sentences_Meta_UserVoteDate_satwinder": 1548459007557,
+    "Sentences_Meta_UserVote_prof_satwinder": true,
+    "id": "002c76ffffe96ceebdcdac20448afabd5334794715ee095b096406386433105d",
+    "last_modified": 1548459007555
+  }
+]

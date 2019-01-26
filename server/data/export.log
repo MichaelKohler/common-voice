@@ -1,0 +1,275 @@
+Starting export for ab..
+Starting export for ace..
+Starting export for ady..
+Starting export for aa..
+Starting export for af..
+Starting export for ak..
+Starting export for sq..
+Starting export for am..
+Starting export for ar..
+Starting export for an..
+Starting export for hy..
+Starting export for as..
+Starting export for ast..
+Starting export for av..
+Starting export for ae..
+Starting export for ay..
+Starting export for az..
+Starting export for bm..
+Starting export for ba..
+Starting export for eu..
+Starting export for be..
+Starting export for bn..
+Starting export for bh..
+Starting export for bi..
+Starting export for bs..
+Starting export for br..
+Starting export for bg..
+Starting export for my..
+Starting export for ca..
+Starting export for ch..
+Starting export for ce..
+Starting export for ny..
+Starting export for zh-CN..
+Starting export for zh-HK..
+Starting export for zh-TW..
+Starting export for cv..
+Starting export for kw..
+Starting export for co..
+Starting export for cr..
+Starting export for hr..
+Starting export for cs..
+Starting export for da..
+Starting export for dv..
+Starting export for nl..
+Starting export for dz..
+Starting export for mhr..
+Starting export for en..
+  - Found 187 approved sentences
+  - Filtered 23 sentences [ 'Choices you make about your product’s technical architecture also affect how easily and quickly you can adjust the amount of resources you use directly.',
+  'These include, controlling the kinds of computing resources you use, and choosing how electricity is generated to power these resources.',
+  'We also cover options for running infrastructure on renewable power, and what options you have when you don’t have direct control over where power comes from.',
+  'We also end up emitting CO2 when we burn fossil fuels to move actual physical things around, like people, parcels, and so on, in jets and cars for business travel, and so on.',
+  'We also emit CO2 when we burn fossil fuels to keep places we work well-lit and depending where you are in the world warm or cool enough to work in.',
+  'In short, CO2 emissions occur whenever we generate electricity, and we haven’t used renewable energy to do so.',
+  'And right now, about majority of the energy used to power the the servers that run the web comes on fossil fuels.',
+  'Historically the most common fossil fuel we’ve used has also been coal, which about the worst fuel we could be burning, environmentally speaking.',
+  'It’s been chosen before largely because it’s cheap, and within relatively easy access, but it kills more people per kilowatt hour than any other commonly used fuel.',
+  'It also emits more radioactive matter than any other fuel (including nuclear), and in most cases, emits the most carbon dioxide per unit of electricity.',
+  'Generally speaking, if we want to generate electricity without emitting CO2 in the process, renewables are the way to go.',
+  'This means more waiting for the image to arrive, more infrastructure to power, and therefore more CO2 emitted.',
+  'While we might not be able to stop using the web, we can change how we build and power it, to make it planet friendly as well as user friendly.',
+  'All the content in the Planet Friendly Web Guide is available under the Creative Commons Attribution Share Alike 4.0 license, and the source code for this site, and all the text is freely avaiable on Github.',
+  'So a relatively fast 4G connection typically uses more energy to download the same amount of data as a 3G.',
+  'Unsurprisingly, it takes network infrastructure to move data from the servers you run, to a user’s device.',
+  'So, transmitting the same video file over a wired connection uses a different amount to sending it wirelessly.',
+  'On top of that, different speeds of wireless connection also use different amounts of power.',
+  'With a forthcoming move to 5G, connections are likely to use more power still.',
+  'Even before we take into account their typically reduced range, meaning we’ll need more of base stations running to cover the same area.',
+  'You typically do this directly, by having your own server in a rack you rent in a datacenter, or indirectly, paying per compute-unit with cloud computing, or a software as a service offering.',
+  'In addition to taking infrastructure to move data from your servers to your users, you need power to run your own servers.',
+  'It is also the biggest machine on earth, and it runs mostly on coal, which is bad news for our climate.' ]
+  - Found 164 valid sentences
+  - Writing all meta data to ../voice-web/server/data/en/sentence-collector.json..
+  - Cleaning up sentences
+  - Getting CV sentences for en..
+  - Got 5549 CV sentences..
+  - Got 164 sentences not already existing in CV..
+  - Writing all sentences to ../voice-web/server/data/en/sentence-collector.txt..
+Starting export for myv..
+Starting export for eo..
+Starting export for et..
+Starting export for ee..
+Starting export for fo..
+Starting export for fj..
+Starting export for fi..
+Starting export for fr..
+  - Found 24 approved sentences
+  - Found 24 valid sentences
+  - Writing all meta data to ../voice-web/server/data/fr/sentence-collector.json..
+  - Cleaning up sentences
+  - Getting CV sentences for fr..
+  - Got 36457 CV sentences..
+  - Got 20 sentences not already existing in CV..
+  - Writing all sentences to ../voice-web/server/data/fr/sentence-collector.txt..
+Starting export for fy-NL..
+Starting export for ff..
+Starting export for gl..
+Starting export for lg..
+Starting export for ka..
+Starting export for de..
+  - Found 15 approved sentences
+  - Found 15 valid sentences
+  - Writing all meta data to ../voice-web/server/data/de/sentence-collector.json..
+  - Cleaning up sentences
+  - Getting CV sentences for de..
+  - Got 6913 CV sentences..
+  - Got 15 sentences not already existing in CV..
+  - Writing all sentences to ../voice-web/server/data/de/sentence-collector.txt..
+Starting export for el..
+Starting export for gn..
+Starting export for gu..
+Starting export for ht..
+Starting export for cnh..
+Starting export for ha..
+Starting export for he..
+Starting export for hz..
+Starting export for hi..
+Starting export for ho..
+Starting export for hu..
+Starting export for is..
+Starting export for io..
+Starting export for ig..
+Starting export for id..
+Starting export for ia..
+Starting export for ie..
+Starting export for iu..
+Starting export for ik..
+Starting export for ga..
+Starting export for ga-IE..
+Starting export for it..
+Starting export for ja..
+Starting export for jv..
+Starting export for kab..
+Starting export for kl..
+Starting export for kn..
+Starting export for kr..
+Starting export for cak..
+Starting export for ks..
+Starting export for kk..
+Starting export for km..
+Starting export for ki..
+Starting export for rw..
+Starting export for rn..
+Starting export for kv..
+Starting export for kpv..
+Starting export for kg..
+Starting export for ko..
+Starting export for ku..
+Starting export for kj..
+Starting export for ky..
+Starting export for lo..
+Starting export for la..
+Starting export for lv..
+Starting export for li..
+Starting export for ln..
+Starting export for lt..
+Starting export for dsb..
+Starting export for lu..
+Starting export for lb..
+Starting export for mk..
+Starting export for mg..
+Starting export for ms..
+Starting export for ml..
+Starting export for mt..
+Starting export for gv..
+Starting export for mr..
+Starting export for mh..
+Starting export for mdf..
+Starting export for mn..
+Starting export for mi..
+Starting export for na..
+Starting export for nv..
+Starting export for ng..
+Starting export for ne..
+Starting export for ne-NP..
+Starting export for nd..
+Starting export for se..
+Starting export for no..
+Starting export for nn-NO..
+Starting export for nb..
+Starting export for nb-NO..
+Starting export for nn..
+Starting export for ii..
+Starting export for oc..
+Starting export for oj..
+Starting export for cu..
+Starting export for or..
+Starting export for om..
+Starting export for os..
+Starting export for pa..
+  - Found 3 approved sentences
+  - Found 3 valid sentences
+  - Writing all meta data to ../voice-web/server/data/pa/sentence-collector.json..
+  - Cleaning up sentences
+  - Getting CV sentences for pa..
+  - Got 0 CV sentences..
+  - Got 3 sentences not already existing in CV..
+  - Writing all sentences to ../voice-web/server/data/pa/sentence-collector.txt..
+Starting export for ps..
+Starting export for fa..
+Starting export for pl..
+Starting export for pt..
+Starting export for pi..
+Starting export for qu..
+Starting export for ro..
+Starting export for rm..
+Starting export for rm-sursilv..
+Starting export for bxr..
+Starting export for ru..
+Starting export for sm..
+Starting export for sg..
+Starting export for sa..
+Starting export for sc..
+Starting export for gd..
+Starting export for sr..
+Starting export for sn..
+Starting export for sd..
+Starting export for si..
+Starting export for sk..
+Starting export for sl..
+Starting export for so..
+Starting export for nr..
+Starting export for st..
+Starting export for es..
+  - Found 10 approved sentences
+  - Found 10 valid sentences
+  - Writing all meta data to ../voice-web/server/data/es/sentence-collector.json..
+  - Cleaning up sentences
+  - Getting CV sentences for es..
+  - Got 0 CV sentences..
+  - Got 10 sentences not already existing in CV..
+  - Writing all sentences to ../voice-web/server/data/es/sentence-collector.txt..
+Starting export for su..
+Starting export for sw..
+Starting export for ss..
+Starting export for sv..
+Starting export for sv-SE..
+Starting export for tl..
+Starting export for ty..
+Starting export for tg..
+Starting export for ta..
+Starting export for tt..
+Starting export for te..
+Starting export for th..
+Starting export for bo..
+Starting export for ti..
+Starting export for to..
+Starting export for ts..
+Starting export for tn..
+Starting export for tr..
+Starting export for tk..
+Starting export for tw..
+Starting export for uby..
+Starting export for udm..
+Starting export for uk..
+Starting export for hsb..
+Starting export for ur..
+Starting export for ug..
+Starting export for uz..
+Starting export for ve..
+Starting export for vi..
+Starting export for vo..
+Starting export for vot..
+Starting export for wa..
+Starting export for cy..
+Starting export for fy..
+Starting export for mrj..
+Starting export for wo..
+Starting export for xh..
+Starting export for yi..
+Starting export for yo..
+Starting export for za..
+Starting export for zu..
+Duration to export everything (ms):  114286
+✨  Done in 121.59s.

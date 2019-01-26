@@ -1,0 +1,10 @@
+Estoy probando este curioso artefacto
+Frase número dos.
+Frase número tres
+Frase número uno.
+Frase para probar la validación por votos
+Me gusta ir a la piscina.
+Mi camiseta es de color amarillo.
+Realmente deberíamos tener dos positivos
+Y luego tener tres votos totales
+¿Vamos a la playa?
