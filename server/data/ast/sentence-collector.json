@@ -1,0 +1,14 @@
+[
+  {
+    "valid": [],
+    "source": "-",
+    "invalid": ["mkohleradmin"],
+    "sentence": "dfasdfasdf",
+    "username": "mkohleradmin",
+    "createdAt": 1548454104905,
+    "Sentences_Meta_UserVote_mkohleradmin": false,
+    "Sentences_Meta_UserVoteDate_mkohleradmin": 1548454114503,
+    "id": "288b12a8600419f900747353bcc50d6f3c85290ba0f3decdec8b3401a2abea97",
+    "last_modified": 1548454114854
+  }
+]

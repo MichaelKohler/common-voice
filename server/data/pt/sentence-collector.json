@@ -1,0 +1,1258 @@
+[
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Eu não gosto muito de fast-food.",
+    "username": "noname",
+    "createdAt": 1547647760535,
+    "id": "e4a9c17dfd156121bd779fbc065088f98e4d398301f7292158b52e8a0c807b53",
+    "last_modified": 1547647761343
+  },
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Poderíamos ir ao shopping.",
+    "username": "noname",
+    "createdAt": 1547647760534,
+    "id": "524184ab58009459cacf13af870f82479f96ffa4ac195f72f53d6160e028ce50",
+    "last_modified": 1547647761321
+  },
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Qual o problema?",
+    "username": "noname",
+    "createdAt": 1547647760534,
+    "id": "f422b0c2e29b8081fa5c65f94c4d9e4e0330b0857146b426723309e335f72ea3",
+    "last_modified": 1547647761304
+  },
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Feliz Natal!",
+    "username": "noname",
+    "createdAt": 1547647760533,
+    "id": "4399c288e3c5deb5fa20f70a135e42232a5c84151d3a360feb001ce1769f5ba5",
+    "last_modified": 1547647761287
+  },
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Estou com fome.",
+    "username": "noname",
+    "createdAt": 1547647760533,
+    "id": "6f03b2ef56214e874c3d66fedfa55ed5bb4840ebac50c4c011f41a6f058ae8c1",
+    "last_modified": 1547647761269
+  },
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Bom trabalho!",
+    "username": "noname",
+    "createdAt": 1547647760531,
+    "id": "8d70d97477a3bcb6bbf1642668287a7ed7f7fe8319e711db6c09a7d4ba697586",
+    "last_modified": 1547647761247
+  },
+  {
+    "valid": [],
+    "source": "self authorship",
+    "invalid": [],
+    "sentence": "Poderia abaixar o volume, por favor?",
+    "username": "noname",
+    "createdAt": 1547647760530,
+    "id": "4fc2e1b94661768636b599b180db0b6e0895ac99fc19c17bea7503e26f548ca4",
+    "last_modified": 1547647761225
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Você considera estudar fora?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "8b9399e58560339441ed9fd4fd15f78fb9da5692716341b86c0ea0ed53d9f982",
+    "last_modified": 1547645820947
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu gosto dessa marca.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9955b1b5f753ed9dc88175d6b8d8b36070227c100821dcabb48ff87098059967",
+    "last_modified": 1547645820928
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Qual serviço de streaming você usa?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "cb2374af41e90aff31e53284a0547674ac365b4547455725548855aec835e163",
+    "last_modified": 1547645820909
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Inteligência Artificial.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9e47992591da0e2ef32832de084ac1d98400605c8d53883a37431a3d5b299b7f",
+    "last_modified": 1547645811231
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ele atuou em vários filmes.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "99cf2372d5bea0c81e479d9874e696ce8acfc785839cf2574f3eae6fc5240af6",
+    "last_modified": 1547645811216
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Quanto custa esse notebook?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "2d209114d17daea0b8b2c9258d1d98b0e66acfb1a5812fd302fed77ddc5951ba",
+    "last_modified": 1547645811201
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Cinco pessoas foram liberadas.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "cf02b258e9937d61819d11eecba1d4c3c5b5dbb1c2985599f5411903a0c01b1f",
+    "last_modified": 1547645799232
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O velho caminho.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "73cff4843ad8b1c487280193114144c9a490f6e60655e1376e22f0fb76dd3238",
+    "last_modified": 1547645799213
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Em breve vamos falar com o prefeito.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "58ae1f7b62a984a95bce0a974e2b804107b1d4c50271318973390221134cfacf",
+    "last_modified": 1547645799196
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "As pessoas estão olhando para ele.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "22eda86bf8d00c88b95cfb7944e35659e42a3aceb0799c9cadd5ddb2ef67020a",
+    "last_modified": 1547645787849
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Fomos ao shopping ontem.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9be75a28a5ecf381a25720d431f1a460c27e453d2de2fc631ff044a713fb1b1e",
+    "last_modified": 1547645787832
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Fique ligado!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "71bc681618a031f54236d6f935392ce6fdf059023a6cf1f89a2971d869ce779b",
+    "last_modified": 1547645778387
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O futuro é agora.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "0652a6843578e8744adbaa03803f47cf604cd6e0e964cb0d6cb6ca28db569f57",
+    "last_modified": 1547645778371
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Você ainda ouve música?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "e01b1b2baf8388ce3d744b56261e91e9813916e62d9cd9f3928ae35e8fad086a",
+    "last_modified": 1547645769934
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A maior produção do ano em arroz.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "731861f96089339fb3c8c4b80f00e6ba9177bcc4c75ff532a450f53e2be0681b",
+    "last_modified": 1547645769915
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A ferramenta é pesada.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "e1a7eac1d16f475a1c01123b74964c75dee97214d4f771e7d5fe8f521ce4a8dc",
+    "last_modified": 1547645757714
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A caixa está sobre a mesa.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9bfde0a759d3931234cb45aff9a6f276a7c8f1cdcfddd7246fb393233f06156f",
+    "last_modified": 1547645757698
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ao vivo do Rio de Janeiro.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "d5674722e5aaa6f6f04276938bbcdb14a5867465fae484db9a97eff66056e521",
+    "last_modified": 1547645741247
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Todo tipo de coisa.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9c78ebef74709aa778c84480b6d87c3cb45106b209c26af217ea9bbcc621b418",
+    "last_modified": 1547645741225
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Essa parte é fácil.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "beb5d9880a8d7d998021d4450ec531d06cd2c0368bacbb3ed06072b1ab6986a0",
+    "last_modified": 1547645741199
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Os profissionais ficaram felizes.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "1028187f47f36de9bd72f3b75ff973c148bff96de46b081512d0edc5a970bd45",
+    "last_modified": 1547645722203
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O médico falou o mesmo.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "c5dcaf8aceb8de65aaf200e1cbcc52a6dda29fe8a080ac8223b8966c2799b751",
+    "last_modified": 1547645722189
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu não me sinto bem.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "e858702d526637a7703808843e421ffd174cdbe17824dc4fa137fd0832924b18",
+    "last_modified": 1547644914026
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": ["noname"],
+    "sentence": "A determinação faz o homen.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": false,
+    "id": "57efa6422c6ec64787578adb3c8482279b95175aeec0116d50633410f635a6ac",
+    "last_modified": 1547644889884
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Qual é a melhor solução para esse problema?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "32876067a86c273fe8e82683ec2238dff51a233cf1e39f415ca83ab4f6a07537",
+    "last_modified": 1547644889866
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O aplicativo foi baixado.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "a05d5abb74ac576734aa80c7224fc65ab7368270ec0fc5a74801c32d11ad3c27",
+    "last_modified": 1547644889849
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Mude a posição do mouse.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "c5a443468691c2df7f7c26b7e6be001db811163f528952cba28bf750bfc07b78",
+    "last_modified": 1547644878826
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": ["noname"],
+    "sentence": "Matenha aberto por cinco dias.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": false,
+    "id": "dc0a54c0b991d95a65760d611791d43a379b0d023379e70ef41844ed013c8c46",
+    "last_modified": 1547644872757
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu acho que não.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "d97e2bac95c2df7f7c4e9a6eabb3e199d86486c6977a975cf563d1e707f9be76",
+    "last_modified": 1547644866060
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O cheiro é estranho.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "0c6e3800b1cf51f4be60c8787e0d0910cfa5d8b86c8e637a1c2670f24576b190",
+    "last_modified": 1547644857984
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Para mim é difícil.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "2f5334997999785556108a1be92e22c50a7e4528bc5d43ceb6820c8f4af31976",
+    "last_modified": 1547644857967
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Essa cor é bonita.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "5ee9c115176220722a2d17482075a7d9cd894d8b5f3ee01636ef7fbdea486980",
+    "last_modified": 1547644857950
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Minha condição é séria.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "8d776111d82dec7540eac9d4dc78908e504e4152cdacd636c89d32043ef49f6e",
+    "last_modified": 1547644847093
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": ["noname"],
+    "sentence": "Projetor de tela.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": false,
+    "id": "e4468834eea13a034cb878f77a1fd0d795dbbdcfd79e757636d3f485c58b6632",
+    "last_modified": 1547644840558
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Este item custa cem reais.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "514f19243d0d0b84454e992cb34e34a513933c3d2439406f662804ee4e7912e6",
+    "last_modified": 1547644833330
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Dois mil e dezoito.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "aecc32768a132c7bd9763204decc2c625658ba5e414195d16dca91401058c4e7",
+    "last_modified": 1547644833311
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Um carro vermelho.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "f203047bf61f68ce70a1b376a566d05eed412c8df9bc36e6a3614ed36b6a94cb",
+    "last_modified": 1547644833294
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A bola é amarela.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "66a865f52af39f3a6e24205d77b4f3d6f11cef422500ef2e78f6cd97025dc45a",
+    "last_modified": 1547644821052
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": ["noname"],
+    "sentence": "Voçê irá saber no próximo ano.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": false,
+    "id": "8acdd76a415b4d7ada0bcfab9fa7babf21cdafafd4967192734cd164483e3c0f",
+    "last_modified": 1547644799465
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O meu celular é da Samsung.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "880d20fa513236e2d509ed4c87ccbcf23f2a8f8d5f6f928f785c0fc153e16f95",
+    "last_modified": 1547644799446
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Dois amigos foram notificados do acontecido.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "8026b7b124d318198f314a53afcf483d6d13d84d29da9e5d30373bad605a1856",
+    "last_modified": 1547644782513
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O nome dela é Clara.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "70c705da444218029f6e94771be1a6d8ecb58b29c87152b63e190561790a01da",
+    "last_modified": 1547644782498
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "É uma piada.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "04b83991152a220d3508d55adf40c8f8cfbea4ca925bbc81941d272cb8217e7a",
+    "last_modified": 1547644766599
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O esposo dela é engenheiro.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "902939ebc251eb2cde60ca97d7bb6e64da7604de3f4318e4f2be9c3351a5350e",
+    "last_modified": 1547644766581
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu não consigo parar de rir.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "be4ad1dfeef85ab5342fdb6608c2081073510238f06d85d4a4bb16f2be3cddca",
+    "last_modified": 1547644766566
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Você gosta de futebol?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "50717fbfab4a185c8e85d7ccf47a2d3b3da176ab49ee3f7b687c1fafb2e4ca9a",
+    "last_modified": 1547644750417
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Para que time você torce?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "0fb005ad7fcf969844b09fa64ab9af4b81a08fbd9c65d66eff7ea6f0f4710077",
+    "last_modified": 1547644750402
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ele se move muito rápido!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "95ec35e356489d906b577b34a42516c845d9c631ecc5fa9f51fae1fc5d17b6a4",
+    "last_modified": 1547644750387
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Gravação de voz.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "66f3877a537c351fd2d486689746d8ea2286ecbf59cafffa317646e1dbf45d21",
+    "last_modified": 1547644739217
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Claro que sim!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9f6c02f695eba4d423b238ab53db2a7b53d578ae9fdc4e8b95c279047fcb13b2",
+    "last_modified": 1547644719624
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Onde você está?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9a6f4131dd6d1c5969e972d40a2b4e4c81977071cc6ac7ea54244fd10cc6c63c",
+    "last_modified": 1547644719610
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eles falam Espanhol.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "d3898e5deb05f8c8234a828d6635ed0df0702ca6ee3122c881c8e25b3932de0c",
+    "last_modified": 1547644008972
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ela viaja todo final de ano para a França.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "2a0697281b255b652ac7d8002d6c47137c5e836d1b4cd7c12e3576a8ccd6e245",
+    "last_modified": 1547644008955
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Oito pratas por esse relógio.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "2eb394f9b2d037bca7dbba4d5c89da395a5b5e99f091e323e29ee7d004e1a7d1",
+    "last_modified": 1547644008941
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Onde fica a capital da Argentina?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "761b4c73d715f90a27b4f4f30664559617b4cb0e9eefb38ad67adc2515a8ef19",
+    "last_modified": 1547643993197
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Incrível!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "bb27e0f3ceafba9e241fef6f6b1d29a643df07ea7c9c75cd9c31668d4f5508b3",
+    "last_modified": 1547643993180
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Esse robô é assustador!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "ef549447457105daba1a3c796477fff2c8679df550ddb92546e473e2bde187f9",
+    "last_modified": 1547643976405
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ok, vamos fazer isso então!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "c002ee1b04fbff24f8f63536575fca3788d3f022bcaf1e9efa514150cde31db8",
+    "last_modified": 1547643976388
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O que é isso?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "5850163ab8205f3fa39e1a73efaf705a6f37d681e5ae654c68b6f4ca2cc717e6",
+    "last_modified": 1547643976368
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": ["noname"],
+    "sentence": "Quanta custa essa televisão?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": false,
+    "id": "2a74cee4b487d17bb950d2948b551e8cf8c642082fd8a5c239ee0c5cfbfa8b83",
+    "last_modified": 1547643966505
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Isso é demais!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "abaf78b4d3682203393fedaa23dff430e5ea6f56ac85af4db428f27d9fd6aee9",
+    "last_modified": 1547643966490
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Rastreamento de rostos.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "91b382054c51db5788ed3069a2c07d91685611540a3386d7b555bffcb2e63afe",
+    "last_modified": 1547643966474
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Legal!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "0551a9993c0cc7e78f89ec92b7decfc65ff880eaf05228d0d9b34cc2ad7cec00",
+    "last_modified": 1547643953309
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Você tem conta no Twitter?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "54c6b7f5eb48521ccebaf09c41885004c661b1af0a4860e9c0f6188598fb5f37",
+    "last_modified": 1547643953292
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu irei comprar na Black Friday.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "b5a17276c4cad77e59ef6594fc3bfe111a77620a81c5191101fdf4b20a959a55",
+    "last_modified": 1547643953269
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Vice-presidente do Peru.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "238d37ee0c36abe4ef13ea8f0057b6e278719093084dbf5d1e18a53780fcb088",
+    "last_modified": 1547643944085
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Nos próximos anos, provavelmente iremos até Marte.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "245a22b27b04cde780c8947aa8211a87f24305851945bb26102c3449b400b8d7",
+    "last_modified": 1547643944073
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Córeia do Sul.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "e34d6468d37e15b4498b23916223ced474a5358ae8c156d74e219563c00193b3",
+    "last_modified": 1547643944055
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O planeta Terra é em sua maioria azul.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "6fbbc815a456aa9a79b70da65013775184dadb3f6d3c5df4fb617f75f544b390",
+    "last_modified": 1547643928843
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A Europa é um pouco menor que o Brasil.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "810a4f205d6b0439e6c2afc06e7bc2f007fc5ec4528087315bf947162149cbe7",
+    "last_modified": 1547643928823
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Vamos agora falar sobre as roupas.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "fddb274308cb757a5c247d6ceefb4858c6c1fe428d07e1289b409c4feb345d7e",
+    "last_modified": 1547643895529
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ela ensina geografia.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "a81869fce9b9c6763bec5ce9af7425584e032b99684e31c002acdeec95eb7159",
+    "last_modified": 1547643895512
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Também haverá aulas aos sábados.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "275e627129330e3d87eb24cebf0790742ae562999930cceca48ad033b03cdd73",
+    "last_modified": 1547643895487
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Felipe falou com Paulo pelo telefone.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "14a748a3529ccb29731a198965c0d142df5589a4320b2e1eec7b472051d1fa0a",
+    "last_modified": 1547643886116
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Tem certeza?",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "ec63f01c2457ea2fba781d1066e13ba7bb7eba9f437a4500a4234a5eb1c5ea74",
+    "last_modified": 1547643886091
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eles têm o melhor conteúdo da internet!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "93177dd86af6a0d42c2584c86a82bf31d9cef4c015352a49d025e17266c37d28",
+    "last_modified": 1547643886069
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O futuro do mundo é incerto.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "9a6a0904f7fdf2772f856886289e33c3ffaf3224cc4f717641c49b84c20ea2cb",
+    "last_modified": 1547643876442
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O arquivo foi baixado com sucesso.",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "d57e76b485ac55866d337a6d9c45b557c564e883e4fde7505146182d5ef3bc97",
+    "last_modified": 1547643876428
+  },
+  {
+    "valid": ["noname"],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O envio falhou!",
+    "username": "openaccessresearcher",
+    "Sentences_Meta_UserVote_noname": true,
+    "id": "793a5763d5b40994746dea0f803d4fd8efa3eeabae8f6b071b03b9c915b0e062",
+    "last_modified": 1547643876412
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Menos por favor!",
+    "username": "openaccessresearcher",
+    "id": "9829991bebe6cf26234cd7bc219c1ca365152b708107b52d1ab9034b3136ea6e",
+    "last_modified": 1547139393304
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Mas você conhece ela?",
+    "username": "openaccessresearcher",
+    "id": "315ba794becdc190733e163fcab4b9888d0a351c7260cb363c639efde1adb966",
+    "last_modified": 1547139393054
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "É muito caro, ela disse.",
+    "username": "openaccessresearcher",
+    "id": "0d256133e7a7a8916331afee7aaeaa87e3d05fe78e32b71040440b7e081e1879",
+    "last_modified": 1547139392133
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Não me parece.",
+    "username": "openaccessresearcher",
+    "id": "491f4a21e1479ad6c35cbe1778b9351729460a8d5fa7232563808242c2b77889",
+    "last_modified": 1547139392061
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Você sabe mesmo?",
+    "username": "openaccessresearcher",
+    "id": "ba7586c135892ce93159780eea473346710caa0aa8809dbf424e9c3b1c4fb248",
+    "last_modified": 1547139392039
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Me parece certo.",
+    "username": "openaccessresearcher",
+    "id": "094e9242c450a9a3ef8dd150ef6ca909726db83c1304dd088d82b15b60c99b04",
+    "last_modified": 1547139392014
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Aquele gravador de tela é leve.",
+    "username": "openaccessresearcher",
+    "id": "bda9230b1ddfa36942bcd2bb9a4539456e31420903ecce7d78626215a71a1085",
+    "last_modified": 1547139391913
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Processador Intel.",
+    "username": "openaccessresearcher",
+    "id": "a05911e4f1b3fd4e8475df3b5af172dfe7a72b7153af24a6d0dc4d5f05661399",
+    "last_modified": 1547139391394
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Este computador é de última geração.",
+    "username": "openaccessresearcher",
+    "id": "82ce10ef1d184c1933c9ed66e89be986c039c63f85c6b429893e04e680b1ef4f",
+    "last_modified": 1547139391370
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "São Paulo capital.",
+    "username": "openaccessresearcher",
+    "id": "949b2672305639765c664a8067d5d3e63f914296d0288e17f75396f049132a52",
+    "last_modified": 1547139391349
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O presidente do Brasil terá muito o que fazer pela frente.",
+    "username": "openaccessresearcher",
+    "id": "810bafdeb2fde154755e51ee5907c195925856c8694e57f46189a8c03ff5500d",
+    "last_modified": 1547139391324
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Em duas horas haverá um debate.",
+    "username": "openaccessresearcher",
+    "id": "a5aad02456bb45563fdbd45a8ee0f8a5adb99d3e104bc78d9bf80a7cdbf37b57",
+    "last_modified": 1547139391302
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Carro autonômo.",
+    "username": "openaccessresearcher",
+    "id": "95653e5a3fb3c9f794bee4787268757fdda06144b0ae40ed52e0ad82e324098f",
+    "last_modified": 1547139391106
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O mercado está em alta.",
+    "username": "openaccessresearcher",
+    "id": "ebcc4d803648843f918fb6a626604ef738b5cb0b18042f099a84f8e6cde411f1",
+    "last_modified": 1547139391087
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O preço é muito alto.",
+    "username": "openaccessresearcher",
+    "id": "359702621cbc2c8895fa622cb5f7216073a1d2a58a397c4303b849586c6ce9b4",
+    "last_modified": 1547139391066
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A primeira coisa do ano.",
+    "username": "openaccessresearcher",
+    "id": "11b5ec6d5eab4a9e92a952a3a035b42cbb88eaba6fe1d9c83ed968703e5e5d58",
+    "last_modified": 1547139391050
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Desculpe, eu não consegui!",
+    "username": "openaccessresearcher",
+    "id": "4990ac1d706a8ce2e0f9f61fde0f6ca38056e7381cdc306169d5aaa80fb7b43a",
+    "last_modified": 1547139391032
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu vou escutar esse podcast.",
+    "username": "openaccessresearcher",
+    "id": "bbabba945dc544bc46064dff8849b49f40ec257a73d75556019ea6e03ed2caf5",
+    "last_modified": 1547139391014
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Gosto é gosto.",
+    "username": "openaccessresearcher",
+    "id": "1bc125819759f01025647ab68717814986da304548378ab4c4762256ef9cb03c",
+    "last_modified": 1547139390993
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Eu gosto dessa ideia.",
+    "username": "openaccessresearcher",
+    "id": "353c4cfef8d9ac8e8cf28d5700385a5affdd8cdd9408dea3060f484ee66dad74",
+    "last_modified": 1547139390633
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Casa inteligente.",
+    "username": "openaccessresearcher",
+    "id": "d9a351c0b45453ff9a05ba6c44210c86841132f44013e12232e5366f366b159b",
+    "last_modified": 1547139390613
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Outra plataforma.",
+    "username": "openaccessresearcher",
+    "id": "1834676e27a929778ed061103f56bc633e94bd3be984e31db0474779aa8e7177",
+    "last_modified": 1547139390593
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Auto-falantes de alta qualidade.",
+    "username": "openaccessresearcher",
+    "id": "77c559eb382554c9dac54c161412a7160a195347712d87b2447f6f8ad387ee2b",
+    "last_modified": 1547139390576
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Reconhecimento de voz.",
+    "username": "openaccessresearcher",
+    "id": "93ddaa5f7c53ad530d39ba386e189230569fbef9cc209c05914e08e10dede2a9",
+    "last_modified": 1547139390556
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Comandos de voz.",
+    "username": "openaccessresearcher",
+    "id": "dedef0a870b59435a71659fc8b0da0431ec24224bc89320eeae80f6e541d96d7",
+    "last_modified": 1547139390535
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Pegue o controle remoto.",
+    "username": "openaccessresearcher",
+    "id": "411e26556d928da3ea0f001b615e333b151416f2e0a23df48703b5045e8eafc8",
+    "last_modified": 1547139390510
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "José comprou um novo smartphone.",
+    "username": "openaccessresearcher",
+    "id": "89acacb372f34a65348ed387f51000cd3788c4a4e0042d93c7a896919720754d",
+    "last_modified": 1547139390486
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Windows sete, oito ou dez.",
+    "username": "openaccessresearcher",
+    "id": "f99bef380b2f6552e3a02120ffaab7b4690509904e0b3b19e7975ea25826be92",
+    "last_modified": 1547139390466
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Emulação de sistema.",
+    "username": "openaccessresearcher",
+    "id": "6aab078f9888ff1c7415ec04c2c8fafffee5b733ce42169283160de3c7449f0a",
+    "last_modified": 1547139390445
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Tecnologia, esse ano novos meios de conexão serão lançados.",
+    "username": "openaccessresearcher",
+    "id": "e65f912a6a5f50076c2b4ed2764d21f001f900d9d6a383effa44a6f2799f6a3b",
+    "last_modified": 1547139390422
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O futuro é incerto.",
+    "username": "openaccessresearcher",
+    "id": "181efa70b09341271bac15041b3f75481a52d2985de6d7645a9823ebd206be90",
+    "last_modified": 1547139390401
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O país cresceu muito esse ano.",
+    "username": "openaccessresearcher",
+    "id": "b6e1827d04581065f80e85f1b4045e105bb6ada0140d90c87d7a1c5e98f323d7",
+    "last_modified": 1547139390379
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Setenta por cento dos alunos falam bem do professor.",
+    "username": "openaccessresearcher",
+    "id": "4a56748fccafb02419b4df262507e24a992b0a678db7c568fab892b50a430703",
+    "last_modified": 1547139390361
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Olá, meu nome é Maria.",
+    "username": "openaccessresearcher",
+    "id": "64047c7cf2cdc39f112f3cac9f8782ff172d4c24d37eb8b674116f793c6823fe",
+    "last_modified": 1547139390340
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Sejam bem-vindos!",
+    "username": "openaccessresearcher",
+    "id": "17dc355e579aef5a792726a1e5ff05f4e1b5b6e3411bcd948542310e1a0e85b4",
+    "last_modified": 1547139390319
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Boa dia amigos!",
+    "username": "openaccessresearcher",
+    "id": "f7470033a9f9f1f0fdcb8667168827b5d70edc5f8b5b49b2a64dde15a06b6724",
+    "last_modified": 1547139390295
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Boa tarde, pessoal!",
+    "username": "openaccessresearcher",
+    "id": "087b1dc30eb7087a8a99a19991a432b44acf163eca130cdb6470ef092121cb82",
+    "last_modified": 1547139390270
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Tecnologia Open Source é essencial.",
+    "username": "openaccessresearcher",
+    "id": "ce89857ce3d5f1ce5190307ebc9e765b21ee67186cabd47487f27aff0274188a",
+    "last_modified": 1547139390256
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Paulo e Joana estão trabalhando no projeto.",
+    "username": "openaccessresearcher",
+    "id": "2e3c57b3578c165e81ac3826e846ef55ae779c66ec1455e98461204cbc24db1e",
+    "last_modified": 1547139390242
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O nome do filme é Titanic.",
+    "username": "openaccessresearcher",
+    "id": "365687f6259f49ea5542699be602ac2821fc2b0bdd90375f42f174d42e6466d9",
+    "last_modified": 1547139390228
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A festa irá ocorrer na sexta.",
+    "username": "openaccessresearcher",
+    "id": "37eab72407dd1af7cc9e9c26e68d9a2593bf1a80f9a6a910b20ee30d259b1bff",
+    "last_modified": 1547139390212
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "O irmão de Ana tem vinte e dois anos.",
+    "username": "openaccessresearcher",
+    "id": "380249cf9e0b5988f5f69ca66a643af0dee09aaa07e1b1a8fdd98c9839c119e5",
+    "last_modified": 1547139390198
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "A mãe dela falou sobre isto ontem.",
+    "username": "openaccessresearcher",
+    "id": "caa7e12d6a9ed17db96c33b0f349d5ffa3de577c7a62841fdd4a560e130363bd",
+    "last_modified": 1547139390184
+  },
+  {
+    "valid": [],
+    "source": "Resubmitted into correct language category",
+    "invalid": [],
+    "sentence": "Ele falou com ela.",
+    "username": "openaccessresearcher",
+    "id": "0ee3ff393bd3fe49ee0b77959fb0de1e51664e3f9505b8e699ba8aff1957fe96",
+    "last_modified": 1547139390169
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "valid": [],
+    "source": "self created",
+    "invalid": [],
+    "sentence": "पैसे कमाने के लिए मेहनत भी ज़रूरी है।",
+    "username": "johnyc",
+    "createdAt": 1547444490006,
+    "id": "7deb77a6c9e02d337cdac5f2256667745480c42f83ec2b9c46fa450e1612dd1d",
+    "last_modified": 1547444454277
+  },
+  {
+    "valid": [],
+    "source": "self created",
+    "invalid": [],
+    "sentence": "मेरी नन्हीसी बिटिया रानी  अब स्कूल जाने लगी।",
+    "username": "johnyc",
+    "createdAt": 1547444490005,
+    "id": "75b51d64e397667fff5384a7a711dc1e954d050094c69e838faac8818adfe335",
+    "last_modified": 1547444454255
+  },
+  {
+    "valid": [],
+    "source": "self created",
+    "invalid": [],
+    "sentence": "उम्र गुज़र गई लेकिन जवानी नहीं गई।",
+    "username": "johnyc",
+    "createdAt": 1547444490004,
+    "id": "7c3341f5a9e6956bef33ac1e6c27a57d26c3838d14a8054940264bfac0c076fc",
+    "last_modified": 1547444454231
+  },
+  {
+    "valid": [],
+    "source": "self created",
+    "invalid": [],
+    "sentence": "बचत एक अच्छी आतद है।",
+    "username": "johnyc",
+    "createdAt": 1547444490002,
+    "id": "16a01e4120dede52f3cb5c94c4779d259e4f06f4f6366d4adbb796f4581ac41f",
+    "last_modified": 1547444454210
+  }
+]

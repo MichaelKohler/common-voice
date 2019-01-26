@@ -1,0 +1,758 @@
+[
+  {
+    "valid": [],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": ["witzwitz"],
+    "sentence": "Bach, G. F. Händel e W .A.",
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "1f32134303f8e368f02a0cc4956bbf219aad158f926f51c9f60cdc6facf07a28",
+    "last_modified": 1546964091705
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "In ruaus quietont eis ei.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "1cec4df8ed0433724fdd8c0a55441dae6c7a766afa686a78304d35cec32c4efd",
+    "last_modified": 1546964091688
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Mo denteren fa il mund da silenzi bein.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "5fcb79ccff374417cbdfc09dab518167756035db589dfa6fe72da9393c992bda",
+    "last_modified": 1546964085607
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ei seigi schetg, tschiel stelliu, diesch grads sut null.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "0a620f2961f6393884d35ea42050e943f9d9b0d78e7b048ce5c2ad188846fc02",
+    "last_modified": 1546964085594
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Snowboard ei la finala disciplina olimpica.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "8476b9de006d2231961dc103217380d37391a8d69eba9ebe69ba93f61cfd9315",
+    "last_modified": 1546964085582
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ella ei spartida ella casa S. Vigeli suenter cuorta maldispostadad.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "f9f539fcb872a379e45178f805f8a045f463a0b39717b930fb57cd2c524c73da",
+    "last_modified": 1546964072653
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Seregurdei dalla cara defuncta en buna memoria.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "75d36e9cc6a6159780799523565207c495ba24bb1b20eb557acbdd5727617d19",
+    "last_modified": 1546964072638
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Donaziuns van en favur dalla casa S. Vigeli, Sedrun.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "11c48566cce118902970088f2d14ad0fb483c1453666c61ae52eb49bd2f47387",
+    "last_modified": 1546964072624
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Intoxicaziun numnan ins quei en cerchels da sanitad.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "f6f9db2e76bd8009f3105ce925213c3f107f08f3fdc0f3f17ce9a588dfdb9071",
+    "last_modified": 1546964058347
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Il mund ei buc ius sutsura.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "912a30f7d0ffd168e0adf2ac01cfaf4f89533f716e9d58431d68837cadf08747",
+    "last_modified": 1546964058333
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Igl optimissem che regeva inaga ei tschessaus.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "5498ab20b1f16a4d52b64d192c82d52600bb45b6c2a096d78991b91bb8166f02",
+    "last_modified": 1546964058319
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Perquei seigi era l’esoterica fetg populara.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c33e107d77395dc57902bd7c042494761bafcbb8c6e7781c7dc68c26a4add5f8",
+    "last_modified": 1546964046417
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "«Fiat Lux» astgi denton era buca vegnir survaletau.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "698671480fbb7d8894f37af527d25cc86d639d506f30c7bf45a67056c689ee39",
+    "last_modified": 1546964046400
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Panica seigi denton deplazzada.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "61b79d9f2ef49ebfa61a0cc5733fb54607515a21da75e877ba78ddc887aca3a5",
+    "last_modified": 1546964046384
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ina certa nervusadad selaschi buca snegar.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "e1ffc751e8675d0f4ab5740c35d18d0fc17beea3287bc6cca12b5e81a189951b",
+    "last_modified": 1546964035429
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Mo ella ei era sepresentada aschi biala sco strusch inagada.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "9137a9625b604cca2519602ab6e16f3b684db892f60c9aa28d3c2d35b9503b96",
+    "last_modified": 1546964035418
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Era per ils pignets ei la Loipa Cadi dad impurtonza.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "7bfded735b77584f0ac656fad25e368c930b99973c65a3970b0a0e3295d5d05d",
+    "last_modified": 1546964035406
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ual sco da lezzas uras sin il crest da mia ucliva.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "664b9a578253cb7d47a16fe669601443ab232576dad26f313f5778debf06f278",
+    "last_modified": 1546964022262
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ed igl ei capitau cun mei.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "4390812187d2ddc7df42de2091c30c00ac2b457e285411e5be808a59fb693f65",
+    "last_modified": 1546964022248
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Nuotatonmeins ditgel jeu agradora.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "a60c0b5293632ca740ad0bdbc4b315a1c33a834aeb03d40ca47f4dcb7bb1a8f1",
+    "last_modified": 1546964022232
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ton che jeu fetsch magari stem dallas errurs els texts.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "9631cd9d5ea420ab2bde84cbe55a453f270276016fad7b56efb87ce32a46e952",
+    "last_modified": 1546964010384
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Igl ei struschamein da cattar in sbagl.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "a3f0a03a9a7e485aea8709d6cc6a6f2af6aaad24f7c3692015ce2bb913f368f3",
+    "last_modified": 1546964010370
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "La lavur ordvart minuziusa dil redactur Isidor Winzap.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "4aa4a53cfd250874caaac20e9fc9f5044b0491aa6c9d00919a07773bc2dbebe2",
+    "last_modified": 1546964010357
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Nus vein buca tuchegiau nossas spiarsas!",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "cf63824ecf759d3e473c8d73ad6badad7b9d6613184fa65fb2cdf435d333fa58",
+    "last_modified": 1546963995956
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Tgi che fa persenn, cumpren.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "bb7e39a55f09f1d05c50707f6bf3f5b8a0c9871fa0e0ca944d06c82c61d02d61",
+    "last_modified": 1546963995931
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ed jeu, jeu fuss in glisner da buca conceder.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "ad33c799e58674864b287aa5ceb79c73cb67c9f4984ae1bfae00f535b90c141c",
+    "last_modified": 1546963995909
+  },
+  {
+    "valid": [],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": ["witzwitz"],
+    "sentence": "Ei vonza: La Quotidiana Ella ei vegnida messa a nus a meisa.",
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "2e6cf9ad0eb12dfa8d5134fcd4852851f022b1b52849f4fbda90b31a503fc9a4",
+    "last_modified": 1546963959628
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Quels stoda idioms in sper l’auter.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "20c0869d652a21f6de97808d1c6b261b89530fd34b4715839a1bb31b6fcccafe",
+    "last_modified": 1546963947245
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Jeu vai giu tschavera cul rumantsch grischun.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "718f3c9cc163f95c1a3627c051cf69a5e6fbfbdb8a531679307bc353122795e2",
+    "last_modified": 1546963927015
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ed jeu repetel quei che jeu vai detg daditg.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "e65cd90f6d7a9d5eefd0065bdc40c2ba34a78930b4a29d1a3db26630a4d0498e",
+    "last_modified": 1546963927000
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Jeu vi esser da buna speronza.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "b9ff9a16075b8d165d2383c0bf56b2d9c68f03d27ad7916a5f6a0ea59836bd95",
+    "last_modified": 1546963926983
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Il revers da quei sforz ei la libertad.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "5e2a2030724246dcfcbbd729a6335be95f17c3cf27f046b6590ff60a58117ff2",
+    "last_modified": 1546963914703
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Il carstgaun ei veramein libers mo sch’el sa prender decisiuns.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "b5efbd52170d3b83b7637c241a326c7cad2e1a93c576fe67e8402ffb42e6f540",
+    "last_modified": 1546963914689
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Mo la sesiun actuala ha entschiet cun aura malemperneivla.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c39c8361e395ae19b8cc4e3a8f92d1ee7a339e8e9b62712761acd40f1417affa",
+    "last_modified": 1546963914674
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "La realisaziun dil sviament vest da Glion s’avonza.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "b5eecf3e138032298b79b8ec3179a8d3c22af0e885ddbeeedf3065569e7a769c",
+    "last_modified": 1546963901914
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Tut che spetga cun malpazienzia sil sviament Glion-vest.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "f64020ff0e4afb74f46515337145be5ce5c9bc9ad4bd1cec3497b5e04ba9bfb3",
+    "last_modified": 1546963901898
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "L’entschatta d’in onn ei predestinada sco termin.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "70b663b5159ac8cd2b37977c99edd743329896b8bed7171e6e68fbc59d6efc71",
+    "last_modified": 1546963901878
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "E tuts fan buc propiests.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "28614c3e7abd83d02674d5994af34d707f4d3a6035ce6135b7939dd50b9cd6ae",
+    "last_modified": 1546963886536
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Uonn hai jeu fatg negins propiests.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "71c1cee1f6a5ff7f28d6b7965f5ed79a45debeff5b931a4862c50084d681298b",
+    "last_modified": 1546963886518
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Jeu vi buca mudergiar memezza cun restricziuns e propiests.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "0e980a402ca9e6573b7e7721be0d44a960c443ac260661f4b443f30de640c7cd",
+    "last_modified": 1546963886495
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ni uonn ni pli baul hai jeu propi fatg propiests.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "eb1f86b61597ac03678a3168cc1f454d354698ec1dc08cb1ab6e5199a7a43ca0",
+    "last_modified": 1546963873585
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "«Nossa fatschenta ha sedia a Turitg.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "684f97df310d393c88c8580d18d87a7f5b75201ff1d50c63a362fbff658c2d11",
+    "last_modified": 1546963873568
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Gioni Fry ei meinafatschenta.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "4ae64aa9711862aa067d68201dd3d1597d893a38d5d38e612d27049842923fbb",
+    "last_modified": 1546963873551
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Persuenter disponan ins d’in studio da tun professiunal a Schlieren.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "3e583137b7527cf6cbc07fe3d61dbc98074f2167fa266c861cec293eb1014828",
+    "last_modified": 1546963859772
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "«La lavur ei ina gronda part da nos hobis.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "0c48b797f83c73c99465e8b2cf2220a9e834addded6085327b2163b171abddef",
+    "last_modified": 1546963859747
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "«Nus essan fetg critics in cun l’auter.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "a990ebad8042f7c7aab663dc956a17980b9247f6326bc5990ef3997c03e0ed6b",
+    "last_modified": 1546963859724
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Mesas caussas ein buca tolerablas.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "d6f6d3cd2301893827cd0efdfc801d5740d02b9c2209da5d0695366a8974bdf7",
+    "last_modified": 1546963846705
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Clar che quei ei grev da realisar ella pratica.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "2088825532684e5b95d9ef0e530a4becc6e8d41f81460891b35d5bdc220e3dc7",
+    "last_modified": 1546963846692
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Auters e gronds propiests ha ei buca la valeta da far.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "bfd3b84d7ac180e6215d3b14b7b867a056e2d2a48516187448a543f3208d891d",
+    "last_modified": 1546963846680
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Jeu haiel fatg negins propiests fixs.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "f1de76a31830f078e93bf9c8f9ac1549de1b6431cbda4f25b1f3c845cf899294",
+    "last_modified": 1546963829264
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Sch’jeu vegn da tener en quei sai jeu buc.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "34cf056229d867543f7eb89f8098c2397970a5a49cca42d5ad15e7796e126ae0",
+    "last_modified": 1546963829248
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Oz ei ils quater da schaner.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "1751e8871ec84078ec77619a3c8a5bb9b8bcedc3476782fcb5df83a5025d898a",
+    "last_modified": 1546963829228
+  },
+  {
+    "valid": [],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": ["witzwitz"],
+    "sentence": "Sia via seigi buca quella da sadatar.",
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "13e5bcb199314d6c26edb57e246bd43d5de4233ec472bae812b299df55c05d18",
+    "last_modified": 1546963811232
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Quei vali era per sia lavur artistica.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "45f9b3154fd4e4ed4653f00a35790d1473b2b00db53199daa0447bc4fe88fb02",
+    "last_modified": 1546963811202
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Entagls che portien la noda-casa digl artist da qualitad.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "6f229e0ad09794ac8e602a11e03a13e66bae93555673d7ae07cfdf0ba61a87f9",
+    "last_modified": 1546963811175
+  },
+  {
+    "valid": [],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": ["witzwitz"],
+    "sentence": "Cull’emprema egliada ualti salau.",
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "6c14d1fade5f34fbc82bd1bb410c7c612b5b1250b9081784d53350373b4f047b",
+    "last_modified": 1546963791131
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ina impurtonta sentupada.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "3b666e8c774117898a9ca8d0b8b909fd7853b0a4be8e190616e265db98215370",
+    "last_modified": 1546963791117
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Tgi da Flem profitescha buca dil turissem?",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "35c63d013b324d4de655002f4434f8c4029c079f0504313d3e14879b062cbe31",
+    "last_modified": 1546963791103
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Pagau vegn cun daners e buca cun procents.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "16adbf88943b4676a5ede4e3c7814e7b9a74467465b2836c8b7538d744e709f0",
+    "last_modified": 1546963773756
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ins sappi curclar ils cuosts, bia dapli buc.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "7c7e2de31ba84cf8102871e9a72ae53efd6eb7d8e1893a113ce41e7c4be2d844",
+    "last_modified": 1546963773744
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Quella cefra schazegia igl Uffezi d’agricultura cantunal.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "fc815eda8cb783f481cb2043b25b76c4aa58ae3e8ef3c4163b10ab6b09c3b8cd",
+    "last_modified": 1546963773733
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Quella excepziun ei daventada regla.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "5304145262552fe5e0643d0d1f07f9e3c8e09372f73409b379c9368fed065af7",
+    "last_modified": 1546963762000
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Quei ei ina visiun che Theo Nadig ha pigl avegnir.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "73d56bfac2a06c9f6f41b0ba3aca0f798116bc00184c1ea1666602a56c8a6a86",
+    "last_modified": 1546963761985
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Nadig vul era ils giuvens talentai cun finamiras aultas.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "cdf05878e37d458d6c7fbab1db734d11df86282db8175bb61b88c1111c0a8c21",
+    "last_modified": 1546963761972
+  },
+  {
+    "valid": [],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": ["witzwitz"],
+    "sentence": "Gion, Sedrun, Val, Mustér ed a Sursaissa.",
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "dc12225cc0cfe708d2072e87fad0c8019f190d4173a2e7bf70e2d0117d7e1d7b",
+    "last_modified": 1546963746710
+  },
+  {
+    "valid": [],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": ["witzwitz"],
+    "sentence": "n pèr skis da cuorsa per sesiun.",
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "971791cd006f73b7ae7b8b9005ae3e409629d9756b6b16d3a8134aefe9f7d1bf",
+    "last_modified": 1546963746690
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ils affons vegnan equipai cul meglier dil meglier.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "866f4daf1d339eb0e01294b502be457a7d11e7013bf74d9cfbb43ae477a63f43",
+    "last_modified": 1546963746673
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ussa va il niev concept en vigur.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "de1d2fc8c61b67512293f05c2d6266e803c5b09f11ab211fe63b9392fcc1e278",
+    "last_modified": 1546963729604
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ella ha da menar il menaschi tenor criteris economics.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "822a3a6845ba83f1c7a865903dda8ce18852a708ccef294178e4ed2785fad10b",
+    "last_modified": 1546963729590
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "«Nus stuein haver finamiras.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "7845ca31db731a9a28046491e3a8fa301bc2a45e2ce018bac3a7f40b8a178626",
+    "last_modified": 1546963729574
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Empau mal il tgau caschuna il mument la sparta dil marketing.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "56594e16b0ecf3bc9c7c7696d27678ffafb09b8cd03c6fc86099017961e197ec",
+    "last_modified": 1546963718244
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Peter Steinmann para dad esser ina persuna discreta.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "d8395ea1e35644bc07a832735218604904e4734732ec1564a046788b411fbcf6",
+    "last_modified": 1546963718224
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Il president dil marcau, Aurelio Casanova, relativescha denton.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "76a2467adfc4169c99935e06f20d88e15430426feb5ec690ede18f8079572d98",
+    "last_modified": 1546963718201
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Era culs parcadis ei quei aschia.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "d09ea7b62655070dee8a5c68879a224cff22862781369033e659383d6a579812",
+    "last_modified": 1546963705184
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Panica seigi denton il falliu gidonter.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "8ea28ae06a46f0be09f6f9d095435cd405ec96548f4dd7e525dd67cda73bdf8f",
+    "last_modified": 1546963705168
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Cu la tenda sesarva en in teater, entscheiva il giug.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "3e5fc52fb7d392b57850d3224ae93929e8533d2f72b38d1a77438b513baaf636",
+    "last_modified": 1546963705153
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Las bancas han fatg la scumiada senza incaps.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "371afc6bdf8e15ac83aee58eed6b3dd9fe7f5eb792e544e92f34590c3d577aff",
+    "last_modified": 1546529136155
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "La bilanza ei probabel pli gigina.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "05be00bb8b92fa278907907aaa3128c34ea6834cec6eef197d018384d648140d",
+    "last_modified": 1546529124382
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Tut funcziunescha, sco Sergio Calabrese haveva getg.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "131c686541aac0f8ea335a6e52c836540309f18f03c6919bf54321499c7492f4",
+    "last_modified": 1546529124370
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Igl alcohol ei la cuolpa.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "9bee2edd03877e2551ab535b56b8edac4fc20c81f15d99b5696b1043d7c49ceb",
+    "last_modified": 1546529124355
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "In stel giustificada ei quella reproscha.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "8aa8d21c166a864ae0057fef5ed70c8f4792e986d378aa3343b5def3d6d46148",
+    "last_modified": 1546529099684
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Ina midada sco mintg’onn eis ei pilver buca stau.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "058a78cb813afad6d7363a106eb754bf4fcaf54e3a80301b352d31fa4ced30e2",
+    "last_modified": 1546529099668
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Malgrad che Schnaus ei ina vischnaunca suverana.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "eaebe78a1f5af6af7989ed790385b41f54d7c5c51c34ce9c7fed63333fec8da0",
+    "last_modified": 1546529099650
+  },
+  {
+    "valid": ["witzwitz"],
+    "source": "quotidiana corpus: https://github.com/ProSvizraRumantscha/corpora",
+    "invalid": [],
+    "sentence": "Mo als da Schnaus ei gliez franc tuttina.",
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c69b791351a6d4e6645e74a99f4cb02a430710bd27f4d73073007f37199c973c",
+    "last_modified": 1546529069346
+  }
+]

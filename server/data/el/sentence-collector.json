@@ -1,0 +1,494 @@
+[
+  {
+    "valid": ["k8oylos", "k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Για παράδειγμα, το κόμμα δεν ξέρει ποτέ τι θα έρθει μετά.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "f587a3bb818e9491584b5d54445c66e986d0beb612c11f0cefa9f73aa77c3320",
+    "last_modified": 1547241453506
+  },
+  {
+    "valid": ["k8oylos", "k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μια κουραστική σειρά περιγραφών με επίθετα,",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "256ce42e7d46d344ad5d6e2cda079c78ac29e03969299699cc9537947fcd67a5",
+    "last_modified": 1547241453493
+  },
+  {
+    "valid": ["k8oylos", "k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "ή ένα τελείως καινούριο νόημα;",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "d711dd21d8dce6e7c136dba2a78218cdf90292353e581a7e72c9bdebf7716e09",
+    "last_modified": 1547241453478
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Αυτή που λυπάμαι περισσότερο είναι την έρμη την τελεία.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "96e04f9f9937a52701a05e1361d265095c9816ff1509dbf23c847dd4c12eee1f",
+    "last_modified": 1547241446106
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μοναχή της, μια κουκκίδα τόση δα.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "f8ef01e022e1fbf7480be456bd1c94f7f458e3628a3c9aa12d345aae3647c260",
+    "last_modified": 1547241446085
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Πάλι καλά που το επόμενο γράμμα τη βλέπει μικρή,",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "32615274dccbdc97a46e0cf846513206707f8120947a5da6cef31b1cf68b0111",
+    "last_modified": 1547241446065
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": ["k8oylos"],
+    "sentence": "κορδώνεται και ψηλώνει,",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": false,
+    "id": "82ebe140dcbd19e1796d7cef12fd475cb04b15bac710991e1e8c2d6162a9ea8b",
+    "last_modified": 1547241416158
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": ["k8oylos"],
+    "sentence": "αλλιώς δεν θα την παίρναμε καν χαμπάρι.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": false,
+    "id": "a6d3d3c0de9e34439a5828ec1e860c89bee9ba71e0c9ee7c8a3ef4bf0494b5a4",
+    "last_modified": 1547241416146
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": ["k8oylos"],
+    "sentence": "Βέβαια καμιά φορά είναι με τα δυο αδελφάκια της.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": false,
+    "id": "bfb01c68ab284c4c2f9262174982c10782eaec0ddeac9b9acf6719243ee22f76",
+    "last_modified": 1547241416125
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Αλλά και πάλι τόσο μοναχική.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "218c67d2e53ea2e2010a1f1c2fd357f9b4875536206720c4cc7ec9a15e886a05",
+    "last_modified": 1547241265847
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μπορεί να είναι μετά από κάθε γράμμα,",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "d5b952ffc40aa2608e0e9597e0a4e1171fa9554c89dd51a6d1105ff23c6e34c6",
+    "last_modified": 1547241265833
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "κάθε λέξη, κάθε νόημα,",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "d09b72142796f5cdc5d2d4b9deb56f644dd500081bb4d6f7733d3ef7d0071e7f",
+    "last_modified": 1547241265819
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "αλλά δε γίνεται ποτέ φίλη τους.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "c23be1460f879e891b14b30d72095ca3f5976d3092e1e6f4c916d39ce11d7af7",
+    "last_modified": 1547241259290
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Δεν κάνει, βλέπεις,",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "5325f8e76220362b5992e1590b3d74eeaeab95f2a328a5fa862811cf0e85c372",
+    "last_modified": 1547241259274
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "τίποτε άλλο από το να τα τελειώνει!",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "caf073392dc7163bc2f581d8e2b89145cc49f3b853172961ffd0b56a4a59b2a3",
+    "last_modified": 1547241259259
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Δεν είναι και κάποια περίεργα;",
+    "username": "k8oylos",
+    "id": "27363196564f9be11b63b9c535da6b7e221f32cf3abd2bd3fa743bb091f7c44e",
+    "last_modified": 1547241229487
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μερικά είναι χαρούμενα για τα θαύματα της πρότασής τους!",
+    "username": "k8oylos",
+    "id": "9e5124565ea5f692436511940c9013b8c73b9a5e4191492aff0448746127b5e4",
+    "last_modified": 1547241229469
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Έχουν κι αυτά τις δικές τους ζωές!",
+    "username": "k8oylos",
+    "id": "2928c59701e8f70fa134ee019f304aa8e47431ae0c75ba0720bad0fed6285324",
+    "last_modified": 1547241229450
+  },
+  {
+    "valid": [],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Αυτά που λυπάμαι είναι τα σημεία στίξης.",
+    "username": "k8oylos",
+    "id": "fc82959a7bc16b2d9911fa6e549db18b974ca5793a4e5aada32e122509fddda2",
+    "last_modified": 1547241229428
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Έχετε ποτέ σκεφτεί πόσα γράμματα υπάρχουν σε μια σελίδα γραμμένη με μολύβι;",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "0c797f3757f5341abe5f54e88c466bfa38602ae50ac6312d9809b158de9bec3b",
+    "last_modified": 1547241026944
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μπορεί να ζευγαρώσει με ένα σωρό άλλα γραμματάκια, και σύμφωνα και φωνήεντα.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "130f03c0c9752bc986738a3d57d45f68744c0a0dea60c047cf2892db4cdf1e93",
+    "last_modified": 1547241026926
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Έτσι τα άλφα έχουν πολλές επιλογές.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "b3e34b2f38144be39c79da389c02a962bac9664555d6fe45151c39af452ea363",
+    "last_modified": 1547241018946
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μπορεί να ξεκινούν μια πρόταση ή να την τελειώνουν.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "55b6abf375fda1418cd6df955f2e8cee89a63bd41ea3557707d5211820eacba7",
+    "last_modified": 1547241018927
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Μπορεί να έχουν πολλά αδελφάκια και να είναι ενθουσιασμένα όλα μαζί.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "f9fc1e8bad8b892d5ee9de33232bcf6ed88e3c818ba90ee744bcf90d286256c6",
+    "last_modified": 1547241018911
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Και το πιο περίεργο;",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "dc9dcfc4e6cc8804a7e7485c9a42dd67f5cfd9984f1fd6dad8467c9d094a639c",
+    "last_modified": 1547241012292
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Ακόμη κι αν δεν είναι αποκριές",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "b5974824487aded68cc855d7470cdf1ac0c2185ef29ffd2d8369643af6610cdd",
+    "last_modified": 1547241012270
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "μπορούν να μεταμφιέζονται σε αι",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "917a3757065b2f35f35369960cee45754771b0f5362ff427f62dbbac7a00129b",
+    "last_modified": 1547241012248
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Και τότε άντε να καταλάβεις που κρύβεται το άλφα μας",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "d6a3a9433f35037d940e767d999d98a38d854eb3a7b7559dceafb2cf0c32c8c0",
+    "last_modified": 1547241003587
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "αν δεν έχεις κάνει τουλάχιστον έξι χρόνια γραμματικής",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "4fa4fa18ea45872109193101a6f7b4cedcecf2998a39adaf44c38bb0d27d4cab",
+    "last_modified": 1547241003572
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "και ορθογραφίας στο σχολείο!",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "3def025ce9c1283c45ab1324e27a38032fd11afe931faf90af15bc2cc71632ab",
+    "last_modified": 1547241003558
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "own",
+    "invalid": [],
+    "sentence": "Γιατί τα γράμματα κάθονται σούζα όταν τα κοιτάς;",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "e3e60bb401438d3587f8416966ce814ec3cc278b99d288938cb45beba095e319",
+    "last_modified": 1547240793107
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Μην περιμένεις πια",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "06b04dc2a14b4747a9e4eb9d0393c830cf338822a0d504eee766a3c45da439a4",
+    "last_modified": 1547149530827
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Του είπε η φιλενάδα του",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "66162de22ad05fa0b8964ef69dc9316aa0839fb2efafd74346b3e7c0837a8cae",
+    "last_modified": 1547149530809
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Είναι καιρός να γυρίσει στο σπίτι",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "20cd6e49f5fe318855271a06a1ec00a6f0589e9bed55f827d6c22e7d87cc45e3",
+    "last_modified": 1547149530790
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Δεν υπάρχει τίποτα πια εδώ για σένα",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "fa85cbf0021d9cf36e9ad45e95f693a4b4ba81125649fd77aef50a1f001e03f9",
+    "last_modified": 1547149530773
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Στην Αφρική κάνει ζέστη",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "720434160348aa433b41aa51fadd79d9f7bfe17fa8d2d2e490139e0fcc13e350",
+    "last_modified": 1547149530754
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Έξω βρέχει και κάνει τσουχτερό κρύο",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "5ac540bc63590a24c248ba12e83d21de7c372de579f475445e6aebc3c434b167",
+    "last_modified": 1547149514569
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Ο κύριος Εμμανουηλίδης άνοιξε την πόρτα και κατέβηκε τη σκάλα",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "4ba8ed82b46efcdde60b4c62491f0e72ff24a617aa22b80fd871d569469df875",
+    "last_modified": 1547149514543
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Θα δεις ποδόσφαιρο σήμερα",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "23ba5ed5c22eab4b1b54140918ccaea6da6c25a386d58aa9a1b3927dd2fb8b40",
+    "last_modified": 1547149514515
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Η ζωή στο Παρίσι ήταν όμορφη",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "f30ff9c73202bad58eb07ca9bd0df54bbcc2e8e46357011d35951e064d1bde29",
+    "last_modified": 1547149387989
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Χρειάστηκε να προσπαθήσει πολύ για να περάσει τις εξετάσεις",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "4ba2db2cbfdaca7065d7491b4872899a7e90ad006cbb6e05390d7dcfb800d521",
+    "last_modified": 1547149387974
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Ο σκύλος ακολουθεί το αφεντικό του",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "36a9c2483c4feece2dbe3bc400b07dc0339ff7c5e71c5c6eb4d74642f8aeb03b",
+    "last_modified": 1547149387950
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "η κυβέρνηση ακολούθησε τις οδηγίες της ευρωπαϊκής Ένωσης",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "801d7e4fec0aee3c2e9ff153d4d461d0b5e8a07cf5ce5c750005648e461a603d",
+    "last_modified": 1547149387922
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Ο Μέσι είναι πολύ καλός παίκτης",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "94f4a1669da8bf46b45c2f1556d3c3188a530288b1c0ab03d8f8c268331be94d",
+    "last_modified": 1547149387900
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Ο Γιάννης πήγε στο γήπεδο για να δει ποδόσφαιρο",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "5f896d0a2786d1a8eabbe281d5a5c56f81e17c2d70fe693fd4cc2efc4b354bea",
+    "last_modified": 1547149387874
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Αυτή είναι μία δοκιμαστική πρόταση",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "f30f57c231bd98d5d2ebeb193b5e3762f2b20efc449e1b83eebb4eeceedc3be1",
+    "last_modified": 1546973729109
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Δεύτερη πρόταση.",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "1fc0a6ffc72cc2cc91b8abbb45cdbb8bd000593e89f295c0e3426677ed2af6b9",
+    "last_modified": 1546973729097
+  },
+  {
+    "valid": ["k8oylos"],
+    "source": "Wrote it",
+    "invalid": [],
+    "sentence": "Κι άλλη μία πρόταση",
+    "username": "k8oylos",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "3689c8ba7277f66f83c3864ce30125d34cab5c64ab564adc6c05bbc369f7caa4",
+    "last_modified": 1546973729086
+  },
+  {
+    "valid": ["k8oylos"],
+    "invalid": [],
+    "sentence": "Αυτή είναι μια δοκιμαστική πρόταση.",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "1835b9db80e025792a1e9728f0197f3204dbf3002d58ebae8ee98aee1efc533c",
+    "last_modified": 1543714633243
+  },
+  {
+    "valid": ["k8oylos"],
+    "invalid": [],
+    "sentence": "Σήμερα έχει ήλιο",
+    "Sentences_Meta_UserVote_k8oylos": true,
+    "id": "b690458e7aa8d165c16306cdf69fac414daf4b312b2d24ad684bb9a121330788",
+    "last_modified": 1543714633222
+  }
+]

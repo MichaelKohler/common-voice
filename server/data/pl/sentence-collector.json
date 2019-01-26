@@ -1,0 +1,414 @@
+[
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Komisja języka polskiego.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "db63b5c84145f75289e9a77ca6b04a3403cb0beda77e668e1fa45b69fff273e2",
+    "last_modified": 1546471852669
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Wypadałoby z tego.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "98e380eeeb5407bec6640588d50e89aae335b5a025345221bc5490f827b0cd04",
+    "last_modified": 1546471852647
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "O niektórych grupach.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "a18b3ee894e9436f7c1f03bc7fe6a35c87249876da12140724a0a2653e5b210e",
+    "last_modified": 1546471852626
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Jeszcze jedna sprawa.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "6271bf36e45b5f7a9d6d6c72e56fdedfd354a836ac283dd10645d837a53ac58e",
+    "last_modified": 1546471832794
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Z drugiej strony.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "eeae0bc5195ebb16b59847aab5e1a8294365e156f2400026c0d06ef167e63c56",
+    "last_modified": 1546471832770
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Streszczać książki nie mam zamiaru.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "13eb76a85a30e23ad4621d3860f5fc7e359dc4e27d2c72ec5e47beb211b0f61d",
+    "last_modified": 1546471832744
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czemu przez cały dzień śpisz leniuchu ?",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "48441c99f0c2ed3403bc7853e9ef6f0eb284c18e51bb16d478f229a9fcd81ff1",
+    "last_modified": 1546471817841
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Skąd ten krzyk ?",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "7a041e431980eb835035f2cacf103598afc3124ed1b0b1c06c180f892baa3aa3",
+    "last_modified": 1546471817821
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Chodźcie gąski na spacer.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "56dc6613c5f8d25c1e1f42c32877111950cbf20440fad5744f543fd24aef34da",
+    "last_modified": 1546471817803
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Kocha pieska swojego.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "3557a88680e7b08a95a676d3d2d40d64a17ad8c78b29453b46af2e78237a7d86",
+    "last_modified": 1546471807838
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ulepiły sobie dzieci ze śniegu bałwana.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "af3f7f68d46072770965a602e9dd1eebed270667bb374f56ba9753b48517a4d2",
+    "last_modified": 1546471807813
+  },
+  {
+    "valid": ["test"],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Patrzcie, jak nasz Janek gra !",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "ce47a8526f0bf00e74f81b587c9218d6621b8d0624b94bdcd6604e31047378e4",
+    "last_modified": 1546471807784
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ale to wszystko dalsze związki i rzecz przyszłości.",
+    "id": "25d3e925196bb61f38813c47bcfd169329b0c1029e1177a03923cca15af4ab04",
+    "last_modified": 1546471786698
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Tymczasem, co za niespodzianka !",
+    "id": "0f89aca4e4b11a46346d810b10556593cc23989169106b86fba2b6789e9cceac",
+    "last_modified": 1546471786679
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ale trzeba wziąć rzecz nieco szerzej.",
+    "id": "21bba6c1150ade69bcdbeaf399ba22a96c81d3815196409dc1e7e0a77e63d17d",
+    "last_modified": 1546471786658
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy ono jest ?",
+    "id": "10f14dcb215eb544103254e63dc21f15879001f346ff55b0dd4d050dde399540",
+    "last_modified": 1546471786639
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy ona jest ?",
+    "id": "0924869344657b8619aa80e6653134626246f53bf432051a08efbe73ee7ef199",
+    "last_modified": 1546471786616
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy on jest ?",
+    "id": "513a91d9cbad7ab22f56b808930247cbfde275280e4daa0959a9d430893667eb",
+    "last_modified": 1546471786595
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy Ty jesteś ?",
+    "id": "4b660c5eb979ded893211ca5edf0e003eff34a0abdf96c4b0aba094b5576721c",
+    "last_modified": 1546471786575
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy ja jestem ?",
+    "id": "1b440ca7b8b76986e0fd8b0a9ef1bea3cf6c7c5e1d27f7b35502a891833ca156",
+    "last_modified": 1546471786551
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Oni są, one są.",
+    "id": "c49b58b48922cc6288f458c6e12e604bf83f34299c5bc8b7eca0ce01bff07afc",
+    "last_modified": 1546471786525
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Wy jesteście.",
+    "id": "75cfd71d012dd07caaff0137cb8291f0da2091ddd74db57355fbc6235859b733",
+    "last_modified": 1546471786504
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "My jesteśmy.",
+    "id": "9992dbb6b730939e3f2ca296e2d007eb32497f784dde5868cc371cbd44a740fb",
+    "last_modified": 1546471786476
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ono jest, to jest.",
+    "id": "88f47025b38d9468d39406e64decd58056b46969c4c1bd222ca518091e6b3987",
+    "last_modified": 1546471786450
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ona jest.",
+    "id": "61fdf9da90345d3cba4618da8d26085688cda7d1e8e11ae31ca709426a02dd00",
+    "last_modified": 1546471786421
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "On jest.",
+    "id": "c60d44b1bbdfb43eb5f0c0a41e6d196f4836721456d1753280c5d196835c3217",
+    "last_modified": 1546471785835
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ty jesteś.",
+    "id": "ae5af524628617ec52d7a3dce2a35d997d5af09c2d00c4211b483a5c866ef28f",
+    "last_modified": 1546471785817
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ja jestem.",
+    "id": "7596000cc7c838df41ca4ca682eeefb2585f3f43ee4a3b0a95c58caa89ecfce4",
+    "last_modified": 1546471785800
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Jak się masz ?",
+    "id": "6a9738bf31409a528411d11f33f078ccd2f34f9191457edf435748e13f13fd06",
+    "last_modified": 1546471785778
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Co się tutaj dzieje ?",
+    "id": "f7c27ca31d297af5b6fb6f218793f77f9266d84337d7205f61dd12aaa22713c7",
+    "last_modified": 1546471785759
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Nie mówię po polsku.",
+    "id": "39914251909a17d73c8bd0d8ad3dd2f4584c6980abe359f6142bc4e58043f9a8",
+    "last_modified": 1546471785738
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Proszę iść prosto.",
+    "id": "42f703cea3a36a498d57e2898a93cfa70ec65adb44d8e11de35de2bcf760ce86",
+    "last_modified": 1546471785715
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Gdzie jest lotnisko ?",
+    "id": "a1eb7d4871bef4c4fe0889c9a621e3881fc1fa7854763ac05c2332bf3c2e1a9f",
+    "last_modified": 1546471785693
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy mogę pani pomóc ?",
+    "id": "7ccb5bd7663925da2b90bd685c09363aaba4461c83672c89f9c58940f6ae0b39",
+    "last_modified": 1546471785670
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Jestem studentem.",
+    "id": "1747570b66882a1297a0dd469ab0ef3050adb0d30846a9a1845c54d9dad26c00",
+    "last_modified": 1546471785649
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Jestem amerykaninem.",
+    "id": "dbb8481ab8ec3a7e59a5055c5fe39c28002bc018858021b65fce9c3d14974d55",
+    "last_modified": 1546471785626
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Skąd pan pani jest ?",
+    "id": "dfab2df2c8bb4851924a57f7acec78179c9fd5831ddf633b424411dbcf917922",
+    "last_modified": 1546471785604
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Co to znaczy po angielsku ?",
+    "id": "78f8bb6812a0b9de02ad491c97dda56051cb73908dbbd87b8d5c6097bee86353",
+    "last_modified": 1546471785586
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Jak to się nazywa po polsku ?",
+    "id": "5cb105affa52e29e1334ba23524619b6cded61c0b725706c86b0c8d87cfe43b1",
+    "last_modified": 1546471785561
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Przepraszam.",
+    "id": "147924029aa98febb8dcfb25168c7632e484353ba5b1b9955f5a38de6fc23dab",
+    "last_modified": 1546471785535
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Nie wiem.",
+    "id": "24861adae3af7905d78796bc2bb31cb12b582c54e3dd4b84cb7f3c901fb7966f",
+    "last_modified": 1546471785511
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Nie rozumiem !",
+    "id": "cb1794819b04450efb90ff9dbed193c1d819af7f2e8529a5d6494cc956853206",
+    "last_modified": 1546471785484
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Mam trzydzieści trzy lata.",
+    "id": "cf00e55a44d679ac0c876d155c7ab74288738e09a86a69e7b9844c9497bf2201",
+    "last_modified": 1546471785461
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ile pan ma lat ?",
+    "id": "28ad464041b18baf7983dfef91503d335fd47bf172e2772eac1901476276557a",
+    "last_modified": 1546471785437
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Tylko trochę.",
+    "id": "91eb6511ee4f5d6c92572713eeed1a2f698ab7e744760a156426840d1e72845f",
+    "last_modified": 1546471785414
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Ona mówi po chińsku ?",
+    "id": "8a1c1fe5adf0e57721829310324f3964e54f3886c5aee0ca05b39664496bab48",
+    "last_modified": 1546471785391
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Czy zna pan Francuski ?",
+    "id": "7a0bf92ef29e8c6e7cf47bbe2c15deb5f315748ac6de6a50b39d987f7b4ed14a",
+    "last_modified": 1546471785366
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Dziękuję, w porządku.",
+    "id": "5ec6e194c9ad0f4175c542b2b67e9ccf0cde28bc23d8611253fe711341f0aac7",
+    "last_modified": 1546471785342
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Miło pana poznać.",
+    "id": "87b226f9605653f99e0a5b71bc8fe8944466fef00a936965b71f6e6d7309fe20",
+    "last_modified": 1546471785317
+  },
+  {
+    "valid": [],
+    "source": "Various sources",
+    "invalid": [],
+    "sentence": "Jak się pan nazywa ?",
+    "id": "22607a59ce5114e5e736028337eba15d63d4798427e01e7207c4699cbceae10f",
+    "last_modified": 1546471785291
+  }
+]

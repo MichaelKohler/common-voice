@@ -1,0 +1,588 @@
+[
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w", "alexsuperstar"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Der Bass muss drücken!",
+    "approvalDate": 1548252772643,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_alexsuperstar": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "Sentences_Meta_UserVoteDate_alexsuperstar": 1548252772643,
+    "id": "c9126982028e88ee3512f09a45b34b74ec65209a865e8673e7382531ba97651c",
+    "last_modified": 1548252772503
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w", "alexsuperstar"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Musik ist ein Genuss.",
+    "approvalDate": 1548252772643,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_alexsuperstar": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "Sentences_Meta_UserVoteDate_alexsuperstar": 1548252772643,
+    "id": "37a47f330d22110304edb64d2f8d037563274a9b86815f2da1c937c426a2ec2c",
+    "last_modified": 1548252772483
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w", "alexsuperstar"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Problemkinder findet man nicht nur in sozial Schwachen Gesellschaftsschichten.",
+    "approvalDate": 1548252772643,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_alexsuperstar": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "Sentences_Meta_UserVoteDate_alexsuperstar": 1548252772643,
+    "id": "89f2f5e3cc06cb5ab906b8e4caae366ae55914dae310c2c55c0aae7e92d1235c",
+    "last_modified": 1548252772468
+  },
+  {
+    "valid": ["AffeAli", "alexsuperstar"],
+    "invalid": ["gW0u0QFS0a005f8w"],
+    "approved": true,
+    "sentence": "Der Volksentscheid zu mehr Tagesfreizeit fehlt!",
+    "approvalDate": 1548252676563,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_alexsuperstar": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": false,
+    "Sentences_Meta_UserVoteDate_alexsuperstar": 1548252676563,
+    "id": "d579d0d4fa8e1e3ae72b7f365c4d3348d366e84c1b1246de39f8be31ffdaf46e",
+    "last_modified": 1548252676383
+  },
+  {
+    "valid": ["alexsuperstar"],
+    "source": "wrote it myself",
+    "invalid": [],
+    "sentence": "Hierbei handelt es sich um einen weiteren Satz.",
+    "username": "alexsuperstar",
+    "createdAt": 1548252650543,
+    "Sentences_Meta_UserVote_alexsuperstar": true,
+    "Sentences_Meta_UserVoteDate_alexsuperstar": 1548252676563,
+    "id": "6b1163adb62f7a11675174579dd6c8d76060b0cafa10f2f2075fd6c53cd77ea9",
+    "last_modified": 1548252676362
+  },
+  {
+    "valid": ["alexsuperstar"],
+    "source": "wrote it myself",
+    "invalid": [],
+    "sentence": "Dies ist ein Satz.",
+    "username": "alexsuperstar",
+    "createdAt": 1548252650540,
+    "Sentences_Meta_UserVote_alexsuperstar": true,
+    "Sentences_Meta_UserVoteDate_alexsuperstar": 1548252676563,
+    "id": "7559ca6fd0e55b51e89a5f5bc01da46264ef61f9d7b6fd06fcfe66070464d1e6",
+    "last_modified": 1548252676342
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w", "gregor"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Lassen sie mich durch, ich bin Arzt.",
+    "approvalDate": 1548251788380,
+    "Sentences_Meta_UserVote_gregor": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVoteDate_gregor": 1548251788380,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "fff03350e263f10ece80e7ca14eece25d951a5bb355a3adcf1d2fe240ad9d618",
+    "last_modified": 1548251788115
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w", "gregor"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "An der Spitze der Rakete befinden sich vier Telekommunikationssatelliten.",
+    "approvalDate": 1548251788380,
+    "Sentences_Meta_UserVote_gregor": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVoteDate_gregor": 1548251788380,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "cd71c2bcefd528bb415976d05ae9c49acf8d5db73873e0151bcaab04159125ff",
+    "last_modified": 1548251788103
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w", "gregor"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Auf über zehn Kilometern Flughöhe ist die Luft sehr rein.",
+    "approvalDate": 1548251788380,
+    "Sentences_Meta_UserVote_gregor": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVoteDate_gregor": 1548251788380,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "8b1ac5ba76948f9fc75132d9f6cd16e3e61d0e9e3c0410bd0c794206d41c223e",
+    "last_modified": 1548251788091
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Sehen sie hier, die neue Kollektion von Karl Lagerfeld.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "5f35f91bd6e06838468a1bbf84abf4012aca2b92e67bde401b831df185ec849d",
+    "last_modified": 1547314573904
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Mach mal Platz da!",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "d1c9b4e676360c9efa9df9162a14f4ea4b682695a73493cbf9373053bebf071a",
+    "last_modified": 1547314573877
+  },
+  {
+    "valid": [],
+    "invalid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "sentence": "Wenn man ein Ei kocht, wird er hart.",
+    "Sentences_Meta_UserVote_AffeAli": false,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": false,
+    "id": "be0ae19a24418f236c5e3af10c04f1635930e8c85170bb0a0ec361af0bb37c63",
+    "last_modified": 1547314550233
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Sieben Minuten ist die optimale Kochzeit.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "8f9d02fde9df59b50e533339f10d6f4846394d01a4e983a89680eb72caaf09f0",
+    "last_modified": 1547314550213
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Schonmal über Alternative Medizin nachgedacht?",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "618a588824e6f7533fd92a07aa7620b688de16329484198ed0fe3a9b8ee3eb0b",
+    "last_modified": 1547314550196
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": ["gW0u0QFS0a005f8w"],
+    "sentence": "Was geht ab?",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": false,
+    "id": "c67d618748c123ce2af7e5076516fd06a006bf2d3378432cb0bef44691e5a668",
+    "last_modified": 1547314376621
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Gehen Sie weiter!",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "12c066c395a2b810bdcea9e137e4f3aafe56051a0e9a8b7b16299b374f251659",
+    "last_modified": 1547314376603
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Momentan kann man am Nachthimmel den Vollmond beobachten.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "dd9932af2246dcdede2860061079b8b52c4cf56cb2756b4e9c9c1d580e8788c9",
+    "last_modified": 1547314376587
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Perfektion ist das Ende aller Fehler.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "596aae550ccd670ce51e7c1702c0e2f59563e04f3baf20f667bf3a30fbebba82",
+    "last_modified": 1547314310812
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Das ist sehr unwahrscheinlich.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "32a727db65e3dcb619cdeaede2f1942f9bcec3328a94faff4be32e62f97c4d1b",
+    "last_modified": 1547314310793
+  },
+  {
+    "valid": ["AffeAli", "gW0u0QFS0a005f8w"],
+    "invalid": [],
+    "sentence": "Ein Objekt war in die Erdatmosphäre eingedrungen und verglühte dort.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_gW0u0QFS0a005f8w": true,
+    "id": "39575aff123e0307c507afef72b83e8600df123703a997f137dd9f583528cd21",
+    "last_modified": 1547314310779
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Einen Ersatzspiegel gibt es für diese Maßanfertigungen nicht.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "56aa58d2a8e2c8e588e7dde2431c064b44dbcb7a174a73b84f14710e0db35c01",
+    "last_modified": 1546618660225
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Wenn man sich die Umfragewerte anschaut, wird klar aus welcher Richtung der Mob kommt.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "7f7c702424273dc57b375a0907d5aa99c7d1ffd2b59f344787a531c4bfc65f87",
+    "last_modified": 1546618592930
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Magdeburg ist mit dem Regionalexpress direkt aus Berlin erreichbar.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "de623e3a1f755fb3761c98948d703e5bb33d62e5eace8e73d65b1d5db99bbf38",
+    "last_modified": 1546618572118
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Wenn der Astronaut Kosmonaut genannt wird, befindet man sich in Ostdeutschland.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "4bbf60d667220cd89475e111677e5275f26ec90e342d123f0a502aa85ba6951d",
+    "last_modified": 1546618572097
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Sehen sie davon ab, uns zu verklagen.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "a8918524aeec6adcfa62fa8cd91df3fb3f6c75a68c5da84c54008e21f5a8633b",
+    "last_modified": 1546618558055
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Wenn ich alles wissen würde, was ich gelernt habe, wäre ich schlau.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "3b36d3d0564641a282ea9660f35859b86fd6e0119775cf008bf596204a8faca5",
+    "last_modified": 1546618558031
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Sagen sie mir bitte die Uhrzeit.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "a13ee4c4d6014a3b216a4ffe59089ee639b2014bb3321faf1a0f0b8f9ccee0ab",
+    "last_modified": 1546618543912
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Nein, das ist keine geschmacksneutrale Note.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "99f5c09b62e77177de83c55f44385546efb8291e1abb7949c14d771e78b2e246",
+    "last_modified": 1546618543894
+  },
+  {
+    "valid": [],
+    "source": "i have written them",
+    "invalid": ["davidak", "witzwitz", "AffeAli"],
+    "approved": false,
+    "sentence": "Ich kack dir die Festplatte voll, du spasst.",
+    "Sentences_Meta_UserVote_AffeAli": false,
+    "Sentences_Meta_UserVote_davidak": false,
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "feabed9a696faeacaa35891deaf3eeb1c79ca7413a9bda44ad905f22ae1433b8",
+    "last_modified": 1546618524589
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Nichtsdestotrotz sehe ich nicht ein, warum ich nicht Recht haben soll.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "9a0ff28d0a48343adafdae6479cf2ffa776818b3e9299f18365c5e51a1d5c254",
+    "last_modified": 1546618524573
+  },
+  {
+    "valid": ["AffeAli"],
+    "invalid": [],
+    "sentence": "Zähneknirschend musste er seine Niederlage eingestehen.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "id": "abd96754be836caab0bfc51a5d69eacf009985fa7f579e13026b40d4fb9486ff",
+    "last_modified": 1546618508635
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Gestern hatten wir Nachtisch, heute dafür Vorsuppe.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "35651c70fd74467550f82709ac85c2786f19f8653f333d69b3f800ebdd872239",
+    "last_modified": 1546618501189
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Das kann man so nicht sagen, da sollte man differenzieren.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "46f89b07f28b64902b81aa75fc9da7721b6ced6456b5970ac41a63f192d483ad",
+    "last_modified": 1546618492347
+  },
+  {
+    "valid": ["admin", "AffeAli"],
+    "invalid": ["davidak"],
+    "approved": true,
+    "sentence": "Manchmal läutft‘s besser.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": false,
+    "id": "301d23e7bb657e7706d06a487227405d6a56432002a91a0b848b66539ed75110",
+    "last_modified": 1546618473526
+  },
+  {
+    "valid": ["davidak", "witzwitz", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Jetzt ist es ruhig und alle arbeiten.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c4fe657e16bcb91abdcff0cdafe65d95381850f12e8eeca984837204a7c21ce0",
+    "last_modified": 1546618458292
+  },
+  {
+    "valid": ["davidak", "witzwitz", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Produktivität kann man nicht mit Zeit messen.",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "c1720ada4c278d352964b581e7e69558a00f3a4982fc2b73f048bfc3678da370",
+    "last_modified": 1546618458277
+  },
+  {
+    "valid": [],
+    "source": "i have written them",
+    "invalid": ["witzwitz", "AffeAli"],
+    "sentence": "Vong Sinnhaftigkeit her sehr entleert.",
+    "Sentences_Meta_UserVote_AffeAli": false,
+    "Sentences_Meta_UserVote_witzwitz": false,
+    "id": "96b595fe89a75819d873a6c35034ee8a3fd538f4514fef4be90f9e1c86367518",
+    "last_modified": 1546618443035
+  },
+  {
+    "valid": ["witzwitz", "AffeAli"],
+    "source": "i have written them",
+    "invalid": [],
+    "sentence": "Du wirst in der digitalen Welt gehasst",
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_witzwitz": true,
+    "id": "781a5de62dbe9cc1426511bc870e1e7a229496afd1195c5f9fb83c5711cd71ea",
+    "last_modified": 1546618443017
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Angst zu haben ist keine Scham.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "c2321ef5565c45b400f53a54197d9a21d69bc3aaae870d8be8943e0f9977664a",
+    "last_modified": 1546618414747
+  },
+  {
+    "valid": ["admin", "davidak", "AffeAli"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Wenn man über Nacht berühmt wird, kann man am nächsten Tag wieder verschwinden.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_AffeAli": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "46a7d653bfcff05a9f6e9d6710902b28dcff1157a92f3e9d1118caf728516eed",
+    "last_modified": 1546618414726
+  },
+  {
+    "valid": ["admin", "a", "davidak"],
+    "invalid": [],
+    "approved": true,
+    "sentence": "Der Eigentümer des Bienenschwarms darf bei der Verfolgung fremde Grundstücke betreten.",
+    "Sentences_Meta_UserVote_a": true,
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "5f92f6f3ed5c6bc4c7edf4e7bec3f7fbfb9f46dbbac69422d214564839ca1e73",
+    "last_modified": 1546503369978
+  },
+  {
+    "valid": ["admin", "davidak"],
+    "invalid": [],
+    "sentence": "Prinzipiell bin ich dagegen dagegen zu sein.",
+    "Sentences_Meta_UserVote_admin": true,
+    "Sentences_Meta_UserVote_davidak": true,
+    "id": "8a7a948977f444173aaa7cc6a9b9ae781b43634790a3eb6eee13d161a62419fc",
+    "last_modified": 1546500954331
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Blaubeeren und Braunkohle, Sachsenanhalt hat mehr zu bieten!",
+    "id": "6271b28f0b423700338dc04a8357b2a7c570759407d59d6d4a923cbd00665d99",
+    "last_modified": 1539892232852
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Fragen über Fragen, aber eine konkrete Antwort würde zu keiner gegeben.",
+    "id": "36baf61d18f880098b31676bc1a18ba266e3c6b3a05bccd2d88db216d4d34725",
+    "last_modified": 1539892232817
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Warum kann man Luft nicht sehen.",
+    "id": "80422d52dc1b53af0cc02c7469e1a3ece9bab2412bb770c284e29e757e8eae2f",
+    "last_modified": 1539892232590
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Das kann kein Zufall sein.",
+    "id": "aa9b3eaba8acb2d6cf755f1ad8d63ca19f940278eb3c750f33b60de849219aa2",
+    "last_modified": 1539892232423
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Heute ist es nun so weit.",
+    "id": "9c32c71a50eca47c04c7305937f52f6da61ae1199aff13d646c5b1f3ebb13667",
+    "last_modified": 1539892232406
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Mit einem freundlichen Lächeln winken Sie ins Publikum.",
+    "id": "ac1df196e34c47201a860c55ffecaa2002c885df975e614ee102df7cfd64b1cf",
+    "last_modified": 1539892232387
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Die ersten Blitzlichter flackern auf.",
+    "id": "4800f5b721d150edbe7a70c75e438ad5a127bf696680afcbb700c26efc4109f9",
+    "last_modified": 1539892232366
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Ein älterer Herr betritt die Bühne.",
+    "id": "079d1b86509b1e22b9966c279a4e4ad3386ec2784b856d808305e420e4cae0c4",
+    "last_modified": 1539892232349
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Woran liegt das?",
+    "id": "d9a9fa76a98323ed732245c0696e951e223d5273c745a9a3e46b2a0fc6841dd7",
+    "last_modified": 1539892232334
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Was bedeuten die Begriffe Heimat und Glück'für euch?",
+    "id": "115160af299b54be236af8ffcc75d203e5ae185fdf2b3077d51471d98bc9e90c",
+    "last_modified": 1539892232318
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Probleme sind dazu da, um gelöst zu werden.",
+    "id": "61b91ca01364f3ae6d5bda6659f11d33bef3c8aa5bad6812d9c0fc67abc68cb7",
+    "last_modified": 1539892232302
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Beide Satelliten werden in einem geostationären Transferorbit abgesetzt.",
+    "id": "ef9e58afa28e791302b2be513ddc0c4b8adc37573fb16d58d94fdc55d5e323bf",
+    "last_modified": 1539892232287
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Das Haupttriebwerk zündet nach sieben Sekunden.",
+    "id": "96480db6f165db7ec69c206e08f0126d2d7a0e809cdc4c51a4f10dab0ce1c1e9",
+    "last_modified": 1539892232268
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Ohne Schwerkraft bilden sich Muskeln und Knochen zurück.",
+    "id": "b317e4b47436ebf399c14e02ccdf14a005bf89b9294b92eb90ef206aca61113b",
+    "last_modified": 1539892232252
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Viele der Anfragen haben auch schlichtweg nicht ins Profil gepasst.",
+    "id": "d784b059697949aeeaf6ca1cbf9ddd91b1fb20a56ba7f7db279941a90661d0be",
+    "last_modified": 1539892232237
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Wir nehmen das natürlich alles sehr ernst.",
+    "id": "7353b1d0623dc5f5475ff71ace41b0dd70509a476e100cd2b0534efea2d548a0",
+    "last_modified": 1539892232221
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Immerhin ist der Eisberg größer als Berlin.",
+    "id": "274f7483e32fe523620b87b5117e27a60f11744dbd3e583ec6ce50f79f921712",
+    "last_modified": 1539892232205
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Doch hierbei handelt es sich nicht um einen besuch beim Optiker.",
+    "id": "2d200672ecb26d95c591cd0e2cc676bf896374d129d97e2718d87613d538032c",
+    "last_modified": 1539892232190
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Für das Küchenpersonal heißt das vor allem einen erhöhten Aufwand .",
+    "id": "479595b487883d9d9368df4e6a8d8d31847b0afc253ab2f014d03c7cf7f96d22",
+    "last_modified": 1539892232155
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Der Wecker klingelt, draußen ist es noch dunkel.",
+    "id": "3f6ab1737cd871d8d2fc9eaa65b5e417a65be120810d25d171be52ca51b65d9d",
+    "last_modified": 1539892232138
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Die Rakete wird auf ihrer Mission wird sie zwei Telekommunikationssatelliten transportieren.",
+    "id": "36784d5869bbf8da631e727033012191b15eecc22163788a441e49232dc08b6d",
+    "last_modified": 1539892232122
+  },
+  {
+    "valid": [],
+    "invalid": [],
+    "sentence": "Er hat den entstehenden Schaden zu ersetzen.",
+    "id": "9223c000df85092112da8181a4a8bd0e5c2458a23d3cb224d814d38929844068",
+    "last_modified": 1539751815143
+  },
+  {
+    "valid": ["admin"],
+    "invalid": ["a"],
+    "sentence": "Er hat den entstehenden Schaden zu ersetzen.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Sentences_Meta_UserVote_a": false,
+    "Sentences_Meta_UserVote_admin": true,
+    "id": "e9145d262a8743510c9c0a0c85ff588298b8e424c49b229ab24c6e732d460b99",
+    "last_modified": 1539583584163
+  }
+]

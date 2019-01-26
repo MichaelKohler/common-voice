@@ -1,0 +1,253 @@
+[
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Toch nog eens proberen.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "327b2473f4f9f06d2e13486e3d46a7049fd82cbe77ff887e6aa3d4df3063bc58",
+    "last_modified": 1546991373645
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Misschien als ik er wat meer maak.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "f31bf61eada27c6c8ef6c354489dd9d9f31cd84e79dfbaf7b8fe222c7514f23d",
+    "last_modified": 1546991304252
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Toch niet blijkbaar.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "225fb783b28d04d6fdadf07ba3110d03bdc341339d4637d62328d06000ff7b27",
+    "last_modified": 1546991304239
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Kan ik deze zin tweemaal goedkeuren?",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "255910d048e46acd615d3a10a0788512be398df5b6a22aa5f52762b3b135049e",
+    "last_modified": 1546991233803
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Dit is een tweede zin.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "76847553c8fa6e1a93d969f74c2ca5b802a8641e4e4f52f23864bf1243da997e",
+    "last_modified": 1546991175764
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Er is nog veel potentieel in de Sahara.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "869468e200bbee5e0b5ed78930f2e186b4ec251b904cd7d79afe06f32927bb88",
+    "last_modified": 1546991175745
+  },
+  {
+    "valid": ["jfdaniels", "jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Oma's muziek is niet meer van deze tijd.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "ad11e666014a9451c0d0489a2dcea0ffd15e100944a68f8e6e4c02e7a711f14b",
+    "last_modified": 1546991175727
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Test from GitHub",
+    "invalid": [],
+    "sentence": "Dit is een zin zonder apostrophe.",
+    "username": "mkmk",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "fe081d634e6433f76aaf52c508d1027c52fca1fe268a4cc9165d0442afd7567c",
+    "last_modified": 1546991168694
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Test from GitHub",
+    "invalid": [],
+    "sentence": "Alex' auto is snel.",
+    "username": "mkmk",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "49a500944654d996821c89872b144bfb6fa41fb2edd07045c3e8a254e5c72d92",
+    "last_modified": 1546991168677
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Test from GitHub",
+    "invalid": [],
+    "sentence": "Oma's bezoek duurde niet lang.",
+    "username": "mkmk",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "8ceb08ce607f938d8dbca1e548694e8d3a0857cfc73d24e40d1301bafb37b200",
+    "last_modified": 1546991168661
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Oma's wonde is ontstoken.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "b5a6d496081bf29faebd5a0c3bf30a77d646c09980e257b0533453b1859ca6c0",
+    "last_modified": 1546991130292
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Joris' antwoord was het beste.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "518b10554ae1ef2836f6550e9b548ef83c7d9787616c096dd441783067bc3b37",
+    "last_modified": 1546991130269
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Toch wel pech met deze zin.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "a1362f4a9547e32f3e7925887fc8920c4a26fc46496fe6085d8962fb6a0d0a09",
+    "last_modified": 1546991130241
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Joris' auto is rood.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "1bc68e7f937a02e622bea97610af9a8c14b45e2e347ca1ae5719265a1ee92235",
+    "last_modified": 1546990954268
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Elke's knuffel is vuil.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "eda077de609519c65820c23c7ddd38fa2ca85d45f4d69c0ded553345c96c41e1",
+    "last_modified": 1546990954255
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Oma's tomatensoep is de beste.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "7f3bd51481008cce0ff886e5a3159707e47a7e97fae1b5c856f9ab2e1d23caa9",
+    "last_modified": 1546990869443
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Alex' benen zijn lang.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "830438decddc7eb3b0ef0401693267a17707e136d6bc7cf5765245a04625484f",
+    "last_modified": 1546990869429
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Het is een goede dag.",
+    "username": "jfdaniels",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "06c7592bcdce2a410bf63648867bca8f74308087228e378a536e82bc45da9d3e",
+    "last_modified": 1546990869415
+  },
+  {
+    "valid": [],
+    "source": "Own creation",
+    "invalid": ["jfdaniels"],
+    "sentence": "Dit is een zin met een € symbool.",
+    "Sentences_Meta_UserVote_jfdaniels": false,
+    "id": "d44525bc79606686cca1e2ea617f84716434d8f9f9f02c3f20597a8755e7ff2e",
+    "last_modified": 1546650653308
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Dit is een gewone zin.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "7db8044368e770f004fd4370b97935ef07e79a04c75231cae95c395a16b68840",
+    "last_modified": 1546650653294
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Mag je symbolen in de zinnen gebruiken?",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "ec59fb70a38f847b031c81b9e38056109ef6e99764a1d2d1283bd20a54996781",
+    "last_modified": 1546650645614
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Hij gebruikt het euroteken op de foute manier.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "2fc5562103b2ab6b7cf9bd31c96bba22fa72a876157425c8d4c5981fa0e42ae4",
+    "last_modified": 1546650645586
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Het is een goed idee om een nieuwe website eerst te testen.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "e393e82729e5bf878bc3c0930b6c5909395721fa2032d802a8ef7b754e200ed7",
+    "last_modified": 1546650645564
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Ik denk dat mijn pees ontstoken is.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "201a54ab57fa34276d6818b79aeaf8e7018af341fabc5642f31368770e5f060b",
+    "last_modified": 1546650631179
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Het is relatief gemakkelijk om zinnen toe te voegen op deze manier.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "4de0574cc89733419baf61e89495c4fc6a22b394edbb0c7fc597cce10d88c634",
+    "last_modified": 1546650631158
+  },
+  {
+    "valid": ["jfdaniels"],
+    "source": "Own creation",
+    "invalid": [],
+    "sentence": "Er zijn goede kaarten beschikbaar op OpenStreetMap.",
+    "Sentences_Meta_UserVote_jfdaniels": true,
+    "id": "fa571e88b42c956319e88ddbcf7d62a05e973142dc6b4bfb49fb15f8c6e4c182",
+    "last_modified": 1546650631135
+  }
+]

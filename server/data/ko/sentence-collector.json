@@ -1,0 +1,2777 @@
+[
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "식사를 마치고 졸음이 쏟아지기 시작했다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "48d45898cd9086bd2c479176ab77bcf88bfdd5cada6698b1d8c3e7ed5ef43348",
+    "last_modified": 1542854047135
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "날씨가 맑아서 우산을 챙기지 않았다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "49ba1bdaf33d51fc3e54ad47e33a12dd68b770a4c6b021ac39353a0ef4014638",
+    "last_modified": 1542854047121
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "실패는 성공의 어머니이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ba06ba5b21505b2f0333598c0093f73a66f40a961668c5f86f70db13c203237e",
+    "last_modified": 1542854047108
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "옷을 사러 백화점에 간다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2f1276f0e05e475dd169017167033e0b84a0ba55fe2982c9b3e47fbb269eab88",
+    "last_modified": 1542854042131
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "인생은 가까이서 보면 비극이지만 멀리서 보면 희극이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ec2869808c6170c7618fcf3018149b15342df8b6154cfb7a0745228dc2142074",
+    "last_modified": 1542854042110
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "역사를 잊은 민족에게 미래는 없다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "60477ea1d0c33e9c999edc42aa7d60ded7efcaefa57b2b895906749cf28acb0f",
+    "last_modified": 1542854042089
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "그는 매일 아침 운동을 한다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "563b48bd175e7473948cddc4cabf7fefbfec8801cf2947f7c21860e3e74a4b6f",
+    "last_modified": 1542854036814
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "열심히 공부한다면, 그는 시험에 합격할 것 입니다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ed36cf82ec4209a2057f8b5a6e6e4595d2bc0e6822a9bc9cde3e30294a315d3f",
+    "last_modified": 1542854036799
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "이 근처에 약국이 있나요?",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "09e8c6b9f8724e15cef53e993d9565a55fd2e0153d370996397493fe46263a90",
+    "last_modified": 1542854036786
+  },
+  {
+    "valid": ["whehd16", "gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "안녕하세요, 반갑습니다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "64a8acd6a5dd9b577bf819e1a7d947136237b3409e3efdbb0fc1043ed6b41dae",
+    "last_modified": 1542854031562
+  },
+  {
+    "valid": ["gur6531", "whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "우리는 너무 급하게 인생의 정답을 찾으려 한다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "cdaa798ad1810560e1091bc02814598e0bf3f3da68644fa3f29e9c751c0b6007",
+    "last_modified": 1542854031549
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "출입문을 꼭 닫아 주세요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "01877ed2ea147f7428d93c22c66b6da71f402beae9d11b2c03133b14d0fa7052",
+    "last_modified": 1542854031535
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "서울 등 수도권에서는 퇴근 시간에 비나 눈이 내릴 전망이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b5f500ac5ce2a4eb39d6c42998817496b6187b18276367f18ad67fabebebf56e",
+    "last_modified": 1542854005981
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "이 책에서 사용한 번역 및 표기 기준은 다음과 같다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "1acd8da5984baac3113b01b8c8181f361a750fd2528bc90dbe4f22a835d91e01",
+    "last_modified": 1542854005936
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "가장 오래 떠나 본 기간이 며칠이세요?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2b5eddcd7fe94ed481c3b51e1c80e070debaa4b9345f0cfd9d80306cc490169f",
+    "last_modified": 1542854001999
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "아름다움을 찾아가는 것 이것이 여행이다",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ca0c5f549605a1fa6e17c69047d7ddb4cfbb88fd50459a4c2db392b998171078",
+    "last_modified": 1542854001985
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "당신이 뭔가를 잘못해서 혹은 사랑받을 자격이 없어서 학대를 받은 건 아니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "64b7a37fec691cd002c83b8b4d5186dba1dc4238e0a8d3d28239b4513763e627",
+    "last_modified": 1542854001970
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "나는 당신의 눈을 사랑해요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8ce95c17a128a228272103f4d2c17922466f0a377ce4053af597d62032a9ac0e",
+    "last_modified": 1542853997894
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "저는 치과에 가서 치료를 받았습니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "53ff625091644fc582699bca955c179a48bb034dd834d90d59482c1d6b808061",
+    "last_modified": 1542853997877
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "배가 고프니 식당에서 밥을 먹어야겠다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "59440bb0c13d49baa5faa0cc4bac83552dbe12515da106f06a4a57345fe97e1a",
+    "last_modified": 1542853997850
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "당신은 충분히 사랑받을 자격이 있고 눈부시게 빛나고 미치도록 사랑스러운 사람이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "d5cdfe10d22bbdfaa6addb9463126c8d2b42b5f9d043d81175028673f72e48f7",
+    "last_modified": 1542853993480
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "밥은 먹고 다니는거니?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "9c8b137673f5697974a40dab2c97894c89b3edbdabd035abb3c581711884813d",
+    "last_modified": 1542853993464
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "비가 오니 나갈 때 우산을 챙겨라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "75b7faebae2e309ee09435795124564e913fcef74b78c0d1a43ffff101937cf7",
+    "last_modified": 1542853993446
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "잊지 말자",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "7aae5f7688aa7cca0f2d067cff57124de9b72408f45dab69d74fe2edfe175da6",
+    "last_modified": 1542853989532
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "나는 어머니의 자부심이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b660610148bec52ae2979130471ed1b512dba67ccd745e0f7351c403968a0a32",
+    "last_modified": 1542853989514
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "학교에 늦지 않게 일찍 나가야겠다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "51138355848f7f750eb76ca6a8f1421c5e71b904608e636f4c02d91d1e6b3545",
+    "last_modified": 1542853989494
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": ["whehd16"],
+    "sentence": "모자라고 부족한 자식이 아니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": false,
+    "id": "e338244741d7010d6b9bfdd35b1ea10cf8108a14f8dc4760ac93346cedaf52b7",
+    "last_modified": 1542821763333
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "발이 너무 아파서 병원에 갔다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "32a1a3729cd2aee0d27377d5d0c159b74309f0baaf91eb82efe7b237774f5769",
+    "last_modified": 1542821317015
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "일을 하다가 피곤해서 낮잠을 잤다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "9217426fcde46d0863df4af9dec69cbe1d1d1ad693d69be213c33b035c41fe16",
+    "last_modified": 1542821316997
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "내가 니 시다바리가?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "f4721fa3536bf1dc8f899e1e4b6e71cb01bceff53f22a59cd5bfcab4f8f98030",
+    "last_modified": 1542821313239
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "사람은 태어나면 언젠가는 죽는다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5255e4a7001dbf262ee84e9200a42a88054243e3e0aa059fcdaa1795ed3f49ce",
+    "last_modified": 1542821313220
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "살려는 드릴께",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c1a41239d4b22a20c9ae924395f4de5cf1f8c1958a047c23e7130b872c57eb5d",
+    "last_modified": 1542821313201
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "나 오늘 수업 못가",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "08690e9c550922db94feed87817929f134ccc57925d3a2ddd5a1cbae85708134",
+    "last_modified": 1542821309629
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "살아있네",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8a5507ebb747bc19e7bb3fd68ec6f6fc5ea1b6660c865ed410a51260494815d5",
+    "last_modified": 1542821309613
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "시간은 계속 간다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "714ae94df617bc1828835574440dddf0b84cf94e04463b04cd2bcd8bf1eb93a9",
+    "last_modified": 1542821309597
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "나는 준비된 게 없다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "43a95084684307c4691a005fd3d69bf220cc4da3fa315ba30a326e141d5dadbf",
+    "last_modified": 1542821273386
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "너는 우주의 아이이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "38292e5f909ca1b7f2a67e72a7c67cf4e644920bf88a81dd19b804fc8dbf9255",
+    "last_modified": 1542821273371
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "선생님은 좋은 의사입니까, 최고의 의사입니까?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "a4d56cb883159947ac42a13e33db3742597ba924ff844fbe496b297bbe6b4bb1",
+    "last_modified": 1542821273356
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "공지사항을 읽고 꼭 지켜라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "aae2d3d217acba553d485f945f7923c4ff8cd97930743c397021b6e73725cdf5",
+    "last_modified": 1542821259068
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "개인정보 유출을 조심하세요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c9fee999d3b867ad28bb21d355012f56b3531870ca4d8117b47a32439d072a00",
+    "last_modified": 1542821259052
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "이 세상 나무들과 하늘의 별들보다 못한 존재가 아니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2c3a1f91fd6bd9d8e532f604626bd91c896381d05aaf003757b2e91150921b80",
+    "last_modified": 1542821259038
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "게시물을 등록할 수 없습니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "7e1e3605dad354a625f463d94501ebe7beb2136aa6acf3330ad101229c36737c",
+    "last_modified": 1542821254066
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "나만의 진로를 준비하는 확실한 방법을 찾자.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "67bc05508986b96151f09c76b9aaa88fb0decc102704826d5549d42c352969c1",
+    "last_modified": 1542821254055
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "밥 한끼 같이 먹은 적이 없다며?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "3e20641c8b42bdf38ebc2c3e2c1daa2b8c401c5ae4c14c2551338d5e40fb8c7d",
+    "last_modified": 1542821254044
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "그게 무슨 가족이야?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "02a449c18aa2ffe45b5967092496430b0b15299de06982a08f7952dc6436a8f9",
+    "last_modified": 1542821242495
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "고통이 너를 붙잡고 있는 것이 아니라, 네가 그 고통을 붙잡고 있는 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "3ab8e7984560cd02ae582929a2e4695c2aaa04758aba37f8987e06c91af93473",
+    "last_modified": 1542821242467
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "도무지 무엇을 해야 할지 모르겠다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "692a555eadd9bd3067f1adf06743b40b9c383b4447590bf7c328bf660cfd8037",
+    "last_modified": 1542821237897
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "대체 언제까지 이런 어른으로 살 것인가.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "0eb06b861d84b7c1741289a0656819159f6e305665cd44776eb0dabcd26a6daf",
+    "last_modified": 1542821237878
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "왜 하필 지금이냐고 묻고 싶었다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ad4ffa7af0eec494078448a2449b1721571a39c6649f3b2d7870c0a74e241d2a",
+    "last_modified": 1542821237863
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "행복이 곧 길이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "cbf60204ac05faf690436633aecf558d720996082d063d0c96df5933d4829871",
+    "last_modified": 1542821234174
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "과거가 얼마나 힘들었든지 간에 너는 항상 다시 시작할 수 있다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2ae6f194bb8c44ec642db75b877061244ed8b8412473e643e1770453b509e0e8",
+    "last_modified": 1542821234161
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "제가 너무 가진 게 없어서 죄송해요 어머니",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "891e4ae1e5c22cf11198af529dc2b79ec9a4b7e1a28adedd35b5a3b23b33b06c",
+    "last_modified": 1542821234146
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "바늘 도둑이 소 도둑 된다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "f615073547613250e2e3d00e87bb004a0cf3f3491de9e797ac57169c2c27e444",
+    "last_modified": 1542821229866
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "인류를 밝히는 등대와 같은 인물을 양성한다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "1d7b6019824218ed41359416c2621cb411c61d13520efb99d8d0b35a3bff3f14",
+    "last_modified": 1542821229854
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "그의 마지막 말을 들을 수 없었다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "dd4ba3744fb3316438b11eff7592d2beea743e889540b5fb416aa1ab181881e2",
+    "last_modified": 1542821229842
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "우리 인생의 최고 목표는 다른 사람들을 돕는 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "30ed75dabb4519764d672b4232daf029db7ec506bcca2d766da8d5ff7b47254a",
+    "last_modified": 1542821225229
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "내가 당신한테 폭력이란 힘을 주지",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "36c6000fbbd7d2d1eb84e2d0747af4aa04c253cc36d1bada92f9ef8c7223d8d5",
+    "last_modified": 1542821225215
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "사람이라서 그렇습니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c96abb080c111737e76ff048a7f7fca2e2ecd5c2472262a02b7e817c26ed58ad",
+    "last_modified": 1542821225201
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "하지만 이건 사실이죠",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "19e1e23c1b9a0dfcc2e5ecf4aa3b10ca8993b0452053d6e61a918106130a4456",
+    "last_modified": 1542821219484
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "기적은 매일 일어나는 것이라고, 그런데 일부 사람들은 그렇게 생각하지 않아요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f89d2a2a25ad7aec6f96f79f31227cc19f9034bf3617988863ffcedcc8707b0a",
+    "last_modified": 1542821219473
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "엄마가 내게 말했어요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "df9a9c69a4b93cb77e21ad598da284f4adecc31c9a89f14b1506d6f0be1a6400",
+    "last_modified": 1542821219462
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "열의없이 성취된 위업이란 아직 하나도 없다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "71c2ecee8fe528d4cbc24ea97b83f4be3148eaf84310913adbab507fc334406f",
+    "last_modified": 1542821214618
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "나는 죽음을 겁내지 않는다, 다만 의무를 다하지 않고 사는 것을 겁낸다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "ffbbffca00a2043f834e7ca9aa6581872ce26fd5d3015be6aa6fc707f0909fbc",
+    "last_modified": 1542821214602
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "죄는 미워하고 죄수는 사랑하라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "6c9ac39fcebd21e14cb1126623af7c98b8d09e22eb2d909aa4b1112702e49805",
+    "last_modified": 1542821210231
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "오늘이라는 날은 두 번 다시 오지 않는다는 것을 잊지 말라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c22e4a6388b6d71ac529af7bf3421f84b7fdf88c7c8b9f59ae4e2220e347b89a",
+    "last_modified": 1542821210218
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "모든 문제들은 피하는 것이 아니라 맞서는 것으로 작아지게 만들 수 있다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "82faad5320f733e8fc7af70e14f8b8ec1e945b498a9e31fd8aeaf8438220f135",
+    "last_modified": 1542821210204
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "만약 진정으로 원하는 것이 아니라면, 당신은 변명을 찾을 것이지만.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "732819388a2c479488042c3afd94c6c01f719daeb837b702b1d5de6ee1817bac",
+    "last_modified": 1542821205725
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "당신이 진정으로 무언가를 하고 싶다면, 할 수 있는 방법을 찾을 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d3f60e99d8b074677eaee67384e6545da6cd58ba40522afe3eb69ea5eea4e808",
+    "last_modified": 1542821205712
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "오늘은 내 남은 인생이 시작되는 첫번째 날이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c9027f504dfef0114efb82b0dbb12b843c447c5c6056fce50bb1d2fd29a27282",
+    "last_modified": 1542821205699
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "목표란 우리들이 계속 앞으로 나아가도록 해주는 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "655500b27a67b5f0c6dacb57a8b8e97252495a2b0fa7402f8de01eff2939264c",
+    "last_modified": 1542821201385
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "오늘이라는 날은, 당신에게 남은 인생의 첫 번째 날이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "fd4eac8691f05d6b9c60a04a5fe991dab3b15099e3cb1593cfd2800e75fde5a9",
+    "last_modified": 1542821201369
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "행복하고 싶다면, 행복해라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "5e82c69f0604930ccd6a7018d9a545b5b89be06a1fc89d81d502006d8963f000",
+    "last_modified": 1542821201353
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "당신이 이 편지를 찾길 바래요",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "9388b958f578ff054c5ed628be5923f00d2a496a797ef53c0b608a2212b37224",
+    "last_modified": 1542821196887
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "그리고 좋은  것은 절대 사라지지 않아요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "1deaf03cf227565ecbfbe935696b258c7ad2103e921e488fc76cf4d899d8032b",
+    "last_modified": 1542821196873
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "모든 것 중에서 최고라소 할 수 있죠.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "de5d98e847ed4c4c5f32d11cdc7096416e5da7414685e2835a8da6909b8e67c7",
+    "last_modified": 1542821196858
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "또한 우리의 삶도 어떻게 선택하느냐에 따라 삶도 달라질 수 있는 것이지요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "273f54a4c2d769e5b5befe1b4af84cf6cc1bdd152bb70e93da224e3c045b9e5e",
+    "last_modified": 1542821191998
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "당신이 무엇을 먹게 될지 절대 모를겁니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "95e38af41c43e1c2d4f2c14ae21d6118d867c39ed716283e526319e845a686a1",
+    "last_modified": 1542821191984
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "삶은 초콜릿 상자를 닮았다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d584c635090a7b4beffd692b5d581b87943454e3e0d59cc98ee4c8fc6e0e87fd",
+    "last_modified": 1542821191971
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "한 사람에게서만 느낄 수 있는게 사랑이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "8cb78697f38c7ecc8ae22002e8f0719c9a0cd2fb865241fcfcdab0da8beee75b",
+    "last_modified": 1542821186072
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "행복하는 것, 그게 전부인 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "459c54611e37344783a8ba6db90edc2725ba54d880bd5f826d589dea9902e07b",
+    "last_modified": 1542821186056
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "삶에서 가장 중요한 것은 삶을 줄기는 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "a1e999eb89c0895f5984988a1632d120a76be83864aa4184f8c753e3654976b9",
+    "last_modified": 1542821186042
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "끝을 맺기를 처음과 같이 하면 실패가 없다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "410c661479a9bbddebc822ca1c16925ce6e9c6b2d3fedf4ca536e059f3e78b81",
+    "last_modified": 1542818643903
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "다 같이 의견을 수렴하자.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "45be9723088c2f622a868e939e9d24482cdccce6179853a679f95790ea401628",
+    "last_modified": 1542818643889
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "초대 다수의 최대 행복을 얻는 행동이 최선이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "dd311e2a5fb9579ccfeff568aa82cb8aafbbe8b3422b52021e0e13827c214cd7",
+    "last_modified": 1542818643875
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "뭘 원하는지도 모른다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "edb930579c179896daf87516d1f161f6b2188e08683511ec25b49da1a1c23caa",
+    "last_modified": 1542818636113
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "네가 누군지 모른다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "ac4bbdbf919a9299dc81e8c36f30d8f76c9c2328aee64a78cbe20dd5c70f5026",
+    "last_modified": 1542818636102
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "이 돈을 어디에 사용할 지 생각해보자.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "914854498ddb0941510f123ffd63899bac50c7fe3b03101e86891c941871a992",
+    "last_modified": 1542818636091
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "배고픈데 무엇을 시켜 먹을까?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "8cfada9c7d78f2f8831484bdeb105a54b07deac62d3a693cfcb6b84d26748ef2",
+    "last_modified": 1542818630522
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "건강을 이기는 미는 없다",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d7f19b71827b97c92dad1babb11937835d73955625d17d9aef639b1a4f234a2c",
+    "last_modified": 1542818630509
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "네가 가진 동정심에 네가 포함되지 않는다면 그 것은 불완전한 동정이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "bc1036573807432aca837ced1b50b06de9ec453386fdd3a53b4b85177ea3f934",
+    "last_modified": 1542818630497
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "당분간 조심해서 다니자.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d365a03e58b2625100fb9796d6a84fc8bd5e574e8767d435c4bc42db9ef5e40c",
+    "last_modified": 1542818626245
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "확실한 일을 실행할 힘음 누구나 가지고 있다",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "ff891dbf97ad8d2f5797e417c2bc8c7ca869c3d76365f80a25ef554022e0cc74",
+    "last_modified": 1542818626231
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "그를 설득하는 과정이 길어졌다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "b52e98b999fed3777334d0d1fb55ee1b2fa6d8ac6bb9eb661bfc191aa420bf4b",
+    "last_modified": 1542818626218
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "우리는 각자의 분야에서 자기 역활에 충실한 연극배우 일지도 모릅니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f55d9777b6ae0fe4566bbafb1b44780190f783800c0fe277d61f9419a85f170d",
+    "last_modified": 1542818621993
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "논란 끝에 결국 해산됩니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "3578640500503b3863a4eb340c0517e39f726be446884371c73313f454eb6eff",
+    "last_modified": 1542818621976
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "미래를 향해 힘차게 내딛는 우리가 되자.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "3737bd04b5e8305dbc98422fe0602e8c749a833641248f41b9b5e30d54f1b741",
+    "last_modified": 1542818621959
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "이 또한 지나가리라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "247457c166ed4ddb99bffe19a2cbb24771c807fb61289161e215574c5837829a",
+    "last_modified": 1542818617755
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "하지만, 용감한 사람은 겁을 먹더라도 계속 전진하다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c78c64f6be3b53d535aa27714410b060b4297b908807caae64a1c8d4065e383b",
+    "last_modified": 1542818617737
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "겁쟁이는 겁을 먹고 포기한다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "507c5c86fbfcb3c3f9b6c105ea993adf53417c11acf2fab0ae575e4a91e6dde4",
+    "last_modified": 1542818617724
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "내키는 대로 죽이는 권한이 있기 때문에 두려워 하는 것이오.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "1c215ecc02d0b6041c79a9c01d1e720c8ed0f49f41cafbdc91b6241b35b225c9",
+    "last_modified": 1542818613807
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "모든 것은 마음먹기에 달려 있다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "e44b89632cf6e4b493717431d3a2e56426a7e992395c7f12bfa7100b8a3bdab5",
+    "last_modified": 1542818613796
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "공든 탑이 무너지랴",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "257f2d8d849518f232dfc918e2aac9c5d447f8a10c1d1da403669c2916aa206d",
+    "last_modified": 1542818613785
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "교육뿐만 아니라 사회적 요구에도 적극적으로 부응해야 한다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "1c54da7c50c45a1c653f0a04817a7f54d6937034e381f319f25c7b963981bd43",
+    "last_modified": 1542818609925
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "죽지 말고 도망치지 말고 어떻게든 살아요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "bbb0319eaf8a06dca0bec664e1d2a12b5426069d721d036f8c2beba4d39d4a28",
+    "last_modified": 1542818609911
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "죽지 마세요.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f2621941b488be114adda44ab258bf4b3c0183b2663a560c0a0bacc0280e1da7",
+    "last_modified": 1542818609896
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "가는 말이 고와야 오는 말도 곱다",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "70cf97b1da0bfb9ead685ae7e55d51b6df6288485aec8a703f4378431b895079",
+    "last_modified": 1542818606363
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "우린 죄를 저지른 자를 사형에 처하게 한다면 기분이 좋아 질 거요",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "106ddddef0bf5f4261d3691e433b722a006d43be73ffcfbc2a5465d9ba5e78cc",
+    "last_modified": 1542818606347
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "어제 꿈에 너가 나왔어.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "001e65949472da3bf1dd935753bd130537496afbe10739e6b53bb5e947dfbc42",
+    "last_modified": 1542818606331
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "고생 끝에 낙이 온다",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "6b13994714e7a2dc3d0584bf8915a87289810b5d497c6a0bc663ac58aaf3dc92",
+    "last_modified": 1542818601912
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "너무 큰 걱정을 하는 것은 불행을 일으키는 가장 큰 원인이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f345fbdf04ca66e57e22c3205a5056be2c0986e593bf1be194ea970d457eccfd",
+    "last_modified": 1542818601899
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "소중한 것은 읽어봐야 얼마나 소중한 가에 대한 가치가 매겨진다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "930fc1c9ec95e41821954fdff0bbce3b35f38428297ce98c2b40468c6096642e",
+    "last_modified": 1542818601885
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "나를 불쾌하게 하지마.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "4341519fd8b34bb4d2e6a57f8d454e345e633771cb56e064b645f075836faae5",
+    "last_modified": 1542818597774
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "그 교수님은 참 친절하시다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "31b76262a5a25d3911aecafe31644e0dba616f64ab88ff072942455c57f71ba0",
+    "last_modified": 1542818597761
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "미래의 학문은 우리에 의해 주도될 것이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "a90a772a53384dde802c0c6c3bcf93f0b329f731e0dd7c4699c987579ba8f4b5",
+    "last_modified": 1542818597747
+  },
+  {
+    "valid": ["whehd16", "sea4136"],
+    "invalid": [],
+    "sentence": "인간이란 사랑받기 위해 태어난 존재이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "5127fecf7bbe31c417c32c3d50cbf934e806ce3fec70b571ef778dfb5de93e44",
+    "last_modified": 1542818592418
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "천재가 낳은 것도 모두 열중의 산물이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5faf6b886edca85b291a812eb5cbe91a2b666d51b088bf45fc0d05a027099419",
+    "last_modified": 1542818592400
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "인간은 하나의 갈대에 불과하다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8a35e9f4e08cd6b49bd400c72c910131af6fefe6f475b4ed24116e818800ce94",
+    "last_modified": 1542818592377
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "자연 중에서도 가장 약한 존재이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "fec12fb722c0d4c4919dde2cc4670873cdefc8f92deccbc7179e30dde1e21914",
+    "last_modified": 1542818586603
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "그러나 인간은 생각하는 갈대이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "6514348dddd8aa8d5663e63271524dce1e0430e4ae149a1ff8c6afadb4aed5c6",
+    "last_modified": 1542818586588
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "자연은 신의 살아 있는 옷이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "da54fa388e4e1b7e19af1cf35884824cebeab8e4136bab7aff32dbe79d626a9a",
+    "last_modified": 1542818586574
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "직접 처형한다면 기분이 더욱 더 좋아지지.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "20f08fe3fae959af20507bce1aed74e9047f8afcc923714b4c5a8f42a807c237",
+    "last_modified": 1542818579542
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "하지만 그그건 힘이 아니라 정의란 거야.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "7289718e091c28c14b7b47e0c1231752f7eebbfe73f3ee171b96c9d9cfeff2f5",
+    "last_modified": 1542818579525
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "그건 힘과는 다른거야.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "6605457987a8c7c6571a3681bdab4806d1fa4d315e3ee19c38154a2f8e5b783c",
+    "last_modified": 1542818579503
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "힘이란 죽일 정당성이 있는데도 안 죽이는거야.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e70e85297d8485eceacbe0b03777a670d49a7ae13934f29477d76e8520ea4d99",
+    "last_modified": 1542818574219
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "안녕하세요, 즐거운 아침입니다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ff065d01772c2a3f7cd59d096e2772929ddab092cdc5a1ea25e4166e362c02f2",
+    "last_modified": 1542818574205
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "내가 믿는건, 사람은 누구나 죽을 만큼 고난을 겪고 나면 더 이상해진다는 거야.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e50ac3591a99f9b61cf0889197d713857269898923fb5b7ae5cffbb43c37d58d",
+    "last_modified": 1542818574195
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "아직까지 안자고 뭐하니?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "19588b6ea7ef9000e597bad40061d557305143737db3268ab9a53a0db1b7835d",
+    "last_modified": 1542818568822
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "너 그러지 말고 이 쪽으로 와줄래?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "f0cd80dfbf9d66d0118473184724b8624dc1f88d7b74537bef9ceb2871396dba",
+    "last_modified": 1542818568801
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "저기 있는 음식 좀 가져다 줄래?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "cc8ec8379d854bcca407a1fbf1be0f8861870f9c7e5b741bd7ef51017530c2e5",
+    "last_modified": 1542818568783
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "내가 계획같은게 있을거라고 생각하는거야?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "06dd706db908c4a694fb009f346cf5aa118abd4c4ecc425c27a34656bfd1096e",
+    "last_modified": 1542818563744
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "햇빛은 하나의 초점에 모아질 때만 불꽃을 피우는 법이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e30e767becda2ecfe438b4eed1b59e5446e9a7b91899a5b209c31d28c58be2a0",
+    "last_modified": 1542818563728
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "마음의 통일 없이 무슨 일을 이룰 수 있겠는가?",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "256deac3f3d91996bd72d20cfba09403c93268cf6b7fc2bcd57d1e3e4cc5a543",
+    "last_modified": 1542818563711
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "추위에 떤 자일수록 태양의 따뜻함을 느낀다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4048006b627a3d513b5b6a97f83a8bc6464f2d11b0a3bcb6d751a7c0e2286f4c",
+    "last_modified": 1542817682305
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "술이 만든 친구는 그 술처럼 하룻밤 뿐이다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "9bd958b4b6246e54c1fc4371a07ca0a197cc06a96dd697d0eb1bf3e32ad8140f",
+    "last_modified": 1542817682289
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "인간은 죽음을 두려워한다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4091d734abdd5472555d363ef88be8cac719c85df058ddd39f7ef775c23fe5db",
+    "last_modified": 1542817682269
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "사랑이란 늙는다는 것을 모른다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5af4544be9c5254f78236b2398c5ad586bd5743555380131b52cfde29837eaf8",
+    "last_modified": 1542817676854
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "한때의 분한 감정일랑 참으라.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "97b56c92c9d74ece975346b3575d24db06638ad5ccb7a9c77ff7eea169f2ad49",
+    "last_modified": 1542817676840
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "울면서 태어난 날부터 죽음으로 떠나는 날까지 울고 절규하고 신음하는 울리의 얼굴만 덮을 것 입니다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "19a58736b7ffa8cf74a73e6c644ef4e93a6272bd367c1896960b5f63245bde28",
+    "last_modified": 1542817676827
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "무슨 수를 써보아도 이불은 우리를 덮어주지 못합니다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "907324f81a4e5160d4daf3bb12b561277bdb571e7e667934f24d36cda8009865",
+    "last_modified": 1542817672089
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "잡아 당겨도 늘어뜨려도 이불은 부족합니다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b74ea620802a5b8a413072c9fc720ee231ac0c932bf88474e489df02622ef1ca",
+    "last_modified": 1542817672076
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "진실은 발을 차갑게하는 이불 같은 것 입니다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ed77c114eb094bc98e2fb94d073559ab4f0d017181857ae0f4afd7aed5c3e3c7",
+    "last_modified": 1542817672062
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "친구는 가까이, 적은 더 가까이 두어야 한다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "21ec30f61d36470073e0b6c6c067dd5bea8b4de513f4b25cd9c673c491ed1fb0",
+    "last_modified": 1542817650581
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "성경은 게으름뱅이에게 빵을 약속하지 않는다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "30d62e545f17af9c3dac42ae59b101990ab23e4479e771d0feac72f328bd6c28",
+    "last_modified": 1542817650566
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "결혼은 따뜻한 사람하고 하거라.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "0938eeae5a1d80d1c658bec20c80a5e38d932f201cddb612cf4358f5519b252f",
+    "last_modified": 1542817650551
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "결국엔 늙어서 지난 날들을 추억하는 것 뿐이란다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c2c11cf2aa446845b73f4106a3d59fdddcde46cd36aafbcb1cd1c7a654f81f2c",
+    "last_modified": 1542817641606
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "인생은 누구나 비슷한 길을 걷는단다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2eeb31038615b9deb491255b29275df50e356232aba302ea42d8b23036ff15f4",
+    "last_modified": 1542817641591
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "나는 신발이 없음을 한탄했는데 거리에서 발이 없는 사람을 만났다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "093db5288b33573c0656e50c0e2d3617e97e4ad3393519236c07346d1ac74a26",
+    "last_modified": 1542817641574
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "실패로부터 배운것이 있다면 이 또한 성공이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "42adcc6caab5f83ca818f9c1592aa97bd21dccbf5e0f9defa1c98e2740b1d2b6",
+    "last_modified": 1542817634871
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "지나고 나면 결국에는 다 웃어넘길 수 있는 것들.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "3431dc3aeaa25b3ed539d4fc499a1a7627f50641fd0617f97ce7cfabe6944081",
+    "last_modified": 1542817634854
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "어떻게 말할까 하고 괴로울땐 진실을 말하라.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c16b17053a4abb421e439d6e68efdf1b4958c7943b87a31eb4f1270faff9b20d",
+    "last_modified": 1542817634834
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "발견은 준비된 사람이 맞딱뜨린 우연이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e8997a08b00647eb30a943933c80533986a12360a223e71b005782f9179a890b",
+    "last_modified": 1542817629706
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "너에게서 그걸 얻었고, 너에게 영훤히 주고 싶었어.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b8d76d16e012b6de441b26bc07e168efb7c45fe98dfdc3888239337bd3e2b167",
+    "last_modified": 1542817629688
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "최고의 사랑은 영혼을 일깨우고 더 많이 소망하게 하고 가슴엔 열정을 마음엔 평화를 주지.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ab3a5adbe2072f98e56889f75c3436a03e0ebc3c7f28bc7155bfc8a0a5e8a1e1",
+    "last_modified": 1542817629667
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "진리는 적이건 아군이건 모두 초월한다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ba5d1c9d8c0cad2dd7ab60bee668a7311a89d1cf134a8a007ee19cb32b51095c",
+    "last_modified": 1542817617660
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "위대한 것은 방향을 결정하는 것이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "da5c493b2b0cfad75d7a27b1b64639cc8609a672ac827539a9b17c2223b16aae",
+    "last_modified": 1542817617647
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "가시에 찔리지 않고서는 장미꽃을 모을 수가 없다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "caf894fcc2c94f640a6983d66a668563bc218e5fae5394df43795b14bb4f511d",
+    "last_modified": 1542817617634
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "한 번 실수하는 것보다 두 번 묻는 것이 더 낫다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "034802b3bc4cf3756c8119b92b988d918ddae02565e82566cedea5ea15c68e4d",
+    "last_modified": 1542817611947
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": ["gur6531"],
+    "sentence": "기쁨을 주는 살마만이 더 많은 기쁨을 즐길 수 있다.",
+    "Sentences_Meta_UserVote_gur6531": false,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b6e1b1ce4597d8708893f9cc0fe1c2acd42012eac4827b4dcf2a22b0ae03bbcc",
+    "last_modified": 1542817611928
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "성공하기를 바라는 자는 자존심까지도 포기해야 할 것이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "16a83cc22ce7a0afe4651daab2c4a289dc218a0c385f0dec92a6bb2bc2b049f5",
+    "last_modified": 1542817611905
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "병의 덕택으로 건강장수에의 길이 열린다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "1678807acc5072d5c09e36c82753762baee58e6afd96d917d4903b7c8990b91a",
+    "last_modified": 1542817606214
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "세계와 나의 어머니를 저울질 한다면 세계 쪽이 훨씬 가벼울 것이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "9f8e3dab84b00b1f88d668689c95a914fa83360eecdf66b78e53843e2de208bb",
+    "last_modified": 1542817606192
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "그를 사랑해?",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "3d94952fa9a0cb247b9b361a47a02c06660a3e776f9e1a6d58ce86082b928dc0",
+    "last_modified": 1542817606170
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "아직 잠이 부족해.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "caca9cb8e2762f72cad107ce445287bc034d0f1162507fc42e7e1160e16a451d",
+    "last_modified": 1542817599799
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "계단을 밟아야 계단 위에 올라설 수 있다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "6ddebecfe837ae65c9c37cfeb0b8827b8defb21f570b75f9337dc3be2b7f560a",
+    "last_modified": 1542817599782
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "처음 시작은 가장 용기 있는 자 만이 할 수 있다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e9099a8039c07a77bc88b062b75ce2a2d003ebf74439f7d505407e817001e294",
+    "last_modified": 1542817599767
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "친절한 말은 봄볕과 같이 따사롭다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8650c3c4196395194d1c3b200fc87778c87ce86c58a53ff97bebddae5db9a084",
+    "last_modified": 1542817593632
+  },
+  {
+    "valid": ["gur6531", "sea4136"],
+    "invalid": [],
+    "sentence": "커다란 비결은 결코 낡지 않은 인간으로서 인생을 끝까지 사는 것이다.",
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "35e31951077c8928e2b2fce170b97847446e0ba821da60a3ecb36359c91f5500",
+    "last_modified": 1542817593620
+  },
+  {
+    "valid": ["sea4136"],
+    "invalid": [],
+    "sentence": "부귀는 뜬 연기와 같고 명예는 나는 파리와 같다.",
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "dcf4da79f6b3d901e2d074ce17bc211205315f3ed1aae401eaca0b51a47e9182",
+    "last_modified": 1542817593607
+  },
+  {
+    "valid": ["sea4136", "zu7342", "zu7342"],
+    "invalid": [],
+    "sentence": "사랑은 일종의 전쟁이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4927e067213fdea534b8e44e8547e4fb2c8ddb869cf202208322e6b9dff3ccf3",
+    "last_modified": 1542813588725
+  },
+  {
+    "valid": ["sea4136", "zu7342", "zu7342"],
+    "invalid": [],
+    "sentence": "타인을 믿기 전에 자신을 믿어라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5464b9e7c2ff319c67f5f882e870db18f13541bc15faf5297a62c407a69e4605",
+    "last_modified": 1542813588712
+  },
+  {
+    "valid": ["sea4136", "zu7342", "zu7342"],
+    "invalid": [],
+    "sentence": "준비하지 않는 자는 기회가 와도 소용 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "f8c58e91221efd2d071b206fdc1337b18d9773a97b5eefe7feb27b1da975af96",
+    "last_modified": 1542813588697
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "행운의 여신은 용기 있는 자를 좋아한다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b12513bcaaf21ac499276b782edbbea76598701e06a258d9213a4a1dd1a20a5d",
+    "last_modified": 1542813571432
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "지나간 일로 미래를 설계할 수는 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5ef186bc2f7c34cfcadcbd1fba53711847247a75e46c286b10f18af42c9b3f3d",
+    "last_modified": 1542813571412
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "비전이란 보이지 않는 것을 보는 기술이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "6c9e4693bee5fea2ef1811147ea141f924ab0e596956091544262967b575542e",
+    "last_modified": 1542813571398
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "사람은 자기를 좋아하는 사람을 좋아한다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "45ed7fafd4cfae83e22b12d54e076d435d1edfb011ceddd7201aff1785f1802b",
+    "last_modified": 1542813564708
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "영원한 해결책은 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2bd187e44e32bdff938022f87d16c21a02d212f8658055ff2fb5e0950889a535",
+    "last_modified": 1542813564692
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "비전이란  보이지 않는 것을 보는 기술이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c65fa93c88c7aaed489e186729c0ef592dabe52827108caafbb9bb4e9c9a1957",
+    "last_modified": 1542813564671
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그녀를 따르라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "a69562906db9c57b37d717d5434e1435e0fa57029076dd3368bdd8a38c708d56",
+    "last_modified": 1542813558873
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그를 따르라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "be53010bfefea5967167af3ad01482dc106f1c1c8ed0050b5e65b48ecfdfab14",
+    "last_modified": 1542813558854
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "목차를 작성하라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e98c797da2466b7e58a3f23867b0c9f8eb4268ff684c44852fccdcc58a3ca84a",
+    "last_modified": 1542813558833
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "쓴맛을 모르는 자는 단맛도 모른다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "1e40f48fc120a4ee4cfb36875daab475e77735ea8001c9dc3459b65cc09c1820",
+    "last_modified": 1542813552854
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "피는 피로써 씻을 수 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "879cae72184b4be5930b3a2879a2c1b303498bbac303b27e235ba5ded880b601",
+    "last_modified": 1542813552834
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "말이 만든 상처는 칼로 입은 상처보다 깊고 심하다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "763f6339c842ab646b2b109ab00f401c1cb30f887293e8b3c071f03f9d6d790c",
+    "last_modified": 1542813552817
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "금은 진흙 속에 있어도 금이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "df9b4379383c7e0ecc472813343ee5cf461b340d6d1696b523e13e9ba49b9447",
+    "last_modified": 1542813029129
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "고백한 죄의 반은 용서 받은 것이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "c53805c64ff732243aae4bca4c7c9a97f0dea9909922a59127541b73ce44eb2d",
+    "last_modified": 1542813029115
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "조금만 더 기다려줘.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "acd12dffa67bdd6150cb15e088b967d33a783a6839867a2a709361ec5de626e5",
+    "last_modified": 1542813029100
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "영화 볼래?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5a8aca7dfd2e0d10d4192a8a5c2224b3204f85d0c40dcee42d127b7f75dfcbcc",
+    "last_modified": 1542811680538
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "커피를 마시고 싶다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "be151110124f633b149543aa80bf124dfa514db634e72d8215548c5e44e1694d",
+    "last_modified": 1542811680525
+  },
+  {
+    "valid": ["zu7342"],
+    "invalid": ["sea4136"],
+    "sentence": "얼른 와서 이것좀 같이 보자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": false,
+    "id": "a691d20ff102504ede0c060baba94b18343da6fadd9c38d64e7714333bf73b1c",
+    "last_modified": 1542811680511
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "나랑 같이 밥 먹을래?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "925cf47c4310df53828f7506ea7243ad57b9ab041ed269532acb6670e7575a96",
+    "last_modified": 1542811591461
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그를 위해 박수를 치자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "65102799bd9a64694ba25b5c11b64165f294a906689835777a3b737a005ffd37",
+    "last_modified": 1542811591446
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "닭은 아침 일찍 운다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "917d18336a19ac86ff00a24a69f7f8d8ff89b01c7c942b21eec7486c41ff5c58",
+    "last_modified": 1542811591432
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "우리는 하나다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e7a5724993ee7d4b15b831a57abda938158b145571abf3bdd9671d472eb4fc89",
+    "last_modified": 1542811581960
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그녀를 자극시키지 마라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "25b7cd407e27fd9fcdc222d316bbd2dced25ef01c00ccd4ec79c549be208f5c2",
+    "last_modified": 1542811581939
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그를 자극시키지 마라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "e6eb481e38adca8648952aeb0d7cd7cb63d4d3828eca4a00d9c2709628a83282",
+    "last_modified": 1542811581919
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "나는 몹시 화가 난다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5c5b5fdbccb7b81c0d8a922afe97b14b68902f78eb739abb3b694d8bdbfd12f0",
+    "last_modified": 1542811575479
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그는 우리를 좋아해.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8ce996961eca0ba6b97f7c302b835dddcda9a1f8d20671fee5e9208c86208158",
+    "last_modified": 1542811575460
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "우리는 그를 좋아해.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "508a561d3ff304ea86404c654f71d66869d8619bc9c51d0366e01d8272820861",
+    "last_modified": 1542811575444
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "욕을 하지 말고 말을 해 말을!",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "a235d4875c5605a67a1135bb77f1ea0393b901c03c6da4f5de9d4386510e48e9",
+    "last_modified": 1542811567171
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그녀는 그를 사랑해.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "388740c86b9cc9a0b56ac5602c70b00b94284e54b49065fbec6f23204bef9dc9",
+    "last_modified": 1542811567159
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그는 그녀를 사랑해.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "a30f602c71bac193a4a4068c141076cdad4776ac1ea94ace79bf78741f70cbd4",
+    "last_modified": 1542811567147
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "나는 그녀를 사랑해.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4fae945a0d67edbee09df936c73041da90ab65f37bf710a5f0e820300d8f5883",
+    "last_modified": 1542811559224
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "나는 그를 사랑해.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2f658857676f1d2870b38ae32adfb2d5a336402a8ec956ffd47419c5f3044be3",
+    "last_modified": 1542811559204
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "음식을 시켜 먹을까?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "309453b5753c32a8e0fd1e1dc3a0ad143de103372b8edb90f6d1780f5699cd6e",
+    "last_modified": 1542811559182
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "배가 몹시 고프다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "22239be47c536742c6fc3da1bb7239dad73790dc35fd189d316773ae6d640c1c",
+    "last_modified": 1542811537734
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "신발 정리를 해라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4896696b4d481eb1ef3db24ea4db8fc1e3d736a15404dc0226da529123a872ae",
+    "last_modified": 1542811537717
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "식당으로 출발해라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "d333c52bd606471e3522bc3c53a61f88162d71362446a12383b898744319dbfb",
+    "last_modified": 1542811537702
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "전원을 켜라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "1117b04de55c12a7a62d267bfaecd830036589539954e802fb90561caaf25ab7",
+    "last_modified": 1542811530514
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "전원을 꺼라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "0e48564de603760885a625aca1df472ae15e42726d16a6be0cfcfd9ee00cbafb",
+    "last_modified": 1542811530500
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "불을 끄고 다녀라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "f6e5339a5f4152dbdab7ddfc9cd2c24d67bf078b753da467d397b032d51f8ba0",
+    "last_modified": 1542811530486
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "이 사이트에 들어가시겠습니까?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "3e41b35c136c28ae6cfade6f6fd08e6e134d755fef314b1b14cfb05e624ad766",
+    "last_modified": 1542811522660
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "생각을 바꿔라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4a85947eaa67fac0a94add43eb6cd74fef3634c4aaa1df9f11f54a8b5a1d9890",
+    "last_modified": 1542811522639
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "세상을 바꿔라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "afe26971e0c66e8d3fcfa26118d21c6da28a99a165ba12eb9de984544b4e4280",
+    "last_modified": 1542811522616
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "죽고 싶은 생각이 들면 일을 하라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "3f7fd154711ecf4b4a4220decc1f18d4b440b9bd08ce9c5a49eccfe6e1c25ec0",
+    "last_modified": 1542811515269
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "애완동물을 키우자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "dfb4a26e71ed27ddce6eaf893d2a131c5c9239d103f2f856d6b4cd8b58ad2664",
+    "last_modified": 1542811515257
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "아침을 먹자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "6d3a36e42bd6df371a9a63a08c2ff34b9667353a842804f4542f06e451c84473",
+    "last_modified": 1542811515242
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "여름은 덥다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b45e618d24d23df3fe6cf28b7091d6f0b80c2e5c7a59572d897ed35a612113b4",
+    "last_modified": 1542811508809
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "진정한 성공에 지름길은 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8dded57cf32b1963c9a3cd2646b4edc62334116f64523eef4aff167e1a214f24",
+    "last_modified": 1542811508796
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "삶은 당신이 만드는 것이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "4842d2f28f6725f5e15936488c24a296d3461e8ab4af2d0479c3eb17dd527877",
+    "last_modified": 1542811508782
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "오늘을 잡아라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "ba8b01d95685896966869e7d8bd86022c0f940501eedb98bbbb9cfaeec1c7372",
+    "last_modified": 1542811502399
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "용서처럼 완전한 복수는 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "343ed7be861d0f64956b51c973090ea4ad47d216cf23656eacbfb8488732a688",
+    "last_modified": 1542811502382
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "존경이 없으면 진정한 사랑은 성립되지 않는다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b9a4af0a063175e33f8c6947960c3c3e3bd88828a637fe783487c51b51e0da06",
+    "last_modified": 1542811502357
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "주먹을 꽉 쥔 손과는 악수를 할 수 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "61775f877878fdde4bb13e9f282559ef0c9ada7b902a4f305ecad3a12cb920c3",
+    "last_modified": 1542811226920
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "말하지 않은 좋은 생각은 좋은 생각이 아니다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "91e9ae77ee739fa55a8e873d18055b2438a91a8f813671791f4093574e60f147",
+    "last_modified": 1542811226897
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "준비에 실패하는 것은 실패를 준비하는 것이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "074f52190cef9784eeed5ed154d6efb758d45707acc8dbe2371ccd26841c974c",
+    "last_modified": 1542811226873
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "승리는 자신감을 가진 사람의 편이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "6a056ac2ba995e749329f15bf558e63bd9d825bdc9806ea687f8378de53629c5",
+    "last_modified": 1542811221081
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "마음이 좁은 자는 생각이 극단에 흐른다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "284eb7507d4e9a502a17c94c646e062c8735083788710048a4c20081b601d6cc",
+    "last_modified": 1542811221063
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "모든 공포는 믿음의 결핍으로부터 나온다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "6f53c4c6ed1bb82eed08ecfb7db7df06b7fc2265e8e558201ff8f6ed5ebb14be",
+    "last_modified": 1542811221044
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "가난하되 만족하면 더할 나위 없는 부자다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "87e1300e78174e939913c8526ade6e1ec4d1b5e80e99c1995b66961674a5e257",
+    "last_modified": 1542810958829
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "이긴다고 생각하면 이긴다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "9e1ac568a45a9570d83f9368e63ac7d60210948843ffc0ec7d86a116b2997cba",
+    "last_modified": 1542810958811
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "대충대충 하려면 아예 시작도 하지 말라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "93de0032d52d2f8309b40164ebe9be679f5044e4aaeca787702b2231596e1621",
+    "last_modified": 1542810958793
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "겨울은 춥다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "7fd5e8314a969fc227e1e2904d8245622f5a078ddf5489c8c49c81c6e5b851c9",
+    "last_modified": 1542810952528
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "봄은 따뜻하다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "90047547486454adf2b80e5863236d2b5bf4f097615796a9d7db0c5199bf6074",
+    "last_modified": 1542810952509
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "단풍이 떨어진다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "2a8853960fee56546d60ec07cf405c80227b62d737a0fee35bdf6bfaf24b2c8e",
+    "last_modified": 1542810952491
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "점심을 먹자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "a08f8bb2374634af59b76a8500083560a5d06bd74bff1e2e6abfaa6b231299e5",
+    "last_modified": 1542810945523
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "저녁을 먹자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "7577ade3f491f4f3a3a946f43d804af782c584830e3bdbb2e2cfcaa18f72bdcf",
+    "last_modified": 1542810945503
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "간식을 먹자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "7de001983f12dcd976cef355871d9d506341726004890ddaa70f3131fb9eefdb",
+    "last_modified": 1542810945484
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342", "gur6531"],
+    "invalid": [],
+    "sentence": "인간은 생각하는 것이 적으면 그만큼 더 떠든다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c6d148cb5253cf16d278e689fff6f029deaf76eb05ce3b10bceadc41e0a7b461",
+    "last_modified": 1542810578620
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342", "gur6531"],
+    "invalid": [],
+    "sentence": "사랑받는 것이 행복이 아니라 사랑하는 것이 행복이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f96435ed2c243d54815e444026e07ad6996bdd90d95b3a9c2379f183ed973a05",
+    "last_modified": 1542810578603
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342", "gur6531"],
+    "invalid": [],
+    "sentence": "사랑은 달콤하다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c7d1dfeb8eac2b0d55e617ce750bb88920463a8a15bf96e4e58913eb9e3846ca",
+    "last_modified": 1542810578580
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "행복은 습관이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "f4f759fca5607ee649f7e34aad8b986105e014d94747baf1b219331a22f7cf0c",
+    "last_modified": 1542810428946
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "그것을 몸에 지니라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "81e451c8c2a758049e28794b1b987d7bb6e54e6ca8c97927ac7ef3d514927174",
+    "last_modified": 1542810428925
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "의욕적인 목표가 인생을 즐겁게 한다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "0b1aa0f259cd0cf60db71c3d541d3f1858c01a2e6dbef6fb878e9af6e8fddec2",
+    "last_modified": 1542810428904
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "개를 키우자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "5517bca9e86d71561780c3dfcc7b3cb31da5cf690b9c47982768997cee18a19f",
+    "last_modified": 1542810421898
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "고양이를 키우자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "6f099de5811e8d40d6170619cbe2acd792afad7afb0c8b43506301e25d4c2427",
+    "last_modified": 1542810421884
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "현지인을 따라 저 곳으로 가보자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "a413c32747e090842fb050526cb65c6f99a5a25476bbf24d041b348fc756a0dc",
+    "last_modified": 1542810421867
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "제조시설에서 제조하고 있습니다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "715a3cd76c83de19c36ac1f46a3df95910152918c37cda5abea74335db00e9c2",
+    "last_modified": 1542810414661
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "부정 불량 식품을 신고해주세요.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "012d715549cb79dcc0fda5b8618af7418e48c365a0c7e8d36e46694e73a3f6cf",
+    "last_modified": 1542810414647
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "이 제품은 알레르기를 유발합니다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "9b0e5c4f75c8c81d83de4cbcc36e719a11a2d2ddca02f740b03fb2988759baf7",
+    "last_modified": 1542810414633
+  },
+  {
+    "valid": ["sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "우주의 비밀을 찾자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "b44f95d3c13f5fa5469df11e76833836fc0460eb5aae3914910ebb4cd4301112",
+    "last_modified": 1542810408495
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "칭찬받기를 원하면 자화자찬을 하지 말라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "8d19dbba208d6082a49c586a40414f1c7f01430ac7f1d664f8bb211e1dfd3da6",
+    "last_modified": 1542810408480
+  },
+  {
+    "valid": ["gur6531", "sea4136", "zu7342"],
+    "invalid": [],
+    "sentence": "일은 쉬면서 인생은 여유있게 보내라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "id": "0716310d30564cb1fa5d07f40f4fdfddb57e64bd177d882558269f1f71f88eca",
+    "last_modified": 1542810408466
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "승리는 가장 끈기 있는 사람에게로 돌아간다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "efbe143da60834310ea44df0eb31f16e093a717eeded6c4544a916ef4be68d7c",
+    "last_modified": 1542810402789
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "한 방향으로 깊이 사랑하면 다른 모든 방향의 사랑도 깊어진다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "4e8ea532450f7e854cab5f0b21ce2fae75ea6691588ea39961a3772d59256d59",
+    "last_modified": 1542810402774
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "정직은 가장 확실한 자본이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "1cb595d99a12080cb2a919cf83786b8c0cdb877f5f43860893cd04358694f68a",
+    "last_modified": 1542810402763
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "그럼 이런 일도 없었을 텐데",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c612108f85c83af01bbaa3b3655dcb989d81ac5d8a9b9795bedb56b045fd64ac",
+    "last_modified": 1542810396561
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "우린 만나지 말았어야 했어요.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "76d207666a628ba8f2268fd080da46fb658dff6139f808156242b3c719384c96",
+    "last_modified": 1542810396549
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "그녀의 향기를 맡으니 정신이 아득하다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "abf5a41d7bfb388c2386b66a91c1b80dd9d30074c163b8a57dc3f034a826ed11",
+    "last_modified": 1542810396538
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "저기 있는 저 허수아비를 봐!",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "167bf9d3b195eeab313792f215434292a5d15d4878aec23760e0baa9c8e53345",
+    "last_modified": 1542810344182
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "가르치는 것은 두 번 배우는 것이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "fb4b2f505f6682b62247100b1b76766e5240eecf3d153cfda764423211148567",
+    "last_modified": 1542810344166
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "베풀 줄 모르는 사람은 타인이 베풀어주는 배려를 받을 자격이 없다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "e383d1e841cb1cb989db2d2fcc35a2f58c00f4014aaa6e92d7a3cc0e365f3a0d",
+    "last_modified": 1542810344150
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "일에 쫓기지 마라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d05b2f297b4ef12e5fd2524261535c596629954da51ea6f660f74e9b33d9ee15",
+    "last_modified": 1542810337194
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "일을 쫓아라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c546f032d1dce476da38f91cba0b44780a36424c3b17525ca5bf6d49af9c0a2a",
+    "last_modified": 1542810337182
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "영화를 보면서 손을 잡을래.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "2fff2bbd48ea59c2f54426c8f5d874b94a0d9baa7a1e57ac83315a4dd4d1bcc7",
+    "last_modified": 1542810337169
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "징한 놈의 이세상, 한바탕 신나게 놀다가면 그뿐.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d8f6f9b1437554529d80ba07965fd2ad558d2b472f942b16c38273955110909d",
+    "last_modified": 1542810329335
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "어찌, 내가 왕이 될 상인가?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "0decb09b05eb4b74782db2c387ac7dd11b21d3d65cfc5893c79dcaae5a820e81",
+    "last_modified": 1542810329323
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "그라믄 안돼.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f96c21ad8bc111e72a2e0afb2f88e0b4654ce7663fa0235a78d71780051183e6",
+    "last_modified": 1542810329312
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "어둠속에서 우리를 지켜보는 보호자",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "78e8e791fcfa146f162a81440f6b0c36e56ee2e0945ed1a380597442999c0cf6",
+    "last_modified": 1542810323858
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "그는 조용한 수호자.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "321c57980be068c6493977097291d92c37c3e0d641d27dc42be67cd9f99d211d",
+    "last_modified": 1542810323846
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "왜냐만 그는 영웅이 아니기 때문이지.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "0463ae7824f1325a049f78e09c7f3dce2f952613e429250d47c78fb8dcb92eb9",
+    "last_modified": 1542810323834
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "오직 그를 믿을 뿐이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "b6c9b9eacc27198c675050f65a26568c60610fb472d843d0fa1f0f3205fa3016",
+    "last_modified": 1542810317908
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "기회는 새와 같은 것 날아가기 전에 꼭 잡아라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "c9df2d4f3139b659a1ace53f8a1be4352830207d907e8c98a687e5f74759e2a3",
+    "last_modified": 1542810317895
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "그러면 백일의 근심을 모면할 것이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "d4c293e7bd9261087201887a651ab49e516dbf3974fd12858a5bef80de6b9a42",
+    "last_modified": 1542810317880
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "어이가 없네.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "6f342554f79052c8db2e927714f708b891380a3a72e077a389ec84603cc9b8e2",
+    "last_modified": 1542810289702
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "살아있네.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "24365fb3ad72abf9b935a3a8b9c9363399251672eb62993a5f3a1bd1e3af7f70",
+    "last_modified": 1542810289686
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "나 다시 돌아갈래.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f56d93909018e7443e39fbb7f8d8a0ae3b0026dc6b8f9d4e7ddbd0e15de0487b",
+    "last_modified": 1542810289668
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "금이빨 빼고 모조리 씹어먹어줄게.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "ddbc6dfebc6513ca36d1b1e1b6ed46c9ecaeb5229dcf0d1cb6a9f6eeda55d547",
+    "last_modified": 1542810283132
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "비겁한 변명입니다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "a4187097a63829d445949cacd2a43fff07e4fab3687be8513baff33015b45ba7",
+    "last_modified": 1542810283113
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "밥은 먹고 다니냐?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "aa5a317728f02c9fd066f05922f47f5a4fedda6cc0b58e7c68f9b67a522ca28e",
+    "last_modified": 1542810283091
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "호의가 계속되면 그게 권리인줄 알어.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "871486165dcae8a9d0466ac0a6e5f7c90d838e3086e9013691bf54b30e9e2bdb",
+    "last_modified": 1542810271529
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "우리가 돈이 없지 가오가 없냐?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "44476c5d19ca5809fbacaa86232c96065bc3e964575de7feb04db94aafd30416",
+    "last_modified": 1542810271508
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "라면 먹고 갈래요?",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "37fb99c5589effb91325f4616d024dc90a9871263715e96f68564aa4736c6985",
+    "last_modified": 1542810271489
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "너나 잘하세요.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "b1f69a5c77ed3ce0c8ca9abb751bf7d194e0497b6e6f9fec12be3435197802aa",
+    "last_modified": 1542810263093
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "니가 가라 하와이.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "fe7d7bd2a90a81d822e448324315cc15ec6f23d7194baa207c7892b21ff4b204",
+    "last_modified": 1542810263074
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342", "gur6531"],
+    "invalid": [],
+    "sentence": "큰 부자에게는 아들은 없다, 다만 상속인만이 있을 따름이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "9476b9b94aad059831138e36c72f2a4132a3eab7a7f2879dac75ae9016daf957",
+    "last_modified": 1542810256894
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342", "gur6531"],
+    "invalid": [],
+    "sentence": "인생이란 반드시 참여해야만 하는 게임이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "6b95414171a9f9f4616faa8eff2f23d9da68b2ecfa6237e98aac88aacde97b58",
+    "last_modified": 1542810256874
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342", "gur6531"],
+    "invalid": [],
+    "sentence": "사람은 누구나 빈손으로 삶을 시작한다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "1e2868e3c54ed3c5f3ef1550400865be23b17d320d577a348876e59cfc74ed2c",
+    "last_modified": 1542810256857
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "넓게 배우고, 의문이 있으면 곧 묻고, 삼가 이를 깊이 생각하라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "004e9b25a70a70b5535a6944defec7ec5f69edb5903839d789eb024cf073e5fc",
+    "last_modified": 1542810252127
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "지식이 비즈니스다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f09717be9a4414285fd8455e6b2d9f951634021a50b0358357e12b2f40f84413",
+    "last_modified": 1542810252112
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "끝까지 하면 프로다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "f135138b3721af38a7aad432948dc2aec3b5609eb91421886ae99f939d6b0c4a",
+    "last_modified": 1542810252098
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "믿으니까 믿는 것이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "7ce103f939f5dac0fe3af665c0ca2d8fd192d84ea48d0de1e83987e8e403a2f1",
+    "last_modified": 1542810243826
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "사랑은 신뢰의 행위다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "20e632bc577c3a42705fa0cbb0ab1cb2612dfada980843201ce3d7a3c37191d9",
+    "last_modified": 1542810243788
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "행운은 마음의 준비가 있는 사람에게만 미소를 짓는다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "9a20197368dc1677e5668daeee6cb7eedc961e6b94c86e0a1ab5e03ccb07be24",
+    "last_modified": 1542810243767
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "말도 아름다운 꽃처럼 그 색깔을 지니고 있다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "ba043b364770a88782ec882b266b976c2b886589e977a679fba6f8f1915e5333",
+    "last_modified": 1542810229444
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "성공하는 사람은 송곳처럼 어느 한 점을 향하여 일한다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "943fa108301eb2f6064c43fccfa57dbb4ef64857b49dc8af512f2d6dc1cef65d",
+    "last_modified": 1542810229423
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "책 속에 고래등과 같은 기와집이 숨어 있다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "a37578f764181ef0716f3783d9d8d9fd7a5ed023269941aeacf11a9633581d8f",
+    "last_modified": 1542810229403
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "남의 앞에 나서는 것을 두려워하지 말라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "33e737101bc83dd97ea7c9b66a22902e9b4d5be06c285bbb6c661bd06f469569",
+    "last_modified": 1542810209746
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "생활은 습관이 짜낸 천에 불과하다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "62385e1050380e1b680f50cf08dc9d2b77bc411d10ebbeab8b676c6c1d9de927",
+    "last_modified": 1542810209733
+  },
+  {
+    "valid": ["gur6531", "sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "무례함은 강한 체 하는 약한 자의 모습이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_gur6531": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "cd0da1ad309800c97e755a6b63988fc562d8b4362669b8da40d75acfef5e1ee6",
+    "last_modified": 1542810209719
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "많이 팔려면 먼저 많이 사 보라.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "dd915c7714d13137d2cc05a17632dae659e809bc5049b72162c3e092875196dc",
+    "last_modified": 1542810201223
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "몸가짐은 각자가 자기의 모습을 비치는 거울이다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "ab86895521348e3a9ee3cc2df9ecd93a9addda4038bfeb7a69657b9f1ced4b7b",
+    "last_modified": 1542810201211
+  },
+  {
+    "valid": ["sea4136", "whehd16", "zu7342"],
+    "invalid": [],
+    "sentence": "두려움은 언제나 무지에서 샘솟는다.",
+    "Sentences_Meta_UserVote_zu7342": true,
+    "Sentences_Meta_UserVote_sea4136": true,
+    "Sentences_Meta_UserVote_whehd16": true,
+    "id": "4f14f6865b75f048df5a6e2cd5a91625ab9f58cd70464bceb47a0b0ecaa3914f",
+    "last_modified": 1542810201200
+  }
+]

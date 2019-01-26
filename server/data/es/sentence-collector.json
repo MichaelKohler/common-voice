@@ -1,0 +1,2594 @@
+[
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La base de datos ha sido actualizada.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVoteDate_test": 1547850570932,
+    "id": "c1099b76d4e990480676db7c270e08bbd5903974c3ab1d85f12dd0f4228a2829",
+    "last_modified": 1547850571355
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "No podemos ir en esa dirección.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVoteDate_test": 1547850570932,
+    "id": "98ee5a82d9a1a61e440b1a34fff1307069b36e85ff905192cb60ed1d92f93b18",
+    "last_modified": 1547850571335
+  },
+  {
+    "valid": [],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Las frases no repetidas están bien",
+    "username": "test",
+    "createdAt": 1547850539819,
+    "id": "67ef61d995bb9f575094bd099d7d688ddccbf5d651481e4939b9786dc02da9ff",
+    "last_modified": 1547850540913
+  },
+  {
+    "valid": [],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Las frases repetidas deberían ser identificadas al inicio",
+    "username": "test",
+    "createdAt": 1547850539818,
+    "id": "668d6653d691cc26e1bc7f55c952bb2e852f60d37e93a7b7e15aa789fbf68afd",
+    "last_modified": 1547850540897
+  },
+  {
+    "valid": [],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Añado frases para idiomas que no tengo configurados",
+    "username": "test4",
+    "createdAt": 1547764123351,
+    "id": "3245c5265a522172c7b372b8ac7ce9409d2587b64a4ad45e7e5a7df62f9bbb3b",
+    "last_modified": 1547764124402
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": ["test4"],
+    "sentence": "Está muy rico el pan de pico",
+    "username": "test",
+    "createdAt": 1547659002480,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": false,
+    "id": "ec913b068f51d041a8fc13c07f67a6b1abb70ccaf41b5f38a68094ba21f5bb56",
+    "last_modified": 1547744919132
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": ["test4"],
+    "sentence": "Me duele la cabeza",
+    "username": "test",
+    "createdAt": 1547659002461,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": false,
+    "id": "50f583abe477ad48cb2cdf77c7ea576acb2e72148f05813c90c807f38a73a0da",
+    "last_modified": 1547744919113
+  },
+  {
+    "valid": ["test", "test4"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "El ser humano es en gran parte agua.",
+    "username": "test",
+    "createdAt": 1547659002486,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "971b08a9b53905bb49e9349e5609a1f963b344e6b8e1b49dc196dae2a21c73cf",
+    "last_modified": 1547744919095
+  },
+  {
+    "valid": ["test", "test4"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Deberías comer más fruta porque tienen muchos nutrientes.",
+    "username": "test",
+    "createdAt": 1547659002485,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "f3d08ab4315ee2036095288a4411127eff24d15585056e3879c1866297fc8aa2",
+    "last_modified": 1547744919074
+  },
+  {
+    "valid": ["test", "test4"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Me parece que no cabe ahí.",
+    "username": "test",
+    "createdAt": 1547659002483,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "fee385870bf983a182a6e9dfe8172c0bdbbd668482b48eecfd61e5dc226a28fd",
+    "last_modified": 1547744919058
+  },
+  {
+    "valid": ["test4"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": ["test"],
+    "sentence": "Creo que las dos tienen demasiadas figuritas.",
+    "username": "test",
+    "createdAt": 1547659002482,
+    "Sentences_Meta_UserVote_test": false,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "a0f34e6e394e1ebd07862dd87715f360c188d497cdfdca5b62e89ee726fc9eef",
+    "last_modified": 1547744919040
+  },
+  {
+    "valid": ["test", "test4"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "El abril, aguas mil",
+    "username": "test",
+    "createdAt": 1547659002469,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "c46ac12d62d703d4c35d1e708f912f3ee342b0275d8c8e8d40ad54c1a0238dda",
+    "last_modified": 1547744919017
+  },
+  {
+    "valid": ["test", "test4"],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "La frase primera está repetida",
+    "username": "test",
+    "createdAt": 1547555984498,
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "c2a9dfd6af75562754a47179f475e6efbfa353527a0656e87d9515631bce01cc",
+    "last_modified": 1547744918998
+  },
+  {
+    "valid": ["test4"],
+    "source": "Myself",
+    "invalid": ["test"],
+    "sentence": "La verdad es que esto no debería volver a pasar",
+    "username": "test",
+    "createdAt": 1547464977621,
+    "Sentences_Meta_UserVote_test": false,
+    "Sentences_Meta_UserVote_test4": true,
+    "id": "3b6bdfaaeb7cfa4c3e00c8ff4c5a6b942b2e147bd8ba38b297fe38919d2cb28e",
+    "last_modified": 1547744918976
+  },
+  {
+    "valid": [],
+    "source": "https://pastebin.com/raw/Mxsf1CJH",
+    "invalid": [],
+    "sentence": "Mi color favorito es el rosa",
+    "username": "test4",
+    "createdAt": 1547744870476,
+    "id": "bd9309ee25e57c7644a47f5432c85d85105a566217a8661f7a97780d6f646a20",
+    "last_modified": 1547744872084
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Al parecer no puedo enviar frases repetidas",
+    "username": "test",
+    "createdAt": 1547659399497,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "5250e3c08cca657de2ac4d07e5da0474be4fc8f553d609dd4be248ac0892e354",
+    "last_modified": 1547659399896
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": ["test"],
+    "sentence": "Si no conseguimos un trato habrá que entrar por la fuerza.",
+    "username": "test",
+    "createdAt": 1547659002491,
+    "Sentences_Meta_UserVote_test": false,
+    "id": "5bf57df6e09a2dba1825265e82df38c7d354fdc6b21976c35a11eeb657e4ada2",
+    "last_modified": 1547659079897
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Siento que alguien me está mirando ahora mismo.",
+    "username": "test",
+    "createdAt": 1547659002494,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "952c7476e8b57cf3c61d9a4a94845c02daed548cac3503c3b9463280ed005f87",
+    "last_modified": 1547659079880
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Anoche tuve un sueño muy extraño.",
+    "username": "test",
+    "createdAt": 1547659002492,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "45fc1683ca3a132b8f06baf775cf280a3a482d59364147144c226015da848219",
+    "last_modified": 1547659079863
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Hace millones de años, los dinosaurios caminaban por la tierra.",
+    "username": "test",
+    "createdAt": 1547659002492,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "0668e973e6b5f61d871fba9ac864c8154f59215956cd606c67d09e30a02abce4",
+    "last_modified": 1547659079847
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Llegaremos dentro de poco.",
+    "username": "test",
+    "createdAt": 1547659002491,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "ab3c38a04cabee6aaf75ac26fd8eecb66d661c0b6f4f5ae4f9907a6e4cdddb49",
+    "last_modified": 1547659079828
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Está es la última vez que te presto algo.",
+    "username": "test",
+    "createdAt": 1547659002491,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "67be8eb53438a41f45102bff414500d969c295168d0bb0ff39c67a56dc4ca17d",
+    "last_modified": 1547659079811
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Debería estar estudiando.",
+    "username": "test",
+    "createdAt": 1547659002490,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "b440afdf7aec42d88e3c92016f59c1e8a11a412ceb62d7a1a02deaecc37fc165",
+    "last_modified": 1547659079796
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Me da mucha pena María.",
+    "username": "test",
+    "createdAt": 1547659002489,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "36cc41879feafca5d13ad76cf0ba0034e7145036b5e11ea1cc722124887737e9",
+    "last_modified": 1547659079779
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Cuando era pequeño no teníamos teléfonos móviles.",
+    "username": "test",
+    "createdAt": 1547659002486,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "0ef7451de672a4972d0f63e5d884c75b016a0b868370a30dbe3d81d2310eed54",
+    "last_modified": 1547659079747
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Las películas de acción siempre me parecen violentas.",
+    "username": "test",
+    "createdAt": 1547659002486,
+    "Sentences_Meta_UserVote_test": true,
+    "id": "90e9d38d49dfcd791d935d350ab17662b267c54918330d9fb04eb156b507f780",
+    "last_modified": 1547659079732
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Los detectives descubrieron huellas en la ventana.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "4fb29c83d0b29e384fe02b5b08759f09cfbb19119d3457a196b864083309b08e",
+    "last_modified": 1547659006339
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "El número de guerras en el mundo es más bajo que nunca.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "9f93b2beafc55b7c18b9114cce774d3df29089ab183431e962c69128876bc1a4",
+    "last_modified": 1547659006316
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Espero que algún día tengas tanto éxito como tu padre.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "a890bdd79c4faf4463d4ff57f5892aa92df50aa11135a7cb1f8a5db4584c3884",
+    "last_modified": 1547659006301
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Me duele la espalda si estoy mucho tiempo sentado.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "c2e8068d136aa1fc37b0be5617b89f6eadce631cac3944cbaf6bb13bbb36ddd9",
+    "last_modified": 1547659006286
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Hay quien dice que viven hadas en esa arboleda.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "6cb2cd3edcc6e5f2027018c2867e729fe9f72fb52fb01b872e6b8178c8b732dd",
+    "last_modified": 1547659006267
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Esta semana estoy de un humor insuperable.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "e0421f7ef2a6575480f4f5d9e1a71b67a2d70cdc28ab47e0f725b9d6adaa40f0",
+    "last_modified": 1547659006233
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "A mi profesora le importa demasiado la gramática y muy poco el contenido.",
+    "username": "test",
+    "createdAt": 1547659002503,
+    "id": "77a62b2fb7e16ef85724d40e778c4f3083ada8f2840f73e5fa61a8227e79f4c0",
+    "last_modified": 1547659006197
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "La gente de esta generación está muy confundida.",
+    "username": "test",
+    "createdAt": 1547659002502,
+    "id": "49a2e55ff4605af32ffbef49c4265f6228b0d999a2e9988542efd6eb3a5d9b73",
+    "last_modified": 1547659006168
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "En realidad a los toros no les enfada el color rojo.",
+    "username": "test",
+    "createdAt": 1547659002502,
+    "id": "fb892437d1116e163cb05ea1ab9501106303ad88cff8620238174ef0f0c4eee7",
+    "last_modified": 1547659006143
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Un ratón se coló en mi casa el mes pasado.",
+    "username": "test",
+    "createdAt": 1547659002501,
+    "id": "f06a13a1b983eaa9e5bef9782a0f22ae247e1b5e94d10353e25f8b2722c3e24e",
+    "last_modified": 1547659006110
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Todo ese campo está lleno de pinos.",
+    "username": "test",
+    "createdAt": 1547659002501,
+    "id": "fe63a948f51aae91ad4742811464a7a1514150a94efe36bab220b6de8383d005",
+    "last_modified": 1547659006074
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Hay muchos delincuentes en esa parte de la ciudad.",
+    "username": "test",
+    "createdAt": 1547659002501,
+    "id": "e9b4ad630394dc97d2349a90e571cf20e30f54a71341218d9d40ed46acae043a",
+    "last_modified": 1547659006045
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "No hay lugar para polémicas en la familia.",
+    "username": "test",
+    "createdAt": 1547659002501,
+    "id": "e42cc007e989a2c1da37ef2b4cfa7c625a1ddff7b06066c3162f73cadbe926af",
+    "last_modified": 1547659006013
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Su comida favorita es la tortilla con cebolla.",
+    "username": "test",
+    "createdAt": 1547659002501,
+    "id": "30d8aa9a59884cbbfd1b343231a22a8f712c4ebb93c2b2f39e0780f6a5923e85",
+    "last_modified": 1547659005989
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Dicen que este año el exámen ha sido más difícil que nunca.",
+    "username": "test",
+    "createdAt": 1547659002501,
+    "id": "54c500cfc2fe2a42b78acda8ce6ebd971d62c0ba18cac380ee10b8510944f932",
+    "last_modified": 1547659005973
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "He ido al médico dos veces este mes.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "05b6f861b4f3d2381ba60e4c464628bb34454e45ce6526d817820ec77bf62635",
+    "last_modified": 1547659005958
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Este cojín está duro como una piedra.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "337504300f412ce4dc9ec6fecf8f5d66b8994ee921d94a65f3afd81d20861aec",
+    "last_modified": 1547659005942
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "El primer paso es reconocer que tienes un problema.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "a0b1f35ae3d8ae34f70f2b0e5307d651a3ecb37f1e0fc8a45f6edb04c9008458",
+    "last_modified": 1547659005922
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Esa bolsa de plástico parece una medusa.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "a0ef6cfa0124df2684116329b430f9abaded6970ed006b56317f3a69c505f8e0",
+    "last_modified": 1547659005905
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Creo que me ha rozado un alga.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "2bbd627a546ec9d25f3a162f3183ee806449f701df55786f986d201d9c58c21f",
+    "last_modified": 1547659005887
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Esa cueva está llena de murciélagos.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "0dbffb8532ba654235141ae2e56ec5e222902e6e397098334ce9a3caf5be3294",
+    "last_modified": 1547659005867
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Hay una mosca en mi sopa.",
+    "username": "test",
+    "createdAt": 1547659002500,
+    "id": "eb4976d472edb96e45b7c4e52ee44137aae8fddc3b17ffe60f4b09b03ecda149",
+    "last_modified": 1547659005848
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Nunca me gustaron demasiado las obras de Espronceda.",
+    "username": "test",
+    "createdAt": 1547659002499,
+    "id": "56ad85f01cb3452a0134ee7ab38ae0fba00a52e0815bc3c111abc26dae07a010",
+    "last_modified": 1547659005830
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "He oído que en ese país no se celebra la Navidad.",
+    "username": "test",
+    "createdAt": 1547659002497,
+    "id": "4cf9a424be3874bb297faab0fce1efb579ca3f30e5ee66072b902048fea59dd4",
+    "last_modified": 1547659005813
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Hoy se celebran cien años de la muerte de Cervantes.",
+    "username": "test",
+    "createdAt": 1547659002497,
+    "id": "17e45ed517fa88ea6bee152ef80e7610080db91f125e427621a884a8c0452d4a",
+    "last_modified": 1547659005798
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Mi gato tiene miedo hasta de su propia sombra.",
+    "username": "test",
+    "createdAt": 1547659002497,
+    "id": "52121d27e3ae49122113700deafdf25e5e678e13acb008ea532ca525fbe32c24",
+    "last_modified": 1547659004908
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Si vuelve a suspender, tendremos que castigarlo.",
+    "username": "test",
+    "createdAt": 1547659002496,
+    "id": "2f10f9130803ef406d93be8d7d1dc241f71de380400c79cbdd0a6026a03d72ce",
+    "last_modified": 1547659004893
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Esta tarde saldremos de compras.",
+    "username": "test",
+    "createdAt": 1547659002496,
+    "id": "37ef5a52aa3402935fed02c68948c1375056378e6a78889e4171729de56bbb82",
+    "last_modified": 1547659004877
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Susana batió el récord de atletismo de la escuela esta mañana.",
+    "username": "test",
+    "createdAt": 1547659002495,
+    "id": "65eaa2b157c6f6903ab30a7cf3cb6ab5b82d15470cefb227bd98c7e34d1c03e0",
+    "last_modified": 1547659004860
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Este ha sido el verano más caluroso en muchos años.",
+    "username": "test",
+    "createdAt": 1547659002495,
+    "id": "406e6df6ff4d75a07a995b3fac9dc355cb387cee2afdb22bc0f64610f5490a3d",
+    "last_modified": 1547659004844
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Tengo demasiada hambre para ir a montar en bici ahora.",
+    "username": "test",
+    "createdAt": 1547659002495,
+    "id": "da9c0fc13864f21b2d04aff3ce6bed36715c1f3f159c13c813bf798f8509f39d",
+    "last_modified": 1547659004827
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "Mi profesor dice que la inteligencia artificial acabará con la especie humana.",
+    "username": "test",
+    "createdAt": 1547659002495,
+    "id": "71331d3bd88b727b9ba085bb027d148371e339e5be230d4466c970fb55b2061e",
+    "last_modified": 1547659004811
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451385269",
+    "invalid": [],
+    "sentence": "La mitocondria es la central de energía de la célula.",
+    "username": "test",
+    "createdAt": 1547659002494,
+    "id": "5a8ebe53e8af61adb80356425fdf72bb1c47183812d096474e6b2a9e5c6f5b8e",
+    "last_modified": 1547659004776
+  },
+  {
+    "valid": ["test", "test2"],
+    "invalid": ["test3"],
+    "approved": true,
+    "sentence": "Estoy probando este curioso artefacto",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "Sentences_Meta_UserVote_test3": false,
+    "id": "e0b4ae5683f7d1ff379861a593ed77fa90a5328d8ff7c1555a24303bf4f45476",
+    "last_modified": 1547126645081
+  },
+  {
+    "valid": ["test"],
+    "source": "Myself",
+    "invalid": ["test3"],
+    "sentence": "Tres votos y dos positivos es la clave",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test3": false,
+    "id": "e2f1e995a0837f6daad4c73934b1a432e4361f9c4f722f4df6e0c2b8e7135bcf",
+    "last_modified": 1547126575310
+  },
+  {
+    "valid": ["test", "test2", "test3"],
+    "source": "Myself",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Y luego tener tres votos totales",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "Sentences_Meta_UserVote_test3": true,
+    "id": "ef8908524c744fa623888417a2a652990f933831ae1b1e152ebc7c916f23792f",
+    "last_modified": 1547126520379
+  },
+  {
+    "valid": ["test", "test2", "test3"],
+    "source": "Myself",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Realmente deberíamos tener dos positivos",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "Sentences_Meta_UserVote_test3": true,
+    "id": "476f169fecc43d991b55868251b180bc4981ea17e58422a2e3a600f807ed46c5",
+    "last_modified": 1547126520361
+  },
+  {
+    "valid": ["test", "test2", "test3"],
+    "source": "Myself",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Frase para probar la validación por votos",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "Sentences_Meta_UserVote_test3": true,
+    "id": "88a36ba7e1c952ec4ac42706b9d3f7b0166d9333db3a864b7ea0f58be391ad49",
+    "last_modified": 1547126520340
+  },
+  {
+    "valid": ["test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Esta frase para probar la nueva versión.",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "664d5f82036f86c695b748490fa7b62f7e57486e8eab7cb93cf17643ece04783",
+    "last_modified": 1547126365677
+  },
+  {
+    "valid": ["test", "test2"],
+    "invalid": [],
+    "sentence": "Estamos como queremos, la verdad sea dicha",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "216ecbf441176ad5402aff3056e84ee3063ed69c1abf25945baf3ad9c84df5b9",
+    "last_modified": 1547126365655
+  },
+  {
+    "valid": ["test", "test", "test2"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "approved": true,
+    "sentence": "¿Vamos a la playa?",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "439bd7131ccebed0ccce018199a7470da98ef8009787ca55dc4bba6e9f9b3975",
+    "last_modified": 1547126313252
+  },
+  {
+    "valid": ["test", "test", "test2"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Me gusta ir a la piscina.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "bdf9d1bf7ddef24fde785b46c188a6d4bf7f12b65983ac74e58c4c95c539a987",
+    "last_modified": 1547126313238
+  },
+  {
+    "valid": ["test", "test", "test2"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Mi camiseta es de color amarillo.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "61d0540aed42cf31421a525ee3f4efa0ab408cdf12ee2c1fb1f79f2216bba8d8",
+    "last_modified": 1547126313222
+  },
+  {
+    "valid": ["test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Frase número cuatro",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "f42f821cc9d76306fd696bd83423ba9bd827913b084f214c636cbe947ccd3148",
+    "last_modified": 1547126261461
+  },
+  {
+    "valid": ["test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Frase número cinco",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "762f6f14e90c0f4276671720f88d42bf2960f98a17334348b6b4aa4f0f2d7a96",
+    "last_modified": 1547126261439
+  },
+  {
+    "valid": ["test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Frase número seis",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "b9477f5a2a6414012184065e6d21ea873e4aafa7cd462b14c68f2d5e5087c9a2",
+    "last_modified": 1547126261417
+  },
+  {
+    "valid": ["test", "test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Frase número tres",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "5b802a0fa59600c9bf76dff604b731a627a6cb864dbc052dacd21411e13ca080",
+    "last_modified": 1547126208910
+  },
+  {
+    "valid": ["test", "test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Frase número dos.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "e1b8d24c5da8fb0fcce4ac3f2d3286aa21807a8eed1229b0c9e44df89c65b8b5",
+    "last_modified": 1547126208891
+  },
+  {
+    "valid": ["test", "test", "test2"],
+    "source": "Myself",
+    "invalid": [],
+    "approved": true,
+    "sentence": "Frase número uno.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "0627ce47bafd36761dfb41d9d730c2f65faf35d5dc9bf3ebaad5d4f932f3bbe3",
+    "last_modified": 1547126208873
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Ellos hacen buena pareja, se van a casar en mayo.",
+    "username": "test",
+    "id": "fcaeedba5c6614e4224da79130722a2563fa39d89349fb4dc892c98c06baa725",
+    "last_modified": 1546971293975
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "¡Vivan los novios!",
+    "username": "test",
+    "id": "2792b67c1213edb5b1e82d400c8ae3de29519a9b76262ee460c8c7c5bd12a979",
+    "last_modified": 1546971293959
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mamá se ha divorciado de papá.",
+    "username": "test",
+    "id": "692331705dc39a554ae49330212b23b4fec8f16e0b035771d4b960c9c78e58c5",
+    "last_modified": 1546971293942
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Estoy sola en casa con mi hermana.",
+    "username": "test",
+    "id": "fcfddde2aa12747e4be730f85a1ec04fb114193b125d9e81d81d7856ebe2668c",
+    "last_modified": 1546971293926
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "El perro está ladrando.",
+    "username": "test",
+    "id": "e6335afca95e8097666e35cfe71e34978ae683a79967912ca272e038e1f424c2",
+    "last_modified": 1546971293911
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Fuera está lloviendo mucho.",
+    "username": "test",
+    "id": "deece768e65c9957a96f7f109468281ae058dbe24e5fe1f4b34a1cfae34e6188",
+    "last_modified": 1546971293896
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "De repente escuchamos un ruido enorme.",
+    "username": "test",
+    "id": "f259ae40e521009a52d1eda06a886db902e2e350555f3ca62fb058dee4f581c4",
+    "last_modified": 1546971293881
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Hoy vamos a la discoteca de enfrente.",
+    "username": "test",
+    "id": "82de46bb69361e7babcab7016b7604b9df16ba4621b407dcc9d17779d7e0dd7b",
+    "last_modified": 1546971293866
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Deja el abrigo en el perchero.",
+    "username": "test",
+    "id": "c4828b1001f9dc2cdf71a981806431d44b63c2d2567218236efd07f6d906e0ab",
+    "last_modified": 1546971293851
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "¿Dónde has guardado el peine?",
+    "username": "test",
+    "id": "ef08306f27b7d73ef8cc86c9fcfa1629825234cdc152ec883c636cd92ac08b6f",
+    "last_modified": 1546971293837
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "El gato se durmió encima de la mesa.",
+    "username": "test",
+    "id": "b3671c9760bfe79c12138506ef98ddb64fc68ed99cdcc4cf7e83ab20b65ebc16",
+    "last_modified": 1546971293821
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Ella sabe tocar el piano, y yo el violín.",
+    "username": "test",
+    "id": "c8a857358cb5a8ddcc7616860839919670acb1bc9040c41c4e57429f260ae857",
+    "last_modified": 1546971293806
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Si me tocara la lotería, me compraría un coche.",
+    "username": "test",
+    "id": "e1e0bf39ffafece9b2726ff61ce3101ff766742189cc6ece400d1b0dd3a543b2",
+    "last_modified": 1546971293790
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "No quedan servilletas.",
+    "username": "test",
+    "id": "457e98d2e54332820649fdbfc6166d9e54dd2d379cfd2081fb3cceecc30fe7ab",
+    "last_modified": 1546971293775
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "A mi me gustan mucho los perros.",
+    "username": "test",
+    "id": "587cfcc17677c738bc45662b9a63417cc1896667618d849c0bd11b23dfe8049b",
+    "last_modified": 1546971293761
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mi prima tiene una granja en el pueblo.",
+    "username": "test",
+    "id": "e73cd0673bf95173d022d7349decf02513063137467aa741062c2cead00b2f80",
+    "last_modified": 1546971293745
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Bebe dos litros de agua, todos los días.",
+    "username": "test",
+    "id": "7fd25bd660255862bfa3f4ec6ca87ef867b4777daac78b0bfcd38989fb00df0e",
+    "last_modified": 1546971293730
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Estuvo encerrado en la cárcel por más de cuarenta años.",
+    "username": "test",
+    "id": "9562b733df3d976fccb3fedc80077d5a83537046ce4465c2c841d5e8d875c647",
+    "last_modified": 1546971293715
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mama ha ido a la peluquería.",
+    "username": "test",
+    "id": "ea144303abc61984e82f7148064f95da006c140cf13d25ee116901b4ad3e694f",
+    "last_modified": 1546971293700
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mi tío y mi hermano se llevan muy bien.",
+    "username": "test",
+    "id": "adaed0d62112b0c1c89f9e94f9f59c9ea808b12d5e787694bf4ee06207ecbf5b",
+    "last_modified": 1546971293685
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "En el año mil seiscientos ochenta no había coches.",
+    "username": "test",
+    "id": "2503ce0e474018438a1ccad5eac6ebac3013a03837351780c716dc5b28b1b0a6",
+    "last_modified": 1546971293669
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mis abuelos vivieron en la guerra.",
+    "username": "test",
+    "id": "18aec944672df0008e6abb80f4323846163e4343de2bf338f024b7e798ee2975",
+    "last_modified": 1546971293655
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Manolito ha comprado cuatro kilos de fruta.",
+    "username": "test",
+    "id": "bf7c37a4cb1c519f7cc297d06df14fbe944ea29b616f90f62bb374e497b28ab9",
+    "last_modified": 1546971292801
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Hoy es miércoles.",
+    "username": "test",
+    "id": "284a90379d50a7eeebe105ac8066927382f0ad83e1ca451ad18adf2ee5d33f98",
+    "last_modified": 1546971292786
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "¿Qué día de la semana es?",
+    "username": "test",
+    "id": "f5cf482b6f06127ccd98da456276512a00f48dab6923b0c2655f984e3501e35d",
+    "last_modified": 1546971292771
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Hay manzanas para merendar.",
+    "username": "test",
+    "id": "d59aff75aa3697bbdfb894f94a70e947efcbcffa04ac94a4c6b22ac3be3d62fd",
+    "last_modified": 1546971292756
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "El cielo es azul.",
+    "username": "test",
+    "id": "89947c8fde1ad08fe9c8f2ffa84038bd890cb493cbebad2270dc8f716cc1eee1",
+    "last_modified": 1546971292741
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mi color favorito es el rosa.",
+    "username": "test",
+    "id": "7010bf26c8bf7430cb15cf3b510d8db01399953efd42f1dec7b97a298eee578a",
+    "last_modified": 1546971292726
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "¿Puedo ir al servicio?",
+    "username": "test",
+    "id": "b6dc17e9da44ae0d9e12d2b49269186d69d328660a51f5f1c6b643ae214d06f0",
+    "last_modified": 1546971292710
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Tengo veintiún años.",
+    "username": "test",
+    "id": "6068497667b2e294d3cd7abfaab2bc23d5f22eadfa1a813b5288ae45bc9b0d8e",
+    "last_modified": 1546971292692
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Se ha averiado el coche.",
+    "username": "test",
+    "id": "f704f8b0701d89f246d926a65a31f8053a3287c57c56e7b3aa7afabad773f2db",
+    "last_modified": 1546971292677
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Hay chocolate en la nevera y también turrón.",
+    "username": "test",
+    "id": "d3fda6f6c2fdf17628e23ddc7b30feb4d880a0be780398783462e7e1a85b18b5",
+    "last_modified": 1546971292662
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Tengo novia.",
+    "username": "test",
+    "id": "049aad346f12d205a08651e12c63b1d23d23c021c108d68bb358b7853fd43768",
+    "last_modified": 1546971292647
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Mañana iré a Madrid.",
+    "username": "test",
+    "id": "dcf0dfe5f6b922766f1e250a7cdb2d6065984b3505c8ec4c5eaf1721d3f22352",
+    "last_modified": 1546971292631
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "El libro ha sido escrito por Cervantes.",
+    "username": "test",
+    "id": "a88fea92b39754dadd442ce74ba91179b286117b504f0a2c2b2e1841c59e25e3",
+    "last_modified": 1546971292615
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "El mayordomo era el asesino.",
+    "username": "test",
+    "id": "e8c112a55d11882c676e734c63f9455a7fcc0933e0e0491b8d51a3a86b226289",
+    "last_modified": 1546971292598
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Ojalá no llueva durante las vacaciones.",
+    "username": "test",
+    "id": "2a753844dc182a878c2f7cb851f9ae042662d550a13441d9f94cb56dea5fe46d",
+    "last_modified": 1546971292583
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "A mi amiga Sara, le acaban de robar la mochila.",
+    "username": "test",
+    "id": "e30310c0d443bae489e9387f1687aa095393f05e4e65c9c382d5e841a3eb0577",
+    "last_modified": 1546971292568
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Se me ha roto la pantalla del móvil.",
+    "username": "test",
+    "id": "22cd4dfd43774615e5c097e500665360ebbeb946549d226b5525e1726961233c",
+    "last_modified": 1546971292553
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Me encantaría aprobar esta asignatura.",
+    "username": "test",
+    "id": "586712825e197e4afed1c2efb5fbf9a2d8793316c894dc40dc672487d0c8b269",
+    "last_modified": 1546971292537
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Hola, buenos días.",
+    "username": "test",
+    "id": "1cf720b59e12731627b492f3d4c60debe833fe7d164b226543f61ed491a7770b",
+    "last_modified": 1546971292520
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Perro ladrador poco mordedor.",
+    "username": "test",
+    "id": "96a9e40b44b89803928f277834aebc422778cc2e8cf8708f6281788ca4106160",
+    "last_modified": 1546971292505
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Más vale pájaro en mano, que ciento volando.",
+    "username": "test",
+    "id": "706cf5ceedeba11cccca16f221adb842ea7c235b667ff5fad24e0b5760848703",
+    "last_modified": 1546971292489
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Hoy no me puedo levantar.",
+    "username": "test",
+    "id": "f3147ff42396fec919c32bb61fe7ec192159161d6977919f82cb7b665a696049",
+    "last_modified": 1546971292474
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Por favor, ¿podéis bajar el volumen de la música?",
+    "username": "test",
+    "id": "2fe3e372843a2020d3cd9fe958f3ebd3690397327c185515463a4a9f81bb4ef1",
+    "last_modified": 1546971292457
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "Debería ponerme a estudiar.",
+    "username": "test",
+    "id": "b57e3bbee52628d413224abaafee05ff1c3a029271a2e85d81701a4b51029cea",
+    "last_modified": 1546971292441
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386061",
+    "invalid": [],
+    "sentence": "¡Apaga la televisión!",
+    "username": "test",
+    "id": "5631fad0a98c5854c2634dd6c4705d936f0a45e24ba4f7cc421607eb0b5f43ad",
+    "last_modified": 1546971292426
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "El problema es cómo seguir siendo artistas al crecer.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "45ce4745fcc1097fa68600f1f3684abfd05af3728bbd9b8ffe0be9037918eb5e",
+    "last_modified": 1546953000238
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Aprender a sonreír es aprender a ser libres.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "f106e5fa3e88b3b49cc2cb18667eaa2e42fed657d8b2ef9239ce3219a2e0e9b6",
+    "last_modified": 1546953000220
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La vida es bella.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "2f6154d09f3cc5b86382bc71aa39cd31eb206967382ed0ac4a6414ef28d26135",
+    "last_modified": 1546953000201
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Ponte en pie, alza el puño y ven a la fiesta pagana.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "7d27f3ee767c5182c7dd01fe8488d7f1dc6e5cbe26f45f86f4f1d63c7abb1d0f",
+    "last_modified": 1546953000181
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Algunas frases están mal hechas.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "a7fa9e2c32069f7593348f5fab5f4d9fb14f8680d897422e005f7e38daa6fd9e",
+    "last_modified": 1546953000163
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "No tenemos más que limpiar de vez en cuando.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "f81b47ae7a3b7bc18b0a61fc3a3b122ca566c564796b5dc0fc9d2a0331e6c6b6",
+    "last_modified": 1546953000147
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Ella es fuerte como una montaña.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "c7ae084093082a761f02fcf04b46079086cd5aafc300c143ff99f61fb3cd8b50",
+    "last_modified": 1546952975943
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "El zumo de uva es popular.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "4c5c47288ae27741012b585b5dc7b75e1fedb1ff0b08daba8d1e33d2e088f06f",
+    "last_modified": 1546952975927
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Perifero la lluvia al calor.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "625ea5e1dc40b4193466c2d00831f0e03e75dfeb3b313bffea3189be0fcc6bb0",
+    "last_modified": 1546952975911
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "¿Tienes las llaves?",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "f85b76b989f7cc38ba4f450f4b28a4123efc35f8ba7f1fe50d58750847a75699",
+    "last_modified": 1546952975896
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Aquí abundan las cigüeñas.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "9ebc666fe81d65c169e98cbbb12615f80310efa06d089d0cdb30edc9a68768da",
+    "last_modified": 1546952975880
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Los loros viven muchos años.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "ad4051d71a30ea4204f8e5a324772770328d1cba1b24e88e8f823c832aec77ec",
+    "last_modified": 1546952975865
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "La verdad era que no había tarta.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "51a394bf80c982352b89e43f6fa1b3ee088c55c03e73eabfb21ea51179e214fa",
+    "last_modified": 1546952975849
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Le gustaban las películas bélicas.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "6ff8454373faad31b9d9c0df7dfef7e1493028d08db75356de78538f377616ce",
+    "last_modified": 1546948006208
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Abre la vitrina y coge la figura indicada.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "143cdb8d09eb69f2c193ee0026d16759d0c1901760ecffe30eda13c32151be46",
+    "last_modified": 1546948006189
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Abrígate, que hace frío.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "cacb8c2046f4a63c19b8ed122ff392083ec0d00208612e8f05372c7aedc1e420",
+    "last_modified": 1546948006172
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Ese abrigo te queda grande.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "3cdbdd22a7c66b6b1206561e05ae38e9de5d8ca8bbf867af6bd951f67bf417fa",
+    "last_modified": 1546947997163
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Vamos a esquiar.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "ed7727be5520917f852e879546c568cfce024882be0659063f0341791ec8c165",
+    "last_modified": 1546947997141
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Celebremos con un chocolate caliente.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "24f508db400bbf93cce0db0eb4bbe3cb4d7c5ddb8f6da81e4ffee81fafa8ceb7",
+    "last_modified": 1546947997124
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Lleva siempre una toalla.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "e9c77141de9b7e99fc9910fbc9cebe48e6c92f7c7d5f5954bcd866355b82b0ae",
+    "last_modified": 1546947989362
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "La jungla es un lugar peligroso.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "f9055cf5363d03a353087acf45e6b2f3ba52a337bdf1c99d76d85482ccb717b0",
+    "last_modified": 1546947989350
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "A nadie le gustan los mosquitos.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "df6c7dffaa9f07e49c3ffa048fa76f99850806a627c9bbd544da1a3f1c16be08",
+    "last_modified": 1546947989336
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Ese fruto es muy nutritivo.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "8e8710a29fd384a47cfd30c9d4c37b11e0670c57c69d46fff07a6561c2a18317",
+    "last_modified": 1546947981048
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Las vitaminas son buenas para tí.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "3355123c2673ba5d9837beb9eeb6341bf7787344a70555af6ce7db2c832f29b0",
+    "last_modified": 1546947981033
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Este café es muy popular.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "596fe0df32fc240a8d4de0390038110f1a923f9397836a91e66dda48f435f5d7",
+    "last_modified": 1546947981017
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Tomaré leche con galletas.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "ef5e6bda22a1bc5a02245b9ea189ffa3197ac93108cd2e8d8bade716f12476c4",
+    "last_modified": 1546947971860
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Se toma su trabajo muy en serio.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "c57ee69eaf169e48c24ae570f227912b3a204070f12e31810d56a62ff7506340",
+    "last_modified": 1546947971839
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Bienvenidos.",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "5a4ba6ba6ba0fde95ff056884dee631243645f83755304f8107dc6a402a8e387",
+    "last_modified": 1546947971819
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Los tiburones no pueden dejar de nadar.",
+    "username": "test",
+    "id": "8ae12995a5be6842e8b5cf24a17a38d3cac4ece1714806841985ded9219e0a1c",
+    "last_modified": 1546947955785
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Hay serpientes que son similares a otras para parecer más peligrosas.",
+    "username": "test",
+    "id": "3d5553c59fabd1b9d30d3f84afb69478b77813cee010f9ec57c538c1ee25374a",
+    "last_modified": 1546947955767
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Pararon el tren antes de que fuera demasiado tarde.",
+    "username": "test",
+    "id": "128a8efb1efcbe6e2dc7af4c7a4e0860a43fd1742446523fcd56afa19f07c542",
+    "last_modified": 1546947955698
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Las estrellas no brillan para siempre.",
+    "username": "test",
+    "id": "46c2e61b8dd2b10e43d57c08a0b87b45ab0d1651137f44e3df6294a44f5636e1",
+    "last_modified": 1546947955681
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "El autobús tarda mucho.",
+    "username": "test",
+    "id": "5bea3ab80a40efbc46a496898f2b27a00de9728b7c49dbac4b1ab2c2ad561d3e",
+    "last_modified": 1546947955664
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Su brújula no señalaba el norte.",
+    "username": "test",
+    "id": "70e3c5a691c2f33abc6dba3fc1236b49cc1ff333e61f3241dce704f7d2bdca34",
+    "last_modified": 1546947954806
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "El médico se mudó a un pueblo del norte.",
+    "username": "test",
+    "id": "362edd57343dcc954d7bf5b592d96de0e4569f78f528fe3de9d7f95f81cb9310",
+    "last_modified": 1546947954787
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "La tasca de Telma siempre tenía parroquianos.",
+    "username": "test",
+    "id": "83a1830f30fbcb0cdea01f51d1d4a1761d1adffb86da573fe664ec43278eea22",
+    "last_modified": 1546947954770
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Su sueño era regentar una taberna.",
+    "username": "test",
+    "id": "4cdf80564c8db5939ea4ff1316cdf1573522e76a6cf88d9f900bd5b5ae4f46c6",
+    "last_modified": 1546947954753
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Manténgase detrás de la línea divisoria.",
+    "username": "test",
+    "id": "c0e1dc348605216fa2bb5c7aa9bf7111cab52bfeba27a3c4c5f8a4fb096cfb87",
+    "last_modified": 1546947954736
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Me gustan los trenes.",
+    "username": "test",
+    "id": "5bb1f369e3d424edc7c8581cf0cd950238fb949d36ac58c1c8a6bc6cab43c97b",
+    "last_modified": 1546947954719
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Se le consideraba el rey de los piratas.",
+    "username": "test",
+    "id": "c9e8128d7f6767c4cf8d24f758cb8df0bec31d64d2613ed21a2b10fab49f6e7b",
+    "last_modified": 1546947954703
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "En el zoo hay un tigre blanco.",
+    "username": "test",
+    "id": "7a45d02c98ffb78d6c7c47d47064d600195887d367c8aa9c1e5c6dcf7fc4f99b",
+    "last_modified": 1546947954687
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Aplique el producto directamente sobre la frente.",
+    "username": "test",
+    "id": "19d432e5366da9bb902e3bbf400ccec2182e3db7906cc6c1fe0358f05e0b91bb",
+    "last_modified": 1546947954669
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Logré una puntuación muy alta.",
+    "username": "test",
+    "id": "306985713e672b29de73f506802c199293a12d6d1ba138c99e388f5fbde626dd",
+    "last_modified": 1546947954651
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Conseguí esa carta tan rara.",
+    "username": "test",
+    "id": "d45ede16880e1b0435c7d5a122ffa1a0a93b9b4826c8268cdf23c7e8ecf84539",
+    "last_modified": 1546947954633
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Me encantan las velas aromáticas.",
+    "username": "test",
+    "id": "c4a14dab05ad3d79561e9d9f2903c798d0e00f0d64d950728d810fcce1e5e7aa",
+    "last_modified": 1546947954615
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Esto me recuerda a un puzle.",
+    "username": "test",
+    "id": "140094a76dac26c75af7df1839f39fb7ab947f69a35e99b9e0409a7d3e2db474",
+    "last_modified": 1546947954598
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Teníamos tantos planes.",
+    "username": "test",
+    "id": "0c6f6d95b770b0eebf42916963cc3c021a2ea4cc8947aa0b977197f4a7257247",
+    "last_modified": 1546947954579
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Hemos quedado en la torre del reloj.",
+    "username": "test",
+    "id": "6f6aaa72b2182a3f54b1a39d62acea43873fdad96a2702567a07d7ce560a6337",
+    "last_modified": 1546947954559
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "El anticiclón se prolongará hasta la semana que viene.",
+    "username": "test",
+    "id": "9be96f73021b38b1431e93718ba3a1a31ab4f89838de5455914b36ad156a19ec",
+    "last_modified": 1546947954540
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Hay alerta por nevadas.",
+    "username": "test",
+    "id": "7335b87e23a9e4020879aed324c4eec5efc123c07c0a5560c445117361179b02",
+    "last_modified": 1546947954522
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Hubo atasco en la carretera.",
+    "username": "test",
+    "id": "42c177001deb54a25a6639b345f7d996e7e564b2fc64e4b324bed3867bff8cd3",
+    "last_modified": 1546947954505
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Ganó el trofeo de la competición de verano.",
+    "username": "test",
+    "id": "9d2a66594a7a0723193ec9d0127f02f56a509f6ef8e04635f4424c1f4bb2568f",
+    "last_modified": 1546947954488
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Este helado es dulce y salado.",
+    "username": "test",
+    "id": "ddab092fe25fbf3af69c104491939b9b25cc445f1b8d2aee9cd374d3c209755e",
+    "last_modified": 1546947954470
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "Que se alce el telón.",
+    "username": "test",
+    "id": "63705b21264a1c940bcee7708080ddc600c13a73a166a54ff4e6c1d8c6c5cd6d",
+    "last_modified": 1546947954453
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "La función va a comenzar.",
+    "username": "test",
+    "id": "2c8493a7c55e929aa402998cd6b18e5e11a1dca8a3583ce82e79e3a7921a916a",
+    "last_modified": 1546947954432
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451386128",
+    "invalid": [],
+    "sentence": "A ese grupo de amigos les gusta comer helados por la tarde.",
+    "username": "test",
+    "id": "5b5fed3f679cd51b915a5b7f5aabd44adbd2b7e266f149c0281971fac448c71d",
+    "last_modified": 1546947954414
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Los youtubers están muy de moda ahora",
+    "username": "test",
+    "id": "cddde7013655e290c0fde884074a540d1aeb05d8a9bb01f13e151bff2f1619ee",
+    "last_modified": 1546947900760
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Pedro era un bailarín profesional.",
+    "username": "test",
+    "id": "58f2e313e9027a2bc1c7ad857e01e7eff108e5dcc862c3844aa291ff9ba0e261",
+    "last_modified": 1546947900742
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "El chico le había escrito todo tipo de poemas de amor.",
+    "username": "test",
+    "id": "43a1bff0b17355ba7dfed160335e83c42ef3a170e9ef45293e78a0012ba79b45",
+    "last_modified": 1546947900725
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Hay que tomar tres piezas de fruta al día.",
+    "username": "test",
+    "id": "e6dbfe7e29ddee82a08aef3bef41bf706e497266f1346bab84765d602a824991",
+    "last_modified": 1546947900709
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Esa salida de la carretera, estaba mal señalizada.",
+    "username": "test",
+    "id": "6d7afb4389fbb47e4ed3a31ee3a09e5c491b9ad148bbd913a276c7fa04b8a9f8",
+    "last_modified": 1546947900691
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "A quien madruga, dios le ayuda.",
+    "username": "test",
+    "id": "9a52730ac6338092467137664d27969be7c5f5583c16db13884ee3a31d0a86a5",
+    "last_modified": 1546947900670
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Se trabaja mejor en grupos pequeños.",
+    "username": "test",
+    "id": "3b3acd230b75b159221aedcad4b96f738ae9b203a6bd9f7f2f77928d6495bccc",
+    "last_modified": 1546947900653
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "No podemos pretender que no ha pasado nada.",
+    "username": "test",
+    "id": "cf99037a6742972d352d174710aee91a1e191d3b8f0b3a64fd4d65713c9a216b",
+    "last_modified": 1546947900636
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "En los malos momentos tienes que contar con tus amigos.",
+    "username": "test",
+    "id": "34429dfc8b648303022bdf76c163a947754ee97179bab5de1e5ff03ae7cd936d",
+    "last_modified": 1546947900619
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "El tsunami arrasó con toda la ciudad.",
+    "username": "test",
+    "id": "b79c219e6f9649c4ea2f26c76a3b4bea1e0a5325e5bc8f34b3b080bc8afe9ce8",
+    "last_modified": 1546947900600
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Es interesante todo lo que dice.",
+    "username": "test",
+    "id": "cf7c19c4f3410fbcee5a9bcf1fc02766fde89c02620de1512adc412bf21ed22e",
+    "last_modified": 1546947900582
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Fuimos al Museo del Prado para ver la exposición.",
+    "username": "test",
+    "id": "d2ac76ad8b5d561d83388b5e8a0780a0cce4758b52cc5b053f6044366f971c0c",
+    "last_modified": 1546947900564
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "El proyecto pintaba muy interesante.",
+    "username": "test",
+    "id": "de9eab256d5dcd68ac44f289c2aa8b6ebd10efa128fd819735787eb06b5efc51",
+    "last_modified": 1546947900545
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Uno de enero, dos de febrero, tres de marzo, cuatro de abril.",
+    "username": "test",
+    "id": "3e82e3ba82d540b1360305629a6a911c81d302c672591e463b2d4bcc75837bf9",
+    "last_modified": 1546947900529
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "En enero todo el mundo se apunta al gimnasio.",
+    "username": "test",
+    "id": "83beefaa768b48e2711ffab20c2af3b53232863034072ccc8f182a9684bdfdb1",
+    "last_modified": 1546947900512
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Es increíble lo bien que habla alemán.",
+    "username": "test",
+    "id": "613ad60947ccf58c1b1280c46de56e24d35bca9880bd0c5c151cc305d504edec",
+    "last_modified": 1546947900498
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Mínimo hay que comer tres veces al día.",
+    "username": "test",
+    "id": "01ff8ef301039de9c8350987074638815a386f6c68d919517f210f1ff48b8cc4",
+    "last_modified": 1546947900485
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Haciendo la maleta, siempre se me olvida algo.",
+    "username": "test",
+    "id": "2f5fed8fa8d0dca1e67b02ff679feb809cbca831d13f98fe87e8bc9acc595958",
+    "last_modified": 1546947900472
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "No nos va a dar tiempo a acabar el trabajo.",
+    "username": "test",
+    "id": "fb8dfe350111aa797efec9e761ee626ce50fe19a33c71ec100163b605805291d",
+    "last_modified": 1546947900459
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Tenemos que acabar el trabajo ya.",
+    "username": "test",
+    "id": "e8d81d73bca90c9ee6d6b578152cd24a3e033bae893083cbba90385b8ce33d86",
+    "last_modified": 1546947900445
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Maria dejó de tomar leche de vaca y pasó a leche de soja.",
+    "username": "test",
+    "id": "762c6050acaa7fb59dab996db47e5874bf1e114ba04913fdf2d93ff834fc7836",
+    "last_modified": 1546947900431
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Ser vegano o vegetariano son cosas distintas.",
+    "username": "test",
+    "id": "a6739e30224d857b8a01504c97abe9ec34c6813c4d5342295b376eff92853ed5",
+    "last_modified": 1546947899924
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "No tenemos más que lechuga para comer.",
+    "username": "test",
+    "id": "9a9882af55cd6243549623673d5bcc9f1a83c08d7e01ba41f64d7f6caa30ed46",
+    "last_modified": 1546947899907
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Hay que implementar mesas individuales también para zurdos.",
+    "username": "test",
+    "id": "3ab566868cf002d141042df9f62d79d496e4ed4742e2e4ae3884fa1ad90d271d",
+    "last_modified": 1546947899892
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La resaca del día siguiente fue enorme.",
+    "username": "test",
+    "id": "66e0cbc614b6b2fa3a392e6ba3d163035388ef7e67768f95cbb1bc341efea046",
+    "last_modified": 1546947899877
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Se fue de la discoteca porque no le gustaba la música.",
+    "username": "test",
+    "id": "245ace72c1a0300d9dfd5c90b2cd392de19c358144c35ba2f779ef63bf605b45",
+    "last_modified": 1546947899861
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Rosalía ha sido la artista revelación.",
+    "username": "test",
+    "id": "d94079dc5c37bdb011d5ce10334b4bdce9a2dcda0a2622a0d57fe68643a34455",
+    "last_modified": 1546947899845
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Pocas personas saben tejer.",
+    "username": "test",
+    "id": "b9d0fd53f50f925f2f71306995f4e751530c6ee02dbae8d083c3af9cac69a7ce",
+    "last_modified": 1546947899829
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La abuela se quedaba dormida mientras leía.",
+    "username": "test",
+    "id": "c60fe605f82ed87c4f778953b7713707c0de5f0a9e1996a99517ec4cd9611e23",
+    "last_modified": 1546947899813
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Se notaba la felicidad en el ambiente.",
+    "username": "test",
+    "id": "9449bb97940a3e53492e8c3fd658fda19b3a8b9e959de69000076c38d129a02e",
+    "last_modified": 1546947899797
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Las luces de navidad son muy bonitas.",
+    "username": "test",
+    "id": "65fa4c03bc48cf9b61ed36c8eb1aa5f6a527fd7219d757cb4832a07a2515b170",
+    "last_modified": 1546947899781
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "El ayuntamiento suele estar en el centro de la ciudad.",
+    "username": "test",
+    "id": "34ea61460031109447887c81099d7bc6a60130be3df57fa9ca8eabcca4ccde5e",
+    "last_modified": 1546947899765
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La alta contaminación se centra en el centro de la ciudad.",
+    "username": "test",
+    "id": "98d373cb247984664188707d634f0b1b947a6095f589e58e7f62aa08d440a314",
+    "last_modified": 1546947899749
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Maria decidió ser voluntaria estas navidades.",
+    "username": "test",
+    "id": "5775e91bc086f872654adb84d66d1da1ca4c260671a0442469f60e75fa7592ae",
+    "last_modified": 1546947899734
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Instagram es la aplicación más usada por los jóvenes.",
+    "username": "test",
+    "id": "aa58691ffeca4bcc0ca1df329d07c5af5392d6c9eaeb214d32cc6a3c8f1daa33",
+    "last_modified": 1546947899719
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Hay que tener en cuenta los derechos del trabajador.",
+    "username": "test",
+    "id": "867681f681657543ea7ef60776c15d1d1e5f8c17df5498a6ce544cf1ca43c92f",
+    "last_modified": 1546947899702
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Dediqué la mañana a limpiar los cristales.",
+    "username": "test",
+    "id": "e4c8014b2aa2a2cb74ddff256d23f3da541075515257ab405cdf83ee46e679ae",
+    "last_modified": 1546947899686
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La biblia es un libro muy grande.",
+    "username": "test",
+    "id": "50ffc760d89b547b34897ccb41978223d7ace3fcb50f301cd6a0fe88a181ede1",
+    "last_modified": 1546947899671
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "No tenemos más que mantenernos unidos.",
+    "username": "test",
+    "id": "55dbfd43e6c0f8d3699fdfa1c9d5db7ffac9e57c3b60fc1e407ec9d1a56883f7",
+    "last_modified": 1546947899655
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La música que más se escucha es del género reggaeton.",
+    "username": "test",
+    "id": "db3932cbdd5a68ddb461eafaae8532257a1820a7b47eda537521908536237079",
+    "last_modified": 1546947899640
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Los jóvenes viven conectados a Internet.",
+    "username": "test",
+    "id": "90281f4b08e40edc703efa673a8f0a31e680892ee64a115003cf7714d83e149d",
+    "last_modified": 1546947899624
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "La profesora puso muchos deberes al final de la clase.",
+    "username": "test",
+    "id": "d7c7b42b527c9bd3c2c30dfbb9a472ed01edbb3e9516c921117cdc133d44b2bc",
+    "last_modified": 1546947899609
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Dicen que la música calma a las fieras.",
+    "username": "test",
+    "id": "0ed4e74a56c4a117d2784ed40f499c48f0710b77a0cc1d47f7f3d168f90b4a3f",
+    "last_modified": 1546947899594
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-451129575",
+    "invalid": [],
+    "sentence": "Esos ladrones se llevaron todo tipo de aparatos electrónicos.",
+    "username": "test",
+    "id": "23ebba3f619c06c806ba123e81c47a40f1be0fbd5887da99fb66cb01a858bb6d",
+    "last_modified": 1546947899576
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Estaban contentos con los resultados del proyecto.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "3157e169c13b74ea73ba0b673a669a0bc8d68a8557ea6000dede21ed38e1574a",
+    "last_modified": 1546947190689
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Colaborar siempre en algún proyecto.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "901199c589027a152ae4ba88ca6e63504287cdb73b238e3e906fa7e767816a1b",
+    "last_modified": 1546947190677
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La Navidad es una fiesta religiosa.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "767eb55176789fcb8f851df5fc46b7e85ef5fe5864cb8d3caaba421ccef08668",
+    "last_modified": 1546947190665
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "No tenemos porqué aguantar tus insultos.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "6616722332350d39a11adf0cfb70a8e22831001670d553f58a261f3b2037d616",
+    "last_modified": 1546947190653
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "El respeto siempre tiene que ser mutuo.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "6be680a9d25c121869d58ff8e8ad6d53dbfe49b639798065095eb2136f8053de",
+    "last_modified": 1546947190642
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Estoy muy cansada.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "959effa2a26f20f327b588fef67bc097b36cf502a9c1a976a17b73700f8e5a3a",
+    "last_modified": 1546947168852
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Tengo que estudiar.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "32ab87259201d455154baab71a0d96ac73f24ad7496f0467b4ab2b423ea13a34",
+    "last_modified": 1546947168835
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Su cantante favorito iba a hacer un concierto.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "dcdbf3605ab3ca75d85d67ffcce390e9c64355175f127794af52c1d230bed65a",
+    "last_modified": 1546947151028
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "España tiene mucho encanto.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "fd2ff24b17c00fa09d50091be557747a650b7c4f6213ec4a7ec01b589c6ceb45",
+    "last_modified": 1546947151015
+  },
+  {
+    "valid": ["test"],
+    "source": "Myself",
+    "invalid": [],
+    "sentence": "Veamos qué tal se compota esta herramienta",
+    "username": "test",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "5b5f8d2e663fcccc241a3e79d327ea07406e7210cd09502d0330fb78196fad8c",
+    "last_modified": 1546947140340
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Todos los niños nacen artistas.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "3c8903e5dce33775a8a7ee45152d9208c609921343f4e933b2111b8793f8b975",
+    "last_modified": 1546619699303
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "El que quiere interesar a los demás tiene que provocarlos.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "0a6751212f8af32460183471ad4050f29d32534a9852c5b4de81bbdb9b42d0bb",
+    "last_modified": 1546619690045
+  },
+  {
+    "valid": ["test"],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La pluma es la lengua del alma.",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "6bc101547bb09a0624b248f0989b35fba4ab471d1fe40b1a81cc4c8535981d06",
+    "last_modified": 1546619680715
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Una imagen vale más que mil palabras.",
+    "id": "9eb238ff432b2b08a904cb32e721906d60376c92fd68694b30eb1298b749fe3a",
+    "last_modified": 1546451848429
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Hay canciones que nunca se olvidarán.",
+    "id": "3285a8dcc0dd96c64693562a0a52984dcb1d98758b7664d256486d2b647aa911",
+    "last_modified": 1546451848403
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La entrañable abuela abrazó con ternura a su nieta.",
+    "id": "5d678acb0dd7ff81e94d75e0e3590a5f77a3ba5f794b5bc663381733ebb24c94",
+    "last_modified": 1546451848380
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "El tomate frito era casero.",
+    "id": "50eb7b4911973eb9f9bea254b9a9592ca1b50b4397d4001cf25c35a7b4c58c0d",
+    "last_modified": 1546451848356
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La alergía hizo que la cara se le pusiese roja.",
+    "id": "d59e9d340bdfdbe33b2703f977a869534bfeaa0dfc88e2ecfe25d8d4f85bacd8",
+    "last_modified": 1546451848335
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Los gatos también son adorables.",
+    "id": "377b0113ba7e981f20ed384f83f86f46161f1a26b0efae802e10466c379cc6a1",
+    "last_modified": 1546451848312
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Los perros son los amigos más fieles del humano.",
+    "id": "0b54c3d0f153a0bbc746c0371602754b64911d3bb52d53afc2f3b684e7d4d6db",
+    "last_modified": 1546451848292
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "El perro había sido adoptado y era muy bueno.",
+    "id": "fdf595ebffe81108b740ca3cad8f6ede2a4e5d478894965101555c095e5ece0b",
+    "last_modified": 1546451848270
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La discoteca tenía unas normas de vestimenta.",
+    "id": "1666120299c463105213b1915faf8d12992149eaaca32607ff2f74a400953d39",
+    "last_modified": 1546451848249
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La fiesta se alargó bien entrada la noche.",
+    "id": "e6264d64eaeee5fe934b2309fa38517674d9aa5bea5694b1bead97c29ddcbecc",
+    "last_modified": 1546451848229
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Compramos el mejor vino.",
+    "id": "178cc3ce408a4165a23d1a807950e5d0b57f6511818ab1f9b2f18126b227a7be",
+    "last_modified": 1546451848208
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Tenemos muchas ganas de veros.",
+    "id": "f622c61e27cb2e79eca5c0c8b4a9dd77a3366a5856008013b53e3c18f81b135d",
+    "last_modified": 1546451848184
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Se puso el nuevo vestido que se compró en Zara.",
+    "id": "ac2ae428deae65d9f5b6a50084436f86eb3dc79d2d35fd749b8a3d9b3a652e6a",
+    "last_modified": 1546451848164
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La corrupción en su partido, hizo que perdiese votos.",
+    "id": "cb4277c3528172f1a4863477b0ad3470d9efebb03f1ad8f18bc184ac71c67ed6",
+    "last_modified": 1546451848145
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Tenemos que aprender a pensar por nosotros mismos.",
+    "id": "613e736c2a7a63d4d369d61e458e3f333377e7888c39869cf83cd63bb4db5647",
+    "last_modified": 1546451848126
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Estudiar de memoria es lo peor.",
+    "id": "83afd6f9147c82d168586bbb75bd425a9034a7a3ea65c369d0d791588c209697",
+    "last_modified": 1546451848103
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La niña decidió dejar atrás las muñecas, y jugar al fútbol.",
+    "id": "ec5bb37653cae1541f82597b68bdcb27e56686b2cad16dcfc5bbf5681b2c833e",
+    "last_modified": 1546451848077
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Pretendía sorprendernos, pero al final pasó lo contrario.",
+    "id": "120c4ba3b135b66a4decb929f61f4b0c90e3cc17fdda4f425da4c8f08c0953b2",
+    "last_modified": 1546451848059
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Tengo un tractor amarillo, que es lo que se lleva ahora.",
+    "id": "9e24d4c45d7931edbba649e4a0c7ce3fe1c2254c6c575589851f0b541420e8db",
+    "last_modified": 1546451848041
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Para hacer bien el amor hay que venir al sur.",
+    "id": "153fb2b90de5ee17a9f133e178372bc2d657202a7c1eef7ff28f7e99b6a86715",
+    "last_modified": 1546451847375
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "En España no sólo se habla español.",
+    "id": "dcfcb109a7eb5326d8f7537058eca434a271a806028dfbf3003078deccf56c1d",
+    "last_modified": 1546451847358
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La capital de España, es Madrid.",
+    "id": "75abfb2bbedbb647da05e8652d7537f897aa2a1c2fc7e0407c5fd9c49a4f7016",
+    "last_modified": 1546451847340
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Esta película es apta para todos los públicos.",
+    "id": "17842469df1d4a39aabb673ac3aad77fb39964ecc58542d067e5152c70b7bb4d",
+    "last_modified": 1546451847323
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "No puedes dejar que las pesadillas te hagan mella.",
+    "id": "9f2ccf2b606b76f0b7e17ed44d57a9bdd19e92f4cfc9dff73fab2ea8c4e110f5",
+    "last_modified": 1546451847307
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Hay veces que damos la mano, y nos cogen el brazo entero.",
+    "id": "91e08e8fce26ec627b943ab297d9d1477e3d833e4728c1e9bf56a80a807026d9",
+    "last_modified": 1546451847291
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "No sabía que ponerse, asi que se puso feliz.",
+    "id": "a4e3a21b63bde4f8869775ce2b78296c893bccb4ed4dd7c0c624c02669e060c0",
+    "last_modified": 1546451847272
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "No tenía claro sus objetivos.",
+    "id": "f4e09a5e01747e2f2938cc0a45f46e26ba4890c793b7928f2081a2072ce6534b",
+    "last_modified": 1546451847254
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Señores y señoras, bienvenidos a está nueva aventura.",
+    "id": "816d60ae2dfcb5f6bfcfba24e9ba25f855e5aa9eb1322b3d26fa3517c9fed4f7",
+    "last_modified": 1546451847236
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "¡Cuidado!",
+    "id": "59b649f40b3992622b55eb080bd86d7f72d953e7e469949716e2a4d889f72921",
+    "last_modified": 1546451847218
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Ten cuidado con las escaleras, están recién fregadas.",
+    "id": "9e0ae8347d0d757a65008a71d72a0a4f299f11c317b8611cdc648b22e5528334",
+    "last_modified": 1546451847200
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "La vida está llena de nuevas experiencias cada día.",
+    "id": "0cf44092400d652fbd3da5bab1e72f28ab950decd1e470cec3e4d2ef74fa4bb9",
+    "last_modified": 1546451847180
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Seamos realistas y hagamos lo imposible.",
+    "id": "43b073abaeced4a91545de52a5345570c59e4fdc354cbd0b8d9687bd270837eb",
+    "last_modified": 1546451847082
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Se necesitan dos años para aprender a hablar y sesenta para aprender a callar.",
+    "id": "6edfd1727a14dd351452a7353a4894bf2e026c7d7cf21917bbdb54d49a2adde9",
+    "last_modified": 1546451847064
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "¿Se pueden inventar verbos ?",
+    "id": "db02c822c2f244cb1479b54259da53d1e838b009737e9726995764b142bd046f",
+    "last_modified": 1546451847045
+  },
+  {
+    "valid": [],
+    "source": "https://github.com/mozilla/voice-web/issues/341#issuecomment-450003028",
+    "invalid": [],
+    "sentence": "Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente.",
+    "id": "95708293903a1dd9c0b08ee712158aa433f41dccdc123a78da1d09b8481e608d",
+    "last_modified": 1546451847026
+  },
+  {
+    "valid": ["test"],
+    "invalid": [],
+    "sentence": "Tu sentencia es de siete años",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "72525f3c1b7db82757353c8ce6f57f9a556be260050a6ec03a8b5f92adea9851",
+    "last_modified": 1546427145378
+  },
+  {
+    "valid": ["test2", "test"],
+    "invalid": [],
+    "sentence": "Esta frase será revisada",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "526e71cd1d0255f0b0270b0484d6445f5b8e984adc94e86f9e0e9c2bc6aa9e3c",
+    "last_modified": 1542196232087
+  },
+  {
+    "valid": ["test"],
+    "invalid": [],
+    "sentence": "no hablo espanol",
+    "Sentences_Meta_UserVote_test": true,
+    "id": "441fc0ae4d87287da7167f02a95830bcc7a1d6595ebd0b02fa3cac4af9b96aac",
+    "last_modified": 1542196222142
+  },
+  {
+    "valid": [],
+    "invalid": ["test", "test2"],
+    "sentence": "Esto es una frase de prueba.",
+    "Sentences_Meta_UserVote_test": false,
+    "Sentences_Meta_UserVote_test2": false,
+    "id": "65a1e792af1fee5223dcb064f438175369b8062e9bf02e7bea65698a67a295b0",
+    "last_modified": 1540210151571
+  },
+  {
+    "valid": ["test", "test2"],
+    "invalid": [],
+    "sentence": "Queremos ver si esta herramienta funciona",
+    "Sentences_Meta_UserVote_test": true,
+    "Sentences_Meta_UserVote_test2": true,
+    "id": "ef0a45edb780ebb7b8c6441542cd95489f226292244bf03e47c70d5d0a25b7e2",
+    "last_modified": 1540210151557
+  }
+]

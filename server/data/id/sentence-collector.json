@@ -1,0 +1,26 @@
+[
+  {
+    "valid": ["navta"],
+    "source": "self",
+    "invalid": [],
+    "sentence": "Nama saya Budi",
+    "username": "navta",
+    "createdAt": 1548130900848,
+    "Sentences_Meta_UserVote_navta": true,
+    "Sentences_Meta_UserVoteDate_navta": 1548132499542,
+    "id": "8785d824cbdb63bdd7c7f3d69f8fc9b69c376d92dd949bf700a47a91dbf32335",
+    "last_modified": 1548132498954
+  },
+  {
+    "valid": ["navta"],
+    "source": "self",
+    "invalid": [],
+    "sentence": "Nama saya Ibu Budi",
+    "username": "navta",
+    "createdAt": 1548130900848,
+    "Sentences_Meta_UserVote_navta": true,
+    "Sentences_Meta_UserVoteDate_navta": 1548132499542,
+    "id": "de98a5f22f4969c152dfb9089d4159c2a99a03ae1f52ebf6a09ff30ea04fdb69",
+    "last_modified": 1548132498938
+  }
+]
