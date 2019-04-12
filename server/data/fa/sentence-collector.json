@@ -1,0 +1,14 @@
+[
+  {
+    "valid": ["medise"],
+    "source": "myself",
+    "invalid": [],
+    "sentence": "چرا چرند میگی",
+    "username": "alza",
+    "createdAt": 1550567408813,
+    "Sentences_Meta_UserVote_medise": true,
+    "Sentences_Meta_UserVoteDate_medise": 1554982664624,
+    "id": "6eaed1d9e024b06083081dc7badb980540fb39627296be1da715be51a24acad0",
+    "last_modified": 1554982667489
+  }
+]
