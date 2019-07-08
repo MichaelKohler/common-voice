@@ -1,5 +1,159 @@
 [
   {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Het jy verelede jaar ook studeer?",
+    "username": "SlapStick",
+    "createdAt": 1560604715177,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "2e0f80b95e259496f4a02868c8085f6210caf038edf608f58944ce0792a101e9",
+    "last_modified": 1560604716320
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Weet jy hoe om te tik?",
+    "username": "SlapStick",
+    "createdAt": 1560604715176,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "c446d811833fc1c1c3e82a89e4f25b1ae1038abc4da9989d4aee085438e2b83c",
+    "last_modified": 1560604716187
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Vergewe maklik, dit keer dat jy suur raak.",
+    "username": "SlapStick",
+    "createdAt": 1560604715176,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "2844014dfa52078c4744e1f3c876885263140cfcfaa58c83ad154ae2cefc495f",
+    "last_modified": 1560604716090
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Vergeet van die verlede.",
+    "username": "SlapStick",
+    "createdAt": 1560604715176,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "0519bac17a164eafe88d0953933a4081ab90f9b9045b336dc9cede12953cbda4",
+    "last_modified": 1560604715963
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Daar bestaan nie iets soos 'n gratis maaltyd nie.",
+    "username": "SlapStick",
+    "createdAt": 1560604715175,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "4ac26baedbd185d133c7e2bfdf879df5cdda86d05365d0dafd9db3bc02838c34",
+    "last_modified": 1560604715837
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Ek het myself wit geskrik.",
+    "username": "SlapStick",
+    "createdAt": 1560604715175,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "ad2f4399cde53def178abd1f122734c3a44d4a635e45a87a0490c18cfd27232c",
+    "last_modified": 1560604715770
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Hou op jou naels kou!",
+    "username": "SlapStick",
+    "createdAt": 1560604715174,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "0e26259a9c4f5b3622081e23c6bce52df12192b8b4d0d1ccee56407c0f06d7b8",
+    "last_modified": 1560604715694
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Skaak is 'n uiters intellegente tydsverdruif.",
+    "username": "SlapStick",
+    "createdAt": 1560604508304,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "d847cb4fbda9daa1ec48d5236a2e45d35c342d3d72bad929b7a3c97b9e295226",
+    "last_modified": 1560604509777
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Daar is geen rede om jou nie te help nie.",
+    "username": "SlapStick",
+    "createdAt": 1560604508304,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "1b27297e3212330a339553a98839b126c955bd3ff58fa089fa027e1ad0a4d23f",
+    "last_modified": 1560604509720
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Kan ek jou vra vir hulp?",
+    "username": "SlapStick",
+    "createdAt": 1560604508304,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "072e18c368015e60ac1f19c5b8d52d4c88294261e1bd09e8fa1f0355fcb47e79",
+    "last_modified": 1560604509654
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Ek verlang reeds na die huis.",
+    "username": "SlapStick",
+    "createdAt": 1560604508304,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "3cc8887830d0b11a27d27d23cc7c28aa5a7dbd3d93861c57365f28e942630ab5",
+    "last_modified": 1560604509571
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Daar is 'n silwer randjie om elke wolk.",
+    "username": "SlapStick",
+    "createdAt": 1560604508303,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "2d7259a016021e9ac51d129f8e1327743f2c0fc44da53dacf2d5ac59301541aa",
+    "last_modified": 1560604509537
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Ek kou immers my potlood.",
+    "username": "SlapStick",
+    "createdAt": 1560604508303,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "9a4ff755f5d9e578efe95ebc5d28d0d691a512e729d2d05a4e96b5547a85a91b",
+    "last_modified": 1560604509497
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "Self written",
+    "invalid": [],
+    "sentence": "Ek woon al my lewe lank in Stellenbosch.",
+    "username": "SlapStick",
+    "createdAt": 1560604508302,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "c21294b59569a0995381bb9c88680406e9eb00ad0aa588be47d4472abd8a2c9c",
+    "last_modified": 1560604509394
+  },
+  {
     "valid": ["naudefj", "ouboet79", "SlapStick"],
     "source": "Made up by myself.",
     "invalid": [],
@@ -178,5 +332,104 @@
     "Sentences_Meta_UserVoteDate_SlapStick": 1560604307011,
     "id": "6b16bf3e3670ab587994cda941cf1035a8f9e5aba549c52306f670dbcb203228",
     "last_modified": 1560604307480
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "Hy sleep die sug van eeue mee, uit dieptes van die diepe see.",
+    "username": "SlapStick",
+    "createdAt": 1560604043127,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "2202ed30671c90ac42870d2f575b9b21b15262892cb55bd07d667cb0956398ac",
+    "last_modified": 1560604043753
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "Dit is die winterwind wat waai.",
+    "username": "SlapStick",
+    "createdAt": 1560604043127,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "62eae07fd388088ed76798eede8df2fdeda3f6c3d3526cc56bc1c44c4fbe5d96",
+    "last_modified": 1560604043716
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "Aan haar getrou soos aan sy kind en vrou.",
+    "username": "SlapStick",
+    "createdAt": 1560604043127,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "9c825452e4ed284ff3e7e8a3a4da79a789bfbd2a63081c9e490712ab11d867e6",
+    "last_modified": 1560604043662
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "Vas soos ’n berg van grou graniet op vaderlands-grond.",
+    "username": "SlapStick",
+    "createdAt": 1560604043126,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "102f7600efa124b879a7d1562fb13326034ec4653cb8fc26d473b65c478aeebc",
+    "last_modified": 1560604043604
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "En ’n wil wat so vas soos ’n klipsteen staan!",
+    "username": "SlapStick",
+    "createdAt": 1560603775404,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "c7c6a13a49146c6945e807ba3873be0bc17b71f2e520d996821fe14b136bce0b",
+    "last_modified": 1560603776741
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "'n Oog wat ’n bars kan kyk.",
+    "username": "SlapStick",
+    "createdAt": 1560603775404,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "97ad07c8cae35db98d35bd91d862e144edf0bbaf487c165e3eda85836a2e8791",
+    "last_modified": 1560603776691
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "’n Oog wat nie wyk nie.",
+    "username": "SlapStick",
+    "createdAt": 1560603775404,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "50a54401a5858e50bc3a3cae97c266ad95857b4cdfd9608d2391de48f24e510d",
+    "last_modified": 1560603776641
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "Ek hou van ’n arm wat ’n slag kan slaan.",
+    "username": "SlapStick",
+    "createdAt": 1560603775403,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "adf99715eab04a4680fcda0ad65e0bad98b60b218247ea68f3accde4b467a197",
+    "last_modified": 1560603776576
+  },
+  {
+    "valid": ["SlapStick"],
+    "source": "http://www.gutenberg.org/files/42302/42302-h/42302-h.htm",
+    "invalid": [],
+    "sentence": "Ek hou van ’n man wat sy man kan staan.",
+    "username": "SlapStick",
+    "createdAt": 1560603775403,
+    "Sentences_Meta_UserVote_SlapStick": true,
+    "id": "2e1b5a73e1cc2db8b1a28b43a33413bc9688f9931bb512df78398d62dc930fb7",
+    "last_modified": 1560603776505
   }
 ]
