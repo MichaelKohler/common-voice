@@ -1,5 +1,23 @@
 [
   {
+    "valid": ["Fjoerfoks"],
+    "source": "Self made",
+    "invalid": ["moyerhoff", "AijeKlaren"],
+    "approved": false,
+    "sentence": "Foegje in sin ta fan it publike domein út.",
+    "username": "Fjoerfoks",
+    "createdAt": 1549126427901,
+    "approvalDate": 1556893974216,
+    "Sentences_Meta_UserVote_Fjoerfoks": true,
+    "Sentences_Meta_UserVote_moyerhoff": false,
+    "Sentences_Meta_UserVote_AijeKlaren": false,
+    "Sentences_Meta_UserVoteDate_Fjoerfoks": 1549128642908,
+    "Sentences_Meta_UserVoteDate_moyerhoff": 1552320609756,
+    "Sentences_Meta_UserVoteDate_AijeKlaren": 1556893974216,
+    "id": "de16d270075107ae6c5108f02e9ee933ec01a38b5fce341c3b1d2b1b8a8b37a2",
+    "last_modified": 1556893976864
+  },
+  {
     "valid": ["Fjoerfoks", "AijeKlaren"],
     "source": "Self made",
     "invalid": ["moyerhoff"],
