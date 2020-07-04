@@ -7,6 +7,10 @@ A Google ezáltal folyamatosan nyomon tudja követni az Ubuntu felhasználókat 
 A Google úgyis indexeli a nyilvános csevegőszobákat.
 A Hold már majdnem kerekre dagadt.
 A Hortobágyi kilenclyukú híd Magyarország egyik nevezetessége.
+A Hókirálynő akkor felkapta és vitte, röpítette a nagy, fekete felhők közé.
+A Hókirálynő csak nézte és mosolygott.
+A Hókirálynő palotájában él a legkedvesebb pajtása.
+A Hókirálynő palotájának jeges és kopár pompáját úgy elfelejtették, mint egy lidérces álmot.
 A Kakoune egy Vim-szerű szövegszerkesztő, viszont kisebb az erőforrás-igénye.
 A Linux alapú rendszerek nyílt forráskódúak.
 A Linux használata nem is annyira bonyolult, mint amit a közhiedelemben terjesztenek róla.
@@ -48,6 +52,8 @@ A boglárka ragyogó szemmel nézett fel Gerdára.
 A boldogokról meg a szenvedőkről szól majd a dalom.
 A bolha ott ült a hercegkisasszony keze fején, onnan bámészkodott.
 A boltban marha jól nézett ki.
+A boszorkányféle sebesebben jár, mint az ember, s én nagyon örülök, hogy boszorkányfélének születtem.
+A boszorkánynak adtuk a hajunkat, hogy segítsen rajtad, s ne kelljen meghalnod napkeltekor!
 A botrányt valóban el kell kerülni.
 A bácsikája porszívógépen közlekedik.
 A bársonybundás szomszéd meg is látogatta őket.
@@ -57,6 +63,7 @@ A béka meg a giliszta sokkal fontosabb teremtmény!
 A békák azonban nem értették a szavát, vagy nem akarták megérteni.
 A bíróság a halál időpontját a körülmények mérlegelése alapján határozza meg.
 A börtönőr unokája kedves leányka volt, aranyszőke fürtű, vidám szemű, mosolygós szájú.
+A bútorokat szépen kifényesítették, a padlót felsúrolták, s kéthetenként kimosták a fehér függönyöket...
 A bűvös erő egyedül az egérkirály farkában van.
 A cella előtt ledobban az escorte utolsó lépése.
 A cet, a fiatal, erős cet, olyan mélyre ereszkedett, mint még soha.
@@ -102,14 +109,24 @@ A felszólító mondatok végére felkiáltójelet írjatok!
 A felügyelő most már valamivel lassabban és bizonytalanabbul kacsázott vissza.
 A felügyelőbizottság saját tagjai közül választ elnököt.
 A fenébe is, meggyőztél.
+A fia most se tudott okosabbat mondani.
+A fiatal hattyú azt se tudta, hová legyen a nagy megtiszteltetéstől.
+A fiatalasszony megszúrta a kezét.
 A fiatalember e pillanatban megfordult.
 A fiatalember lelépett a hágcsóról, mert látta, hogy itt nem tehet semmit.
 A finn asszony nem tékozolt el semmit.
 A finn asszony okosan hunyorogva hallgatta, nem szólt rá semmit.
 A fizika részlegnek kéne egy új csellista.
 A fiú az ércdisznót is viszontlátta köztük, olyan volt, mint a valóságban.
+A fiú mindenre válaszolt.
+A fiú szemét elkápráztatta a tündér ragyogás, a pompázó színek, a terem megpezsdülő élete.
+A fiú sírva fakadt, az asszony belerúgott, s a szegény gyermek hangosan feljajdult.
 A fiúcskának Kay volt a neve, a leánykának Gerda.
 A fiúk egyenest a százszorszép felé tartottak, aki remegve várta, mi következik.
+A fogadóné kisietett a postakocsi utasai elé; mezítláb volt, fésületlenül, piszkos ingvállban.
+A fogason ott függ fehér ruhája, azt is maga mosta, a háztetőn szárította.
+A fogoly sápadt volt, nagy szakállú és fénylő szemű.
+A fogoly verseket meg rajzokat karcolt a falra.
 A fordulónál kétfelé ágazott a lépcső.
 A francba! Semmi gond, nyugi van!
 A francba, a szemüvegem.
@@ -118,41 +135,80 @@ A francia idegenlégió büntetőszázadának egyetlen célja az elrettentés.
 A fákon, bokrokon zúzmara fehérlett, mintha illatos virágzuhatag lepte volna el az ágakat.
 A fényképész kigombolta a gallérját.
 A férfiak nem csak a szex miatt tesznek meg dolgokat a nőknek.
+A fészküket vesztett hollók, varjak rémült ricsaja még a vihar üvöltését is túlharsogta.
+A fóka már valamivel többet tudott, mint a delfin.
 A fórumon legalábbis azt írják, hogy előnyös.
+A följárat széles lépcsőjét rózsalugassá alakította valami ügyes kertész.
+A fülemüle tanyája még jó messze van.
+A fülnek meg az ízlésnek is kell ám valami!
+A fürdőszolga, amikor meglátta a felöltözött embert, rémülten felordított.
 A füstbomba nem gyerekjáték.
 A főnök azt mondja, vagy rendeltek, vagy pedig távoznotok kell.
 A főreferens?
+A gabonaföldeket, kaszálókat sűrű erdők övezték, s az erdők ölén mély vizű tavak csillogtak.
+A gabonaszárak alatt meleg, kényelmes odúja volt a mezeiegérnek, konyhája meg éléskamrája tele gabonával.
+A ganajtúró ezt elég nagy udvariatlanságnak érezte.
+A ganajtúró odavergődött hozzá, s bebújt a hajtásába.
 A gazdasági társaság tagjainak döntéshozó szerve a legfőbb szerv.
 A gengszter bódultan hátratántorodott.
 A gengszter nem volt rosszkedvű.
 A gengszterekkel!
 A gondnok tevékenységét a gyámhatóság felügyeli.
+A gondolat, most átröppent egy másik női szívbe.
 A gumiba ágyazott gépek tompán zakatoltak alattuk.
 A gumibotját is, mint fent.
+A gyerekek az ablakban álló üres kalitkába tették a pacsirtát.
+A gyerekeknek meghagyták, hogy várjanak nyugodtan, és vigyázzanak magukra.
 A gyorsulási versenyekre csak idióták gerjednek.
+A gólyaanya ottmaradt a fészekben.
+A hadnagy most kedvére heverhetne a jó meleg ágyában, s mégse teszi!
+A hadnagy úr ezt a verset írta a rózsaszínű papírlapra: Ha gazdag lennék!
 A hagymás bab jelentős gázfejlődést generál.
+A hajadonok megint vihogni kezdtek; most azért, mert zavarban voltak.
+A hajdani boldog len minden egyes papírlapját rádobták a tűzre.
+A hajdani házalót meg a hajdani libapásztorlányt ábrázolta a két festmény, a bárócsalád őseit.
+A hajdani tó most kilépett a monda világából, és megmutatta magát a holdfényben.
 A hajolaj egy nagyon dallamos magyar szó.
 A hajó alig másfél méternyire a mólótól libegett a békés, tükörsima vízen.
 A hajó lassan elindult.
 A hajó lassan, békésen ingott, mint valami óriási bölcső.
+A hajóim jég közé fagytak, de a szobámban jó meleg van: Kalmár vagyok.
+A hajósinas csak örvénylő fehér tajtékot látott a víz színén.
+A halfarkadat, legszebb ékességedet rútnak tartják odafönn, mert nem tudják, mi a szép.
 A hallgatóságon határozottan lincselő hangulat vett erőt.
 A halált is.
 A hamisított pálinkától.
 A hangulat tehát békés volt.
+A harmadik dió kicsi volt és fekete.
 A harmadik féltől származó sütiket is blokkolja a Privacy Possum kiegészítő.
+A harmadik napon egy fiatal legényke érkezett a palota elé.
+A hattyúk nyakán aranyabroncs ragyogott, fejükön kékes fényű csillag tündökölt.
 A hatvanhármas kihallgatásra!
 A határozathozatal szótöbbséggel történik.
+A hely is szűk volt, mozdulni is alig tudott a katona.
 A helyiség újra megelevenedett.
 A helyzet a következő.
+A herningi öreg kocsmáros nemsokára meghalt, s hamarosan követte a felesége is.
 A holtnak nyilvánított személyt az ellenkező bizonyításáig halottnak kell tekinteni.
 A humorom ellen eddig senkinek sem volt kifogása.
 A háború elkezdődött, ribanc.
+A háborúba!
+A három lány hangos jajszóval siratta anyját; a kastély szolganépe sóhajtozott, s szemét törölgette.
+A hátán bornyú, kard az oldalán, mert háborúból igyekezett hazafelé.
 A házasságkötéssel megszerzett nagykorúságot a házasság megszűnése nem érinti.
 A házasságot könnyű volt érvényteleníteni.
+A házban a kandúr volt az úr, a tyúk pedig a gazdasszony.
+A házigazda csak annyit tudott, hogy a város legelső gyümölcskereskedőjétől vették.
+A házitanító le is tört egy ágat.
+A háznép csak reggel vette észre a kis jövevényt.
+A hóember egész álló nap sóvárogva bámult be az ablakon.
 A hóhér az, aki szeret téged!
 A hóhér is!
 A hóhéré!
 A húgom is a szakértője volt a lehetetlen dolgoknak.
+A húszas fészkelődött, és megcsendült örömében, amikor visszakerült az erszénybe.
+A jeges hideg nyomban figyelmeztette rá.
+A jegyesek nagyon megijedtek, és besurrantak az ablakmélyedésben álló szekrénykébe.
 A jel megváltozott.
 A jelek és szimbólumok tanulmánya.
 A jogi személy egyesülésére és szétválására az átalakulásra vonatkozó szabályokat megfelelően alkalmazni kell.
@@ -162,12 +218,31 @@ A jogi személy törvényes képviseletét a vezető tisztségviselő látja el.
 A jogképesség a halállal szűnik meg.
 A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg.
 A jogképességet korlátozó jognyilatkozat semmis.
+A jó barátnők testi és lelki kinövéseinek pontos másolatait őrizte ez a női szív.
 A jókedve egyenesen lebilincselő.
 A jövőre nézve azonban figyelmeztetem, hogy nem fog még egyszer sikerülni.
+A kacsa lerándult kicsinyeivel a vizesárok partjára.
+A kacsák hátráltak, és hápogva taszigálták egymást.
+A kakas katonásan lépkedett az élükön.
+A kalitkád felső ajtaját nyitva felejtették.
 A kalózok némán álltak a fedélközben.
 A kanapé jó lesz.
 A kapilláris töltési idő kevesebb, mint két másodperc.
+A kapujához vezető híd mellett öreg fűzfa borult a zizegő sás fölé.
+A katona erősen vágyott rá, hogy a királykisasszonyt viszontláthassa.
 A katonai ügyészségen őrizetbe vették.
+A kelkáposzta éppen azt szereti!
+A kemény hidegben egy szegény kislány járta a sötétedő utcákat, hajadonfőtt és mezítláb.
+A kemény héját, a kötését, otthagytam.
+A kerekek veszett iramban pörögtek a belsejében, s utána csönd lett.
+A keresztútnál szembejött vele egy ember, jókora ludat vitt a hóna alatt.
+A kert túlsó fele is hozzátartozik, de még a pap földje is.
+A kert végébe vitték, a nagy tóhoz, ott beleültették egy bőreszakadt, ócska facipőbe.
+A kerten túl, a bokrosban ijedten rebbentek szét közeledtére az apró madarak.
+A kertész hamarosan meghozta az írást.
+A kertész jól ismerte a kereskedőt, éppen annak szokta eladni az uraság felesleges gyümölcsét.
+A kertész kisfia járkált ott a barátjával; amikor a ganajtúrót észrevették, elhatározták, hogy meghajóztatják.
+A kertész nyomban ráismert.
 A kezdő Linuxosok nem ismerik fel a nyílt forráskódú szoftverek használatának fontosságát.
 A kis csónak valósággal repült a vízen.
 A kiskorú a házasságkötéssel nagykorúvá válik.
@@ -176,8 +251,15 @@ A kocsmáros szerint az a recept, hogy bent maradjon a kés.
 A kocsmáros ért ehhez, mert itt már öltek orvost is.
 A korlátolt felelősségű társaság legfőbb szerve a taggyűlés.
 A kovácsműhely előtt elordította magát.
+A kádármester hordóját a női piperebolt ajtaja fölé akasztotta a furfangos szél.
+A kép olyan valóságos volt és olyan eleven, hogy mindenkit elragadott.
 A képzeletbeli barátnője szakított vele.
 A késemért jöttem!
+A kést is magad mellé teszed, ha lefekszel?
+A késői járókelő megrémült: megölte a baktert.
+A két ember csodálkozva bámult rá.
+A két fiú nagyon szép, előkelően berendezett szobába vitte, egy mosolygós kövér hölgy elé.
+A két jó barát továbbment, s a kisvarangy megmenekült a spirituszhaláltól.
 A kínaiak ellepték a partot, mindig takarták a Kis Hableányt.
 A költségszámla kézről-kézre járt, most már mindenki nevetett és a zsebe felé kapkodott.
 A könyvesboltban rám dumáltak egy vásárlói kupont.
@@ -332,13 +414,22 @@ Adjon isten, anyjuk!
 Adjon isten, vitéz uram!
 Adják vissza!
 Adjátok tovább!
+Ahelyett, hogy imádságos könyvet olvasgatna, most is boszorkányhálóját szövögeti!
 Ahhoz képest, hogy most közösültél, baromi ideges vagy.
 Ahhoz, hogy egy weboldal megfeleljen a mai követelményeknek, a következőket kell tudnia:
+Ahogy az erdőbe ért, hamarosan rásötétedett.
+Ahogy az írnok végiggondolta ezt és egész csodálatos átváltozását, elmosolyodott: Álom ez, álom!
+Ahogy langyosodott az idő, úgy rokkant, úgy soványodott a szegény hóember.
+Ahogy ment, ment, egyszer csak egy vén boszorkánnyal találkozott az úton.
+Ahogy ott tűnődött, két fiú lépett ki a kertkapun.
 Ahogy ott állt a pénztárfülke előtt, felemelt keze időnként hozzáért valami hűvös, sima tárgyhoz.
+Ahogy tetszik!
 Ahol akarod, a bolond választ.
+Ahol faggyúgyertyán táncol az egérnép?
 Ahol megjelent, ott veszedelmes gengszter létére okvetlenül vereséget szenvedett.
 Ahonnan ő származik, ezért halál jár.
 Akar még tudni valamit?
+Akaratlan kinyúlt a mellette bólogató virág után, és letépte: egyszerű kis százszorszép volt.
 Akarok neked mutatni valamit.
 Akarsz egy idegcsípést?
 Aki cselekvőképes, maga köthet szerződést vagy tehet más jognyilatkozatot.
@@ -378,6 +469,9 @@ Akkor te a mangánt keresed.
 Akkor van baj.
 Akkor én nem vagyok ember, és szerintem ez jó dolog.
 Akkor úgy is kell válaszolnunk.
+Akár az üvegcsengettyű!
+Akár egy szép, kihizlalt bárány!
+Akárcsak ez a korhadt láda, amelybe ültették.
 Alapból nem lehetne minden mondatot felhasználni.
 Alig várom, hogy együtt dolgozzunk a szalonnán.
 Alig értem a mólóra, amikor rettenetes lövöldözés és ordítozás hallatszott.
@@ -3172,6 +3266,8 @@ Zuhany, ing, cipő és indulás.
 akkor porig kell égetnem, és minden megoldódik.
 jön a kocsmáros, mondd, hogy elmentem járni egyet ide a közelbe.
 Ábrázata kissé megnyúlt, amikor ismét leeresztette.
+Ágai hegyére vagy száz piros, kék, fehér gyertyát erősítettek.
+Áhítat fogta el, térdre akart borulni, de röpülnie kellett tovább, a harmadik szívbe.
 Általában ez a kifejezés illik rá a legjobban.
 Ám nem tehetett semmit.
 Átalakulás esetén a jogi személy létesítésére vonatkozó szabályokat megfelelően alkalmazni kell.
